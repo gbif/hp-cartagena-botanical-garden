@@ -1,27 +1,29 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
-height: 90vh
+title: Jardín Botánico Guillermo Piñeres
+description: A sólo 30 minutos del centro de Cartagena se encuentra una de las atracciones ecológicas más importantes e interesantes de la región del Caribe.
+background:  /assets/images/Carrusel-jardin.jpg
+imageLicense: Image description and license should go here
+height: 70vh
 cta:
-  - text: Institutions
-    href: /institution/search
-    isPrimary: true
   - text: Specimens
     href: /specimen/search
-  - text: About
-    href: /about
+    isPrimary: true
+  - text: Collections
+    href: /collections
+navbar:
+    color: transparent
+    hasWhiteText: true
+    floating: true
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
-  - type: split
-    data: examples.herbariumImageExample
   - type: features
-    data: examples.couldBeAnyName
+    data: home.collectionsPreview
+  - type: split
+    data: home.polarBear
+  - type: features
+    data: home.specimens
 permalink: /
 ---
 

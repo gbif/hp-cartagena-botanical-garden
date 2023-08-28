@@ -2,16 +2,10 @@
 
 - text: About
   href: /about
-# - text: Occurrences
-#   href: /occurrence/search
-- text: Data
-  menu: 
-  - text: Occurrences
-    href: /occurrence/search
-  - text: Institutions
-    href: /institution/search
-  - text: Collections
-    href: /collection/search
+- text: Specimens
+  href: /specimen/search
+- text: Collections
+  href: /collections
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
