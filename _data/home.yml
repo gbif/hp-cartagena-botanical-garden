@@ -37,8 +37,8 @@ polarBear:
   imageLicense: |
     Photo by <a href="https://unsplash.com/@jonasdenil?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonas Denil</a> on <a href="https://unsplash.com/photos/vHwWmuWgoRw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   cta:
-  - text: See all specimens
-    href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=4342
+  - text: How to visit
+    href: /about
     isPrimary: true
 
 
@@ -51,12 +51,12 @@ specimens:
   - title: Platymiscium Vogel
     description: 
     background: /assets/images/placeholders/specimen_placeholder.jpg
-    href: /occurrence/search?entity=4138996336
+    href: /specimen/search?entity=4138996336
   - title: <em>Faramea</em> Aubl.
     description: 
     background: /assets/images/placeholders/specimen_placeholder.jpg
-    href: /occurrence/search?entity=4138996357
+    href: /specimen/search?entity=4138996357
   - title: <em>Cynophalla sessilis</em> (Banks ex DC.) J.Presl
     description: 
     background: /assets/images/placeholders/specimen_placeholder.jpg
-    href: /occurrence/search?entity=4138996383
+    href: /specimen/search?entity=4138996383
