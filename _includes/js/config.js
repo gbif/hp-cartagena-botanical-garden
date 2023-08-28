@@ -16,7 +16,7 @@ var siteConfig = {
     occurrenceSearch: {
       // The route you are currently using for occurrence search. The language prefix will be added automatically
       // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      route: '/specimen/search'
+      route: '/specimen/search',
     },
     collectionKey: {
       route: '/collection/:key',
@@ -32,10 +32,11 @@ var siteConfig = {
   },
   occurrence: {
     mapSettings: {
-      lat: 60,
-      lng: -100,
-      zoom: 4.9115440763665068
+      lat: 4.359262324914326,
+      lng: -78.55825586583158,
+      zoom: 4.55655220372271
     },
+    defaultTableColumns: ['features', 'country', 'coordinates', 'year', 'catalogNumber', 'recordedBy', 'identifiedBy'], // the first column will always be scientificName, that cannot be changed
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
     rootPredicate: { type: 'equals', key: 'publishingOrg', value: '698acf43-05cd-4b45-8107-7c666d87f77c' },
@@ -44,7 +45,7 @@ var siteConfig = {
   },
   availableCatalogues: ['OCCURRENCE'],
   maps: {
-    // locale: 'ja',
+    locale: 'es',
     defaultProjection: 'MERCATOR',
     defaultMapStyle: 'BRIGHT',
     mapStyles: {
