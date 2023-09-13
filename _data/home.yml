@@ -8,7 +8,7 @@ collectionsPreview:
     isPrimary: true
   features: 
   - title: Fungi
-    description: Example of custom made collection page. This approach requires a bit more work but is more flexible.
+    description: Trial 1 to see if changes upload to server. Example of custom made collection page. This approach requires a bit more work but is more flexible.
     background: /assets/images/placeholders/zoltan-tasi-YIKYquFdVIo-unsplash.jpg
     imageLicense: |
       Photo by <a href="https://unsplash.com/@zoltantasi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zoltan Tasi</a> on <a href="https://unsplash.com/photos/YIKYquFdVIo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
