@@ -36,7 +36,7 @@ var siteConfig = {
       lng: -78.55825586583158,
       zoom: 4.55655220372271
     },
-    defaultTableColumns: ['features', 'country', 'coordinates', 'year', 'catalogNumber', 'recordedBy', 'identifiedBy'], // the first column will always be scientificName, that cannot be changed
+    availableTableColumns: ['features', 'country', 'coordinates', 'year', 'catalogNumber', 'recordedBy', 'identifiedBy'], // the first column will always be scientificName, that cannot be changed
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
     rootPredicate: { type: 'equals', key: 'publishingOrg', value: '698acf43-05cd-4b45-8107-7c666d87f77c' },
