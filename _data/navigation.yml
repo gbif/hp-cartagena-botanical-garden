@@ -9,7 +9,7 @@
 - text: The Garden
   menu: # Dropdown menu (one level deep only)
   - text: Flora
-    href: /_posts/Flora/
+    href: /Flora/
   - text: Complex
     href: /example-pages/complex
 - text: Links
