@@ -7,7 +7,7 @@
 - text: Data
   menu: 
   - text: Specimens
-    href:/specimen/search
+    href: /specimen/search
   - text: Collections
     href: /collections
 - text: The Garden
