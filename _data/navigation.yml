@@ -1,8 +1,8 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Our Herbarium
+- text: Herbarium
   href: /our_herbarium/  
-- text: The Garden
+- text: Data
   menu:
   - text: Specimens
   href: /specimen/search
