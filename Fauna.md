@@ -1,5 +1,5 @@
 ---
-layout: heroImage 
+layout: post 
 title: Fauna
 height: 70vh
 ---
