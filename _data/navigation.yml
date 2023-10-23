@@ -1,7 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
-  href: /about
+- text: Our Herbarium
+  href: https://cartagena-botanical-garden.hp.gbif-staging.org/our_herbarium/
 - text: Specimens
   href: /specimen/search
 - text: Collections
