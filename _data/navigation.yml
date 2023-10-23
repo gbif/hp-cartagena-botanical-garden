@@ -1,15 +1,15 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Our Herbarium
-  href: https://cartagena-botanical-garden.hp.gbif-staging.org/our_herbarium/
+  href: _posts/our_herbarium/
 - text: Specimens
   href: /specimen/search
 - text: Collections
   href: /collections
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
-  - text: Simple
-    href: /example-pages/simple
+  - text: Flora
+    href: _posts/Flora/
   - text: Complex
     href: /example-pages/complex
 - text: Links
