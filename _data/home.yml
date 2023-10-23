@@ -26,12 +26,15 @@ collectionsPreview:
       Photo by <a href="https://unsplash.com/@blooddrainer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anton Atanasov</a> on <a href="https://unsplash.com/photos/O3E7W5O1YdM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
 
-
 polarBear:
   reverse: false
   title: Visit the garden
   description: |      # required
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales, lacus dignissim egestas venenatis, augue nisl consequat ante, eget rutrum ex erat in sapien. Aliquam elementum massa ac lacinia vulputate. Cras sagittis nisi vel sem tincidunt, id pharetra velit ultrices. Quisque lobortis accumsan auctor. Praesent ac neque id tortor accumsan vestibulum. Etiam vitae orci accumsan massa semper fermentum a at leo. Donec ut quam facilisis, blandit odio quis, aliquam felis.
+    Opening hours 8:00 a.m. to 4:00 p.m. We are open 6 days a week, including weekends and holidays. We are closed on the first business day of the week. 
+    We offer Guided tours Bird watching Special packages for groups (schools, universities, companies, tourists…) 
+    Two auditoriums with capacity for 50 and 20 people. Café and Restaurant
+    How to arrive?
+    We are located in the Matute sector of the municipality of Turbaco, Bolivar (Colombia), km 9 of the I-90 highway. 30 minutes by road from downtown Cartagena de Indias.
   # img required
   background: /assets/images/placeholders/jonas-denil-vHwWmuWgoRw-unsplash.jpg
   imageLicense: |
