@@ -1,13 +1,15 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Herbarium
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Our Herbarium
   href: /our_herbarium/  
 - text: Data
-  menu:
+  menu: 
   - text: Specimens
-  href: /specimen/search
+    href:/specimen/search
   - text: Collections
-  href: /collections
+    href: /collections
 - text: The Garden
   menu: # Dropdown menu (one level deep only)
   - text: Flora
