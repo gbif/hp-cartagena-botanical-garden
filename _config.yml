@@ -49,7 +49,7 @@ algae:
   rootLang: es
   # latestPostLimit: 2
   # logo: /assets/images/placeholders/logo.png  # Logo in navbar, will be displayed with 28px height
-  logo: assets/images/LogoJBGP-big.png?size=100%
+  logo: assets/images/LogoJBGP.svg
   logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
