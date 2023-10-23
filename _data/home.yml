@@ -1,4 +1,4 @@
-The Garden:
+vision:
   reverse: true
   title: The Garden
   description: |      # required
@@ -8,7 +8,7 @@ The Garden:
   # img required
   background: /assets/images/Picture3-JBGP.jpg
 
-Mision:
+strategicObjectives:
   reverse: true
   title: The Garden
   description: |      # required
@@ -19,7 +19,7 @@ Mision:
   # img required
   background: /assets/images/Picture3-JBGP.jpg
 
-Visit us:
+polarBear:
   reverse: false
   title: Visit the garden
   description: |      # required
