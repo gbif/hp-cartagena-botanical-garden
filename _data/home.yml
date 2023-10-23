@@ -3,9 +3,10 @@ TheGarden:
   title: The Garden
   description: |      # required
       Just 30 minutes from Cartagena’s downtown lies one of the most important and interesting ecological attractions of the Caribbean region. The Botanical Garden of Cartagena “Guillermo Piñeres” houses a collection of more than 300 plant species of the Colombian tropical dry forest and additional weird and wonderful ornamental plants from other tropical regions of the world. It also includes one of the last remaining virgin native forests in the region and is thus an important resource for the restoration of the tropical dry forest.
+  background: /assets/images/Picture2-JBGP.jpeg
 Mission:
   reverse: true
-  title: The Garden
+  title: Mission
   description: |      # required
    Our mission is to educate, investigate and preserve the Colombian Caribbean flora, fauna and funga. We aim to provide responsibly sourced botanical material for reintroduction and reforestation practices, to educate about the diversity and peculiarity of the Caribbean dry forests, and maintain a reference collection of herbarium specimens.
   background: /assets/images/Picture3-JBGP.jpeg
