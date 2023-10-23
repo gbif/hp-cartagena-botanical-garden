@@ -3,8 +3,7 @@ lang-ref: home
 layout: home
 title: Jardín Botánico Guillermo Piñeres
 description: A sólo 30 minutos del centro de Cartagena se encuentra una de las atracciones ecológicas más importantes e interesantes de la región del Caribe.
-background:  /assets/images/Carrusel-jardin.jpg
-imageLicense: Image description and license should go here
+background:  /assets/images/Picture1-JBGP.jpeg
 height: 70vh
 cta:
   - text: Specimens
@@ -13,8 +12,8 @@ cta:
   - text: Collections
     href: /collections
 navbar:
-    color: transparent
-    hasWhiteText: true
+    color: white
+    hasWhiteText: false
     floating: true
 composition:
   - type: heroImage # the block type
