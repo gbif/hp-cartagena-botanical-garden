@@ -3,7 +3,7 @@ vision:
   title: The Garden
   description: |      # required
       Just 30 minutes from Cartagena’s downtown lies one of the most important and interesting ecological attractions of the Caribbean region. The Botanical Garden of Cartagena “Guillermo Piñeres” houses a collection of more than 300 plant species of the Colombian tropical dry forest and additional weird and wonderful ornamental plants from other tropical regions of the world. It also includes one of the last remaining virgin native forests in the region and is thus an important resource for the restoration of the tropical dry forest.We count with 2 km of trails that cross the special collections of the Botanical Garden: the Orchidarium, Palmetum, Jacquin Garden, Arboretum, Serophytic Garden, Evolutionary Garden, among others. Furthermore, unique in the region, a natural spring provides a source of clean fresh water that runs throughout the year. This refreshing spring cascades through the forest and garden, feeding numerous plants, fungi and animals. Come and enjoy our splendid flowers, birds, monkeys and butterflies, and be amazed by giant ancient trees and strangling lianas. Besides, during the rainy season of the year, an amazing diversity of mushrooms with incredible shapes and colors emerge from the forest. This Botanical Garden is an ideal place to meet and experience the fauna, flora and funga of the Colombian Caribbean!
-  background: /assets/images/Picture3-JBGP.jpg
+  background: /assets/images/Picture3-JBGP.jpeg
 
 strategicObjectives:
   reverse: false
@@ -11,7 +11,7 @@ strategicObjectives:
   description: |      # required
    Our mission is to educate, investigate and preserve the Colombian Caribbean flora, fauna and funga. We aim to provide responsibly sourced botanical material for reintroduction and reforestation practices, to educate about the diversity and peculiarity of the Caribbean dry forests, and maintain a reference collection of herbarium specimens.
    We also host graduate students to do projects on the local flora, fauna and funga, they have access to our extensive library on Neotropical flora, herbarium collection, research plant nursery, among others.
-  background: /assets/images/Picture3-JBGP.jpg
+  background: /assets/images/Picture3-JBGP.jpeg
 
 polarBear:
   reverse: false
