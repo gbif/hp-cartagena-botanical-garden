@@ -1,5 +1,5 @@
 ---
-layout: post # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
+layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Herbarium
 description: The most important plant collection in the Colombian Caribbean region
 background: /assets/images/HerbariumJBGP1.jpg
