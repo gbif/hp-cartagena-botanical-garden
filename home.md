@@ -10,11 +10,11 @@ navbar:
     floating: true
 composition:
   - type: heroImage
-  - type: split
+  - type: content
     data: home.TheGarden
-  - type: split
+  - type: content
     data: home.Mission
-  - type: split
+  - type: content
     data: home.polarBear
   - type: features
     data: home.specimens
