@@ -5,13 +5,12 @@
 columns:  
   - name: Contact
     description: | # Can be Markdown
-      Address
-      * Sector Matute km 9 Autopista I-90 (Cartagena–Turbaco)
-      * Turbaco, Bolívar, 131007
-      * Colombia
+      * Sector Matute km 9 Autopista I-90
+      * Bolívar, Colombia
+      * [The gardens website](https://www.jbgp.org.co/)  
+      * [Mail us](mailto:horticultura@jbgp.org.co)   
     connectIcons: false
-  - name:
-  - name:
+  - description: |
 text: © {{ 2015 Jardín Botánico de Cartagena “Guillermo Piñeres” }}
   # EXAMPLE
   #- name: Group name
