@@ -1,10 +1,7 @@
 ---
 layout: post # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Flora
-description: This page is using a simple predefined layout with an image, a title and some body text
-background: /assets/images/FloraHeaderJBGP.jpg
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+background: /assets/images/FloraHeaderJBGP.jpeg
 height: 70vh
 ---
 
@@ -24,6 +21,6 @@ Macondo, *Cavanillesia platanifolia*, is the name of a magnificent tree, with a 
 
 In several places in the garden you may notice the green striped bark of the swollen trunks of *Pseudobombax septenatus*. This member of Malvaceae has large white flowers in the dry season, which open with a popping sound during the night. The white flowers with their many stamens are all fallen by mid-day, littering the ground with white pompons. In the same family is Sterculia apetala, a giant tree that drops it reddish five-lobed leaves, covering the forest floor, giving it a coppery appearance. The fruits are beautiful boat-shaped pods with large black seeds inside, but be careful when you pick these up, as they are covered with irritating hairs inside.
 
-*Muntingia calabura, or jamfruit*, is a species that was difficult to place on morphological grounds. It has white flowers that resemble a blackberry, but the leaves are reminiscent of a mallow. As a result, it was placed in a variety of families, such as Malvaceae, Rosaceae and Elaeocarpaceae. It is now placed in the isolated family Muntingiaceae on the basis of DNA analysis. It has deliciously sweet fruit that has a fragrance and taste that somewhat resembles cotton candy. They can be eaten fresh or made into jam and in addition the leaves have medicinal, anti-inflammatory properties. As it thrives in poor soils, it is a great plant for gardens and to prevent erosion in degraded areas. We are currently testing how easy it is to cultivate from its tiny, dust-like seeds.
+*Muntingia calabura*, or jamfruit, is a species that was difficult to place on morphological grounds. It has white flowers that resemble a blackberry, but the leaves are reminiscent of a mallow. As a result, it was placed in a variety of families, such as Malvaceae, Rosaceae and Elaeocarpaceae. It is now placed in the isolated family Muntingiaceae on the basis of DNA analysis. It has deliciously sweet fruit that has a fragrance and taste that somewhat resembles cotton candy. They can be eaten fresh or made into jam and in addition the leaves have medicinal, anti-inflammatory properties. As it thrives in poor soils, it is a great plant for gardens and to prevent erosion in degraded areas. We are currently testing how easy it is to cultivate from its tiny, dust-like seeds.
 
 Our giant pipe vine, *Aristolochia grandiflora*, hails from Central America and has spectacular, but foul-smelling flowers. These are curved, open like a trumpet, with a blackish-brown center and have a long pendent tip. The scent attracts flies, which are held inside the flower until the stigmas have been pollinated. The flower takes well care of these insects as they are fed with rich nectar. Once pollen is received the stamens ripen and cover the flies in pollen so that they can visit another flower. In the garden, it grows besides the toilet block, but do not confuse the scent!
