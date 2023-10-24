@@ -1,13 +1,12 @@
-title: "type: features"
+title: "Guides"
 description: |
-  See [`_data/compose/features.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/features.yml) for the content structure.
+  
 features:
-  - preTitle: News  # optional
-    title: Abundantly light years # required
+  - title: Abundantly light years # required
     description: |      # required
-      Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+      Species Guide of Flora and Fauna of Cienaga de la Virgen
     # img required
-    background: /assets/img/Haeckel_Caulerpa_racemosa.jpeg
+    background: /assets/images/Guide1-JBGP.jpeg
     href: /about
     categories: [cat, dog]
   - preTitle: News  # optional
