@@ -3,7 +3,8 @@ lang-ref: home
 layout: home
 title: Jardín Botánico Guillermo Piñeres
 background:  /assets/images/Picture1-JBGP.jpeg
-height: 50vh
+description: The most important plant collection of the Colombian Caribbean.
+height: 70vh
 navbar:
     color: white
     hasWhiteText: false
