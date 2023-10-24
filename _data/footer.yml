@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: |
-      [<img src="/assets/images/LogoFJBGP-_1_.svg" style="width: 700px; height: 100px"/>](https://www.jbgp.org.co/en/)
+      [<img src="/assets/images/LogoFJBGP.png" style="width: 700px; height: 100px"/>](https://www.jbgp.org.co/en/)
   - name: Contact
     description: | # Can be Markdown
       * Matute km 9 Autopista I-90
