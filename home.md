@@ -10,6 +10,8 @@ navbar:
     floating: true
 composition:
   - type: heroImage
+  - type: stats
+    data: pages.home.stats
   - type: split
     data: home.TheGarden
   - type: split
