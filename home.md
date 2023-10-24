@@ -1,10 +1,10 @@
 ---
 lang-ref: home
 layout: home
-title: Jardín Botánico Guillermo Piñeres
+title: Explore the Biodiversity of the Colombian Caribbean
 background:  /assets/images/Picture1-JBGP.jpeg
-description: The most important plant collection of the Colombian Caribbean.
-height: 60vh
+description: The goal of the Jardín Botánico de Cartagena is to foster and expand a collaborative network in the field of biodiversity informatics by facilitating the mobilization, publication, and utilization of data. This webpage serves as a portal to access published records of plant biodiversity occurrences curated by the Garden.
+height: 70vh
 navbar:
     color: white
     hasWhiteText: false
