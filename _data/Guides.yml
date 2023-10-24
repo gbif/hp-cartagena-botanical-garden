@@ -7,10 +7,4 @@ features:
       
     # img required
     background: /assets/images/Guide1-JBGP.jpeg
-    href: assets/GuiadeFaunayFloradelaCienagadelaVirgenCartagena (1).pdf
-  - preTitle: News  # optional
-    title: Fly moving land
-    href: /about
-    description: |      # required
-      Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
-    background: /assets/img/Haeckel_Caulerpa_racemosa_(uvifera).jpeg
+    href: https://jbgp.org.co/wp-content/uploads/2023/06/GuiadeFaunayFloradelaCienagadelaVirgenCartagena.pdf
