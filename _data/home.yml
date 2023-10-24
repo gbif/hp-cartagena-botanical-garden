@@ -2,16 +2,16 @@ stats:
   background: "#edf3f3"
   features:
       # we can also use the graphql API to allow richer queries
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&limit=0"</span>
+    - title: <span data-ajax-url="https://api.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c"</span>
       description: Species occurrences
       href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=fcb4e601-a1d8-44b6-a9d6-75fd05a280ef&limit=0"</span>
+    - title: <span data-ajax-url="https://api.gbif.org/occurrence/search?dataset_key=fcb4e601-a1d8-44b6-a9d6-75fd05a280ef"</span>
       description: Herbarium specimens
       href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
     - title: <span data-ajax-url="https://api.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c"</span>
       description: Citations
       href: https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&limit=0"</span>
+    - title: <span data-ajax-url="https://api.gbif.org/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&limit=0"</span>
       description: Datasets
       href: https://www.gbif.org/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
 
@@ -20,7 +20,7 @@ TheGarden:
   title: The Garden
   description: |      # required
       Just 30 minutes from Cartagena’s downtown lies one of the most important and interesting ecological attractions of the Caribbean region. The Botanical Garden of Cartagena “Guillermo Piñeres” houses a collection of more than 300 plant species of the Colombian tropical dry forest and additional weird and wonderful ornamental plants from other tropical regions of the world. It also includes one of the last remaining virgin native forests in the region and is thus an important resource for the restoration of the tropical dry forest.
-  background: /assets/images/Picture2-JBGP.jpeg
+  background: /assets/images/Picture4-JBGP.jpeg
 Mission:
   reverse: true
   title: Mission
@@ -34,6 +34,8 @@ polarBear:
   description: |      # required
     Opening hours 8:00 a.m. to 4:00 p.m. We are open 6 days a week, including weekends and holidays. We are closed on the first business day of the week. 
     We offer Guided tours Bird watching Special packages for groups (schools, universities, companies, tourists…).
+
+    We are located in the Matute sector of the municipality of Turbaco, Bolivar (Colombia), km 9 of the I-90 highway. 30 minutes by road from downtown Cartagena de Indias.
   background: /assets/images/Picture2-JBGP.jpeg
   cta:
   - text: Find us
