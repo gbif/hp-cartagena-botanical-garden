@@ -1,3 +1,20 @@
+stats:
+  background: "#edf3f3"
+  features:
+      # we can also use the graphql API to allow richer queries
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&limit=0"</span>
+      description: Species occurrences
+      href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=fcb4e601-a1d8-44b6-a9d6-75fd05a280ef&limit=0"</span>
+      description: Herbarium specimens
+      href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
+    - title: <span data-ajax-url="https://api.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c"</span>
+      description: Citations
+      href: https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&limit=0"</span>
+      description: Datasets
+      href: https://www.gbif.org/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
+
 TheGarden:
   reverse: false
   title: The Garden
