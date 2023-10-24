@@ -2,15 +2,16 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-columns:  
+columns:
+  - description: |
+      [<img src="/assets/images/LogoFJBGP-_1_.svg" style="width: 700px; height: 100px"/>](https://www.jbgp.org.co/en/)
   - name: Contact
     description: | # Can be Markdown
-      * Sector Matute km 9 Autopista I-90
+      * Matute km 9 Autopista I-90
       * Bolívar, Colombia
-      * [The gardens website](https://www.jbgp.org.co/)  
+      * [The garden's website](https://www.jbgp.org.co/)  
       * [Mail us](mailto:horticultura@jbgp.org.co)   
     connectIcons: false
-  - description: |
 text: © {{ 2015 Jardín Botánico de Cartagena “Guillermo Piñeres” }}
   # EXAMPLE
   #- name: Group name
