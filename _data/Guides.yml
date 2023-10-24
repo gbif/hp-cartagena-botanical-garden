@@ -2,13 +2,12 @@ title: "Guides"
 description: |
   
 features:
-  - title: Abundantly light years # required
+  - title: Species Guide of Flora and Fauna of Cienaga de la Virgen
     description: |      # required
-      Species Guide of Flora and Fauna of Cienaga de la Virgen
+      
     # img required
     background: /assets/images/Guide1-JBGP.jpeg
-    href: /about
-    categories: [cat, dog]
+    href: assets/GuiadeFaunayFloradelaCienagadelaVirgenCartagena (1).pdf
   - preTitle: News  # optional
     title: Fly moving land
     href: /about
