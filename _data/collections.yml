@@ -1,46 +1,17 @@
 title: Collections
 description: |
-  Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+  The "Guillermo Piñeres" Botanical Garden Foundation in Cartagena has a forty-year history researching and educating for the conservation of the Colombian Caribbean. From this experience, the garden now curates these collections.
 features: 
-- title: Fungi
-  description: Example of custom made collection page. This approach requires a bit more work but is more flexible.
+- title: Herbarium
+  description: This collection, considered the most important in the Caribbean region of Colombia, hosts specimens collected by Alwyn Gentry, Hermes Cuadros, Santiago Madriñán, and Vlastimil Zak stand out. The records have been collected from the year 1957 to the year 2023 in 22 countries, with 81% of the records in Colombia, mainly from the Caribbean Region and the Sierra Nevada de Santa Marta.
   background: /assets/images/placeholders/zoltan-tasi-YIKYquFdVIo-unsplash.jpg
-  imageLicense: |
-    Photo by <a href="https://unsplash.com/@zoltantasi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zoltan Tasi</a> on <a href="https://unsplash.com/photos/YIKYquFdVIo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
-- title: Algae
-  description: Content provided by GrSciColl. This version is less flexible than the Fungi example. Either way it is a good idea to maintain GrSciColl.
+- title: Seed Bank
+  description: Our seed bank aims to preserve a representative sample of native species populations from the seasonal tropical dry forest of the Colombian Caribbean. The research guidelines of the collection are focused on gathering the highest amount of biological and usage information from the specimens, following standardized protocols for seed collection, processing, and storage.
   background: /assets/images/placeholders/uros-miloradovic-7bMynojPirs-unsplash.jpg
-  imageLicense: |
-    Photo by <a href="https://unsplash.com/@uroshdotorg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Uros Miloradovic</a> on <a href="https://unsplash.com/photos/7bMynojPirs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   href: /collection/a17c39f4-0dbe-47c2-b1a1-0195293ebf6f
-- title: Bryophytes
-  description: Content provided by GrSciColl. This version is less flexible than the Fungi example. Either way it is a good idea to maintain GrSciColl.
+- title: Living collection
+  description: The Living Collection of the "Guillermo Piñeres" Botanical Garden in Cartagena includes both native and cultivated tropical plants. Among its most important exhibitions are the Arboretum, Orchard, Palmetum, Xerophytic Garden, Evolutionary Garden, Ornamental Garden, and Native Forest.
   background: /assets/images/placeholders/anton-atanasov-O3E7W5O1YdM-unsplash.jpg
-  imageLicense: |
-    Photo by <a href="https://unsplash.com/@blooddrainer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anton Atanasov</a> on <a href="https://unsplash.com/photos/O3E7W5O1YdM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
-- title: Cicada
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://placehold.co/600x300
-  href: /collections/cicadidae
-- title: Echinoderms
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://placehold.co/600x300
-  href: /collections/echinodermata
-- title: Decapods
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://placehold.co/600x300
-  href: /collections/decapoda
-- title: Lepidoptera
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://placehold.co/600x300
-  href: /collections/lepidoptera
-- title: Coleoptera
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://placehold.co/600x300
-  href: /collections/coleoptera
-- title: Plants
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://placehold.co/600x300
-  href: /collections/plants
+  href: /collection/670f7255-ef6d-4f78-a8cc-4130ddbe9baf
+
