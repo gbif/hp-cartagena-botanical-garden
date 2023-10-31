@@ -10,8 +10,6 @@ navbar:
     hasWhiteText: false
     floating: true
 composition:
-  - type: heroImage
-    data: The-Garden.stats
   - type: latestPosts
     data: collectionsPreview.TheGarden
 permalink: /
