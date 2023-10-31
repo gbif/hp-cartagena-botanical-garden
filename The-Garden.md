@@ -10,6 +10,10 @@ navbar:
     hasWhiteText: false
     floating: true
 composition:
-  - type: latestPosts
-    data: collectionsPreview.TheGarden
+  - type: split
+    data: The-Garden.TheGarden
+  - type: split
+    data: The-Garden.Mission
+  - type: split
+    data: The-Garden.polarBear
 ---
