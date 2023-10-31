@@ -40,10 +40,10 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 # For use by the 'standardPrivacy' layout
 privacy:
-  name: Your organisation name
-  domain: your-domain.org
-  contactEmail: info@your-domain.org
-  helpdeskEmail: helpdesk@your-domain.org
+  name: Fundación Jardín Botánico Guillermo Piñeres
+  domain: www.jbgp.org.co/en
+  contactEmail: direccion@jbgp.org.co
+  helpdeskEmail: direccion@jbgp.org.co
 
 algae:
   rootLang: es
