@@ -105,5 +105,6 @@ Outreach:
 OccurenceMap: 
    klass: iframe-box
    markdownContent: |
-    <iframe seamless frameborder="0" src="https://tile.gbif.org/map/occurrence/adhoc/{z}/{x}/{y}@2x.png?srs=EPSG:4326&bin=hex&hexPerTile=200&publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&style=orange.marker	" height = '790' width="1370" scrolling='yes' ></iframe>
+    <iframe seamless frameborder="0" src="https://api.gbif.org/v2/map/occurrence/adhoc/0/0/0@2x.png?srs=EPSG:4326&bin=hex&hexPerTile=200&publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&style=purpleYellow.point	" height = '790' width="1370" scrolling='yes' ></iframe>
+    
 
