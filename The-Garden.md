@@ -11,11 +11,11 @@ navbar:
     floating: true
 composition:
   - type: heroImage
-    data: home.stats
+    data: The-Garden.stats
   - type: split
-    data: home.TheGarden
+    data: The-Garden.TheGarden
   - type: split
-    data: home.Mission
+    data: The-Garden.Mission
   - type: split
     data: home.polarBear
 permalink: /
