@@ -105,5 +105,5 @@ Outreach:
 OccurenceMap: 
    klass: iframe-box
    markdownContent: |
-    <iframe seamless frameborder="0" src="https://api.gbif.org/v2/map/occurrence/density/{z}/{x}/{y}@2x.png?srs=publishingCountry=CO&style=classic-noborder.poly" height = '790' width="1370" scrolling='yes' ></iframe>
+    <iframe seamless frameborder="0" src="https://api.gbif.org/v2/map/occurrence/density/{z}/{x}/{y}@1x.png?srs=EPSG:3575&publishingCountry=SE&basisOfRecord=PRESERVED_SPECIMEN&basisOfRecord=FOSSIL_SPECIMEN&basisOfRecord=LIVING_SPECIMEN&bin=square&squareSize=128&style=green.poly	" height = '790' width="1370" scrolling='yes' ></iframe>
 
