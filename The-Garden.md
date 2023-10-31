@@ -12,5 +12,4 @@ navbar:
 composition:
   - type: latestPosts
     data: collectionsPreview.TheGarden
-permalink: /
 ---

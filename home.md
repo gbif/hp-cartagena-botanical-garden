@@ -13,7 +13,7 @@ composition:
   - type: heroImage
   - type: stats
     data: home.stats
-  - type: split
+  - type: latestPosts
     data: home.collectionsPreview
   - type: split
     data: home.Mission
