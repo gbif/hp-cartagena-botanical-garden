@@ -14,7 +14,7 @@ composition:
   - type: stats
     data: home.stats
   - type: split
-    data: home.TheGarden
+    data: home.collectionsPreview
   - type: split
     data: home.Mission
   - type: split
