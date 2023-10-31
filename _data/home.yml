@@ -105,5 +105,5 @@ Outreach:
 OccurenceMap: 
    klass: iframe-box
    markdownContent: |
-    <iframe seamless frameborder="0" src="https://www.gbif.org/occurrence/map?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c" height = '790' width="1370" scrolling='yes' ></iframe>
+    <iframe seamless frameborder="0" src="https://api.gbif.org/v2/map/occurrence/density/{z}/{x}/{y}@2x.png?srs=publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&style=classic-noborder.poly" height = '790' width="1370" scrolling='yes' ></iframe>
 
