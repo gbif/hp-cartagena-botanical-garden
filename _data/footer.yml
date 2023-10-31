@@ -8,7 +8,7 @@ columns:
   - name: Contact
     description: | # Can be Markdown
       * Matute km 9 Autopista I-90
-      * Bolívar, Colombia
+      * Bolívar, Colombia, 131007
       * [The garden's website](https://www.jbgp.org.co/)  
       * [Mail us](mailto:horticultura@jbgp.org.co)   
     connectIcons: false
