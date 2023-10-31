@@ -1,8 +1,10 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 # Links listed below will be included in your site's navbar (navigation at the top)
-- text: The Garden
+- text: About us
   menu: # Dropdown menu (one level deep only)
+  - text: The Garden
+    href: /The-Garden/
   - text: Flora
     href: /Flora/
   - text: Fauna

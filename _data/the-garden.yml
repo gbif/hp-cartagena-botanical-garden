@@ -1,0 +1,26 @@
+TheGarden:
+  reverse: false
+  title: The Garden
+  description: |      # required
+      Just 30 minutes from Cartagena’s downtown lies one of the most important and interesting ecological attractions of the Caribbean region. The Botanical Garden of Cartagena “Guillermo Piñeres” houses a collection of more than 300 plant species of the Colombian tropical dry forest and additional weird and wonderful ornamental plants from other tropical regions of the world. It also includes one of the last remaining virgin native forests in the region and is thus an important resource for the restoration of the tropical dry forest.
+  background: /assets/images/Picture4-JBGP.jpeg
+Mission:
+  reverse: true
+  title: Mission
+  description: |      # required
+   Our mission is to educate, investigate and preserve the Colombian Caribbean flora, fauna and funga. We aim to provide responsibly sourced botanical material for reintroduction and reforestation practices, to educate about the diversity and peculiarity of the Caribbean dry forests, and maintain a reference collection of herbarium specimens.
+  background: /assets/images/Picture3-JBGP.jpeg
+
+polarBear:
+  reverse: false
+  title: Visit the garden
+  description: |      # required
+    Opening hours 8:00 a.m. to 4:00 p.m. We are open 6 days a week, including weekends and holidays. We are closed on the first business day of the week. 
+    We offer Guided tours Bird watching Special packages for groups (schools, universities, companies, tourists…).
+
+    We are located in the Matute sector of the municipality of Turbaco, Bolivar (Colombia), km 9 of the I-90 highway. 30 minutes by road from downtown Cartagena de Indias.
+  background: /assets/images/Picture2-JBGP.jpeg
+  cta:
+  - text: Find us
+    href: https://www.google.com/maps/place/Cartagena+Botanical+Garden+Guillermo+Pi%C3%B1eres/@10.3528437,-75.4286829,15z/data=!4m6!3m5!1s0x8ef621187c0334d7:0x344a1304623f6a64!8m2!3d10.3528437!4d-75.4286829!16s%2Fg%2F1th5_w45?entry=ttu 
+    isPrimary: true
