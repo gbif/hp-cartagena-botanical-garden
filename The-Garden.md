@@ -12,11 +12,7 @@ navbar:
 composition:
   - type: heroImage
     data: The-Garden.stats
-  - type: split
-    data: The-Garden.TheGarden
-  - type: split
-    data: The-Garden.Mission
-  - type: split
-    data: home.polarBear
+  - type: latestPosts
+    data: collectionsPreview.TheGarden
 permalink: /
 ---
