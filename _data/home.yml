@@ -102,3 +102,8 @@ Outreach:
     background: /assets/images/Picture5-JBGP.jpeg
     href: https://juankosp.github.io/fenologia/fenologi%CC%81a_interactiva.html 
 
+OccurenceMap: 
+   klass: iframe-box
+   markdownContent: |
+    <iframe seamless frameborder="0" src="https://www.gbif.org/occurrence/map?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c" height = '790' width="1370" scrolling='yes' ></iframe>
+
