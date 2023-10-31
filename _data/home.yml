@@ -85,3 +85,20 @@ collectionsPreview:
     background: /assets/images/Picture5-JBGP.jpeg
     href: /collection/670f7255-ef6d-4f78-a8cc-4130ddbe9baf  
 
+Outreach:
+  title: Outreach
+  description: |
+    As part of the alliance between the Botanical Garden of Cartagena, Biodiversity Information for Development (BID), and the Global Biodiversity Information Facility (GBIF), and with the aim of consolidating knowledge about the flora of the tropical dry forest, the following resources were created with the aim of educating about of the flagship plants of the Colombian Caribbean.
+  features: 
+  - title: Workshops
+    description: We educate young local researchers to make information about the ecosystems of the Colombian Caribbean available to the public.
+    href: https://jbgp.org.co/en/workshops-gbif/
+  - title: Models
+    description: We collect occurrence data to create precise models for assessing the distribution of Colombian Caribbean flora. These models help predict where plant species are located, guiding conservation efforts effectively.
+    background: /assets/images/SeedBank1-JBGP.jpeg
+    href: https://jbgp.org.co/wp-content/uploads/2023/06/mapas_comprimidos.pdf
+  - title: Phenologies
+    description: We use herbarium data to better predict the timing of events in Colombian Caribbean flora. This helps in understanding their ecological patterns and aids conservation efforts.
+    background: /assets/images/Picture5-JBGP.jpeg
+    href: https://juankosp.github.io/fenologia/fenologi%CC%81a_interactiva.html 
+

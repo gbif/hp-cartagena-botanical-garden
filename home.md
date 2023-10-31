@@ -15,10 +15,8 @@ composition:
     data: home.stats
   - type: features
     data: home.collectionsPreview
-  - type: split
-    data: home.Mission
-  - type: split
-    data: home.polarBear
+  - type: features
+    data: home.Outreach
 permalink: /
 ---
 
