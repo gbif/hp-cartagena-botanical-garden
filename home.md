@@ -17,7 +17,7 @@ composition:
     data: home.collectionsPreview
   - type: features
     data: home.Outreach
-  - type: markdown
+  - type: blank
     data: home.OccurenceMap
 permalink: /
 ---
