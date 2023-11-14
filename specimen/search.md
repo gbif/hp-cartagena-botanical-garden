@@ -4,5 +4,4 @@ title: Specimen search
 description: We publish open data
 layout: occurrence
 hide: navbar
-header: '''\
 ---
