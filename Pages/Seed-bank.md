@@ -6,7 +6,7 @@ cta:
   - text: Explore ocurrences
     href: /collection/a17c39f4-0dbe-47c2-b1a1-0195293ebf6f
 height: 70vh
-permaLink: seed-bank
+permaLink: /seed-bank
 ---
 The Seed Bank at the Cartagena Botanical Garden "Guillermo Piñeres" stands as a pivotal institution dedicated to the preservation and study of the unique floral diversity within the seasonal tropical dry forest of the Colombian Caribbean. Its primary objective revolves around the conservation of a comprehensive and representative sample of populations belonging to native species thriving in this distinctive ecosystem.
 

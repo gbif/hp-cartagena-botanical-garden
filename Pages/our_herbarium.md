@@ -8,7 +8,7 @@ cta:
   - text: Species of the dry forest
     href: https://www.gbif.org/dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83
 height: 70vh
-permaLink: our-herbarium
+permaLink: /our-herbarium
 ---
 
 ## Our Herbarium 
