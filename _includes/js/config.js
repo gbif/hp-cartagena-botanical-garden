@@ -45,7 +45,7 @@ var siteConfig = {
   },
   availableCatalogues: ['OCCURRENCE'],
   maps: {
-    locale: 'es',
+    locale: 'en',
     defaultProjection: 'MERCATOR',
     defaultMapStyle: 'BRIGHT',
     mapStyles: {

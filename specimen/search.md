@@ -5,3 +5,8 @@ description: We publish open data
 layout: occurrence
 hide: navbar
 ---
+<style>
+nav {
+    display: none;
+}
+</style>
