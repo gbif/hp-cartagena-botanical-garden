@@ -8,5 +8,5 @@ hasTextShadow: true
 composition:
 - type: features
   data: Guides
-permaLink: /Resources
+permalink: /Resources
 ---
