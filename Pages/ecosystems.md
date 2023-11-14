@@ -3,6 +3,7 @@ layout: heroImage
 title: Ecosystems
 background: /assets/images/Picture3-JBGP.jpeg
 height: 70vh
+permalink: /Ecosystems
 ---
 
 The Colombian Caribbean is a region characterized by its diverse and unique ecosystems, each contributing to the rich tapestry of biodiversity. One prominent ecosystem is the Seasonally Dry Tropical Forest, a biome marked by distinct wet and dry seasons. This habitat supports a variety of flora and fauna adapted to the cyclical changes in precipitation. Another noteworthy ecosystem is the Cloud Forests of the Sierra Nevada de Santa Marta, a majestic mountain range along the Caribbean coast. These mist-shrouded forests harbor a wealth of endemic species and play a crucial role in regulating local climate patterns. The Cloud Forests are not only a haven for biodiversity but also serve as a vital water source for surrounding communities. Together, these ecosystems showcase the ecological marvels found in the Colombian Caribbean, underscoring the importance of conservation efforts to safeguard their unique and delicate balance.
@@ -24,3 +25,4 @@ The Cloud Forests of the Sierra Nevada de Santa Marta, gracing the Colombian Car
 The flora of the Cloud Forests is not only characterized by its richness but also by its ecological importance. These forests act as crucial water towers, capturing moisture from passing clouds and releasing it as a steady supply of freshwater to rivers and streams below. Orchids and bromeliads are among the emblematic species that contribute to the unique charm of the Cloud Forests.
 
 Conservation initiatives in the Sierra Nevada de Santa Marta aim to protect the Cloud Forests by promoting sustainable land use practices, engaging local communities in preservation efforts, and advocating for the enforcement of protective measures. The urgency of safeguarding these cloud-kissed landscapes lies not only in their irreplaceable biodiversity but also in their vital role in sustaining regional water resources and contributing to the resilience of the broader Colombian Caribbean ecosystem. Preserving the Cloud Forests of the Sierra Nevada de Santa Marta is a testament to our commitment to the intricate web of life that graces this remarkable corner of the world.
+

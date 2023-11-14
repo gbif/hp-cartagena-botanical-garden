@@ -75,7 +75,8 @@ collectionsPreview:
   - title: Herbarium
     description: This collection, considered the most important in the Caribbean region of Colombia, hosts specimens collected by Alwyn Gentry, Hermes Cuadros, Santiago Madriñán, and Vlastimil Zak stand out. The records have been collected from the year 1957 to the year 2023 in 22 countries, with 81% of the records in Colombia, mainly from the Caribbean Region and the Sierra Nevada de Santa Marta.
     background: /assets/images/Herbarium2-JBGP.jpeg
-    href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
+    href: /Our-Herbarium
+   # href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
   - title: Seed Bank
     description: Our seed bank aims to preserve a representative sample of native species populations from the seasonal tropical dry forest of the Colombian Caribbean. The research guidelines of the collection are focused on gathering the highest amount of biological and usage information from the specimens, following standardized protocols for seed collection, processing, and storage.
     background: /assets/images/SeedBank1-JBGP.jpeg
