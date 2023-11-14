@@ -1,22 +1,20 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 # Links listed below will be included in your site's navbar (navigation at the top)
-- text: About us
+- text: About
   menu: # Dropdown menu (one level deep only)
   - text: The Garden
     href: /The-Garden/
-  - text: Flora
+  - text: Ecosystems
+    href: /The-Garden/
+  - text: Caribbean flora
     href: /Flora/
-  - text: Fauna
+  - text: Caribbean fauna
     href: /Fauna/
-- text: Herbarium
+- text: Collections
   href: /our_herbarium/  
-- text: GBIF Data
-  menu: 
-  - text: Specimens
-    href: /specimen/search
-  - text: Collections
-    href: /collections
+- text: Specimens
+  href: /specimen/search
 - text: Resources
   href: /Resources
   
