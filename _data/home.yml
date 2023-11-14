@@ -67,10 +67,6 @@ collectionsPreview:
   title: Featured collections
   description: |
     Biological collections hold immense significance in preserving Earth's biodiversity and advancing scientific knowledge. These meticulously curated repositories of plant and animal specimens serve as  resources for researchers, educators, and conservationists alike. Biological collections constitute an integral part of a country's national heritage. In the Colombian Caribbean, The Botanical Garden plays a key role in this regard.
-  cta:
-  - text: View all collections
-    href: /collections
-    isPrimary: true
   features: 
   - title: Herbarium
     description: This collection, considered the most important in the Caribbean region of Colombia, hosts specimens collected by Alwyn Gentry, Hermes Cuadros, Santiago Madriñán, and Vlastimil Zak stand out. The records have been collected from the year 1957 to the year 2023 in 22 countries, with 81% of the records in Colombia, mainly from the Caribbean Region and the Sierra Nevada de Santa Marta.

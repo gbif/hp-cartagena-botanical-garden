@@ -12,7 +12,13 @@
   - text: Caribbean fauna
     href: /Fauna/
 - text: Collections
-  href: /collections/  
+  menu:
+  - text: Herbarium
+    href: /our-herbarium
+  - text: Seed Bank
+    href: /seed-bank
+  - text: Living collections
+      href: /living-collections
 - text: Specimens
   href: /specimen/search
 - text: Resources
