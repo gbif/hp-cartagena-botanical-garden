@@ -31,3 +31,21 @@
 .content li, .feature-content li {
     margin-bottom: 0.1em;
 }
+
+//Tamaño de íconos de cifras
+
+.statistic .feature-img {
+    width: 40%;
+}
+
+
+//Define la altura de la barra de navegación en rem
+
+$navbar-item-img-max-height: 5rem;
+
+
+//Define el ancho mínimo para mantener la barra de navegación antes de cambiar al menú hamburguesa responsive
+
+$navbar-breakpoint: 1100px;
+
+@import "theme/_main";
