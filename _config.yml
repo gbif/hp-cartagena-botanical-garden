@@ -46,7 +46,7 @@ privacy:
   helpdeskEmail: direccion@jbgp.org.co
 
 algae:
-  rootLang: es
+  rootLang: en
   # latestPostLimit: 2
   # logo: /assets/images/placeholders/logo.png  # Logo in navbar, will be displayed with 28px height
   logo: assets/images/Logo_JBC_negro_sinfondo.png
@@ -94,7 +94,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page" # So by default any page will use the layout "page"
-      lang: es # And have the default language english
+      lang: en # And have the default language english
   - scope:
       path: "_posts" # an empty string here means all files in the project
     values:
