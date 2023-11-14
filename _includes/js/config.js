@@ -59,7 +59,14 @@ var siteConfig = {
     "catalogues.occurrences": "Specimens"
   }
 };
+// Get the navigation bar element by its ID
+var navbar = document.getElementById("navbar");
 
+// Check if the navigation bar element exists
+if (navbar) {
+    // Set the display property to "none" to hide the navigation bar
+    navbar.style.display = "none";
+}
 // example of a language specific route overwrite
 // if (pageLang === 'da')  {
 //   siteConfig.routes.occurrenceSearch.route = '/observationer/sog';
