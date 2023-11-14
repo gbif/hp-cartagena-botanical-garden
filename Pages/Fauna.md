@@ -3,6 +3,7 @@ layout: heroImage
 title: Fauna
 background: /assets/images/Fauna1-JBGP.jpeg
 height: 70vh
+permalink: /Fauna
 ---
 The garden hosts an incredible and diverse number of species, not only of native plants but also animals. This is especially important because it serves as a refuge for wildlife that has been lost in areas with more urban development. The highly threatened ecosystem of the seasonally dry tropical forest is home to some very interesting species like the red howler monkey or the critically endangered cotton-top tamarin that live high in the canopy. This and other species visitors are likely to see are
 ## Mammals 
