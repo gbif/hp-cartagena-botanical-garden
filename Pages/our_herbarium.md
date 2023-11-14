@@ -3,7 +3,7 @@ layout: heroImage
 title: Herbarium
 background: /assets/images/HerbariumJBGP1.jpg
 cta:
-  - text: Data
+  - text: Explore ocurrences
     href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
 height: 70vh
 permaLink: our-herbarium
