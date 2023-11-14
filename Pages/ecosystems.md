@@ -3,7 +3,7 @@ layout: heroImage
 title: Ecosystems
 background: /assets/images/Picture3-JBGP.jpeg
 height: 70vh
-permalink: /Ecosystems
+permalink: /ecosystems
 ---
 
 The Colombian Caribbean is a region characterized by its diverse and unique ecosystems, each contributing to the rich tapestry of biodiversity. One prominent ecosystem is the Seasonally Dry Tropical Forest, a biome marked by distinct wet and dry seasons. This habitat supports a variety of flora and fauna adapted to the cyclical changes in precipitation. Another noteworthy ecosystem is the Cloud Forests of the Sierra Nevada de Santa Marta, a majestic mountain range along the Caribbean coast. These mist-shrouded forests harbor a wealth of endemic species and play a crucial role in regulating local climate patterns. The Cloud Forests are not only a haven for biodiversity but also serve as a vital water source for surrounding communities. Together, these ecosystems showcase the ecological marvels found in the Colombian Caribbean, underscoring the importance of conservation efforts to safeguard their unique and delicate balance.

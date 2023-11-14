@@ -12,7 +12,7 @@ columns:
       * [The garden's website](https://www.jbgp.org.co/)  
       * [Mail us](mailto:horticultura@jbgp.org.co)   
     connectIcons: false
-text: © {{ 2015 Jardín Botánico de Cartagena “Guillermo Piñeres” }}
+text: © {{ 2023 Jardín Botánico de Cartagena “Guillermo Piñeres” }}
   # EXAMPLE
   #- name: Group name
   #  description: |
