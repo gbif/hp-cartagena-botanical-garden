@@ -7,13 +7,6 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 var siteTheme = gbifReactComponents.themeBuilder.extend({
   baseTheme: 'light', extendWith: {
     primary: themeStyle.colors.primary,
-    navbar.style.display = "none"
-  }
-});
-
-var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
-    primary: themeStyle.colors.primary,
     fontSize: '16px'
   }
 });
