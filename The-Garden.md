@@ -16,5 +16,5 @@ composition:
     data: The-Garden.Mission
   - type: split
     data: The-Garden.polarBear
-permalink: /
+
 ---
