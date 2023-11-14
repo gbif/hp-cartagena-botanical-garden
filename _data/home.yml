@@ -105,7 +105,7 @@ Outreach:
 OccurenceMap: 
    klass: iframe-box
    markdownContent: |
-    <iframe seamless frameborder="0" src="/specimen/search/?view=MAP" height = '790' width="1370" scrolling='yes' ></iframe>
+    <iframe seamless frameborder="0" src="/specimenmap/search/?view=MAP" height = '790' width="1370" scrolling='yes' ></iframe>
 
 #OccurenceMap: 
 #   klass: iframe-box
