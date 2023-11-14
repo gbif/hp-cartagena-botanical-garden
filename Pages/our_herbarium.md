@@ -5,6 +5,8 @@ background: /assets/images/HerbariumJBGP1.jpg
 cta:
   - text: Explore ocurrences
     href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
+  - text: Species of the dry forest
+    href: https://www.gbif.org/dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83
 height: 70vh
 permaLink: our-herbarium
 ---
