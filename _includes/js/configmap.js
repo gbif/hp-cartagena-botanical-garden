@@ -1,4 +1,15 @@
+var siteTheme = gbifReactComponents.themeBuilder.extend({
+  baseTheme: 'light', extendWith: {
+    primary: themeStyle.colors.primary
+  }
+});
 
+var siteTheme = gbifReactComponents.themeBuilder.extend({
+  baseTheme: 'light', extendWith: {
+    primary: themeStyle.colors.primary,
+    fontSize: '16px'
+  }
+});
 var siteConfig = {
   routes: {
     occurrenceSearch: {
