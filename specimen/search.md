@@ -6,7 +6,7 @@ layout: occurrence
 hide: navbar
 ---
 <style>
-header {
+nav {
     display: none;
   }
 </style>
