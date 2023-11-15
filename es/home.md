@@ -12,13 +12,13 @@ navbar:
 composition:
   - type: heroImage
   - type: stats
-    data: /es/home.stats
+    data: es.home.stats
   - type: features
-    data: /es/home.collectionsPreview
+    data: es.home.collectionsPreview
   - type: features
-    data: /es/home.Research
+    data: es.home.Research
   - type: features
-    data: /es/home.Outreach
+    data: es.home.Outreach
 permalink: /es
 ---
 
