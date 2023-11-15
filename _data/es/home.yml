@@ -77,7 +77,7 @@ collectionsPreview:
     description: Nuestro banco de semillas tiene como objetivo preservar una muestra representativa de poblaciones de especies nativas del bosque seco tropical estacional del Caribe colombiano. Las pautas de investigación de la colección se centran en recopilar la mayor cantidad de información biológica y de uso de los especímenes, siguiendo protocolos estandarizados para la recolección, procesamiento y almacenamiento de semillas.
     background: /assets/images/SeedBank1-JBGP.jpeg
     href: /es/seed-bank
-  - title: Colecciones vivas
+  - title: Colección viva
     description: La Colección Viva del Jardín Botánico de Cartagena incluye plantas tropicales tanto nativas como cultivadas. En los últimos años, los equipos de ciencia y horticultura del Jardín Botánico han trabajado juntos para reforzar el enfoque de conservación *ex-situ* de plantas endémicas y amenazadas nativas de la región del Caribe colombiano.
     background: /assets/images/JBGP_04468.jpg
     href: /es/living-collections
@@ -115,7 +115,7 @@ Research:
     background: assets/images/JBGP_01419.jpg
     href: /dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83
   - title: Proyecto Biodiversidad del Caribe Colombiano 
-    description: Este proyecto yiene como objetivo el desarrollo de investigaciones sobre el origen y mantenimiento de la biodiversidad en un contexto sistemático evolutivo. Con base en estudios florísticos y faunísticos y de ecología de plantas, animales y sus interacciones principalmente, pero no limitados a la región Neotropical, reconocer sistemas biológicos adecuados para el estudio de evolución de la biota.  
+    description: Este proyecto tiene como objetivo el desarrollo de investigaciones sobre el origen y mantenimiento de la biodiversidad en un contexto sistemático evolutivo. Con base en estudios florísticos y faunísticos y de ecología de plantas, animales y sus interacciones principalmente, pero no limitados a la región Neotropical, reconocer sistemas biológicos adecuados para el estudio de evolución de la biota.  
     background: assets/images/JBGP_00825.jpg
     href: /dataset/52ffdb54-a3e9-4e83-9d30-ff81659873f9
 
