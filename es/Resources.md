@@ -8,6 +8,7 @@ navbar:
     hasWhiteText: false
     floating: true
 composition:
+  - type: heroImage
   - type: features
     data: es.Resources.Guides
 permalink: /es/resources

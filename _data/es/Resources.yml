@@ -2,7 +2,7 @@ Guides:
   title: Guías y librillos
   features: 
   - title: Guía de especies de flora y fauna de la Ciénaga de La Virgen
-    background: /assets/images/Picture6-JBGP.jpeg
+    background: assets/images/Guide1-JBGP.jpeg
     href: https://jbgp.org.co/en/workshops-gbif/
   - title: Propagation Participativa del Bosque Seco Tropical
     background: assets/images/propagacion.png
