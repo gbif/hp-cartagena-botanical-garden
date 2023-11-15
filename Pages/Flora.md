@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Flora
-background: /assets/images/Picture3-JBGP.jpeg
+background: assets/images/JBGP_00852.jpg
 height: 70vh
 permalink: /Flora/
 ---
