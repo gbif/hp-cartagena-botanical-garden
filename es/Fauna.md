@@ -20,28 +20,28 @@ Se pueden observar en grupos de 3 a 16 individuos que contienen uno o muy pocos 
 El tití cabeciblanco, *Saguinus oedipus*, es un pequeño primate endémico de Colombia. Su hábitat está restringido al noroeste de Colombia, extendiéndose desde el río Atrato en el oeste hasta el río Magdalena en el este. Están catalogados como en peligro crítico de extinción en la lista roja de la UICN, lo que deja solo entre 2.000 y 3.000 individuos en estado silvestres. El jardín se ha comprometido con su conservación reintroduciendo en la zona individuos capturados y confiscados procedentes del comercio ilegal de mascotas. Su rango de hábitat sigue disminuyendo debido a la urbanización y la tala de sus bosques de origen.
 
 ![image](/assets/images/SlothJBGP.jpeg)
-### Sloth
-Bradypus variegatus better known as the brown-throated three-toed sloth can be seen in the treetops of the garden. They are known to be one of the slowest animals on earth and are well-adapted to the arboreal life. Sloths only eat 200 g of leaves and move about 30 m a day. Because of their nutrient-poor diet, they conserve energy by sleeping up to 18 hours and moving incredibly slow. Their slow movement is also a strategy to avoid being eaten; they blend with their environment also thanks to the algae growing on their fur.
+### Perezoso
+*Bradypus variegatus*, más conocido como el perezoso de tres dedos y garganta marrón, se puede ver en las copas de los árboles, se avistan más fácilmente durante los meses de verano, cuando algunos árboles han saltado sus hojas. Se sabe que son uno de los animales más lentos del planeta y están bien adaptados a la vida arbórea. Los perezosos sólo comen 200 g de hojas y se desplazan unos 30 m al día. Debido a su dieta pobre en nutrientes, conservan energía durmiendo hasta 18 horas y moviéndose increíblemente lento. Su lento movimiento también es una estrategia para evitar ser devorados; se mimetizan con su entorno también gracias a las algas que crecen en su pelaje.
 
 ![image](/assets/images/PorcupineJBGP.jpeg)
-### Porcupine
-*Coendou bicolor*, or bicolored-spined porcupine are rodents coated with quills or spines that cover their body and shields them from predators. They are nocturnal and arboreal. Their tails are spineless and prehensile, meaning they can grab twigs and branches with it. Additionally, their perfectly modified feet make them an adept climber. Porcupines are born with brown-reddish hair which hardens and develop into their typical black and white quills. They are herbivores and mainly feed on bark, roots, fruit and leaves.
+### Puerco espín
+*Coendou bicolor*, o puercoespín de espinas bicolores, son roedores recubiertos de púas o espinas que cubren su cuerpo y los protegen de los depredadores. Son nocturnos y arbóreos. Sus colas no tienen espinas y son prensiles, lo que significa que pueden agarrar ramas con ellas. Además, sus pies perfectamente modificados lo convierten en un escalador experto. Los puercoespines nacen con pelo marrón rojizo que se endurece y se convierte en sus típicas púas blancas y negras. Son herbívoros y se alimentan principalmente de cortezas, raíces, frutos y hojas.
 
 ## Reptiles
 ![image](/assets/images/CaimanJBGP.jpeg)
 ### Caiman
-The stealthy nocturnal hunter, the brown caiman, *Caiman crocodilus fuscus*, is commonly found in freshwater habitats around the Garden. They can be sighted during the day sunbathing on tree trunks or relaxing between water lilies, only showing their eyes and nose above the surface of the water.  In many countries of South America, caimans have been overexploited for their skin to make purses or boots but still maintain a healthy population number which makes them highly adaptive.
+El sigiloso cazador nocturno, caimán marrón, *Caiman crocodilus fuscus*, se encuentra comúnmente en hábitats de agua dulce alrededor. Se les puede ver durante el día tomando el sol en los troncos de los árboles o relajándose entre nenúfares, mostrando únicamente los ojos y la nariz por encima de la superficie del agua. En muchos países de América del Sur, los caimanes han sido sobreexplotados por su piel para hacer bolsos o botas, pero aún mantienen una población saludable que los hace altamente adaptables.
 
 ![image](/assets/images/SnakesJBGP.jpeg)
-### Snakes
-The garden is home to a vast variety of snakes, including constrictors, venomous vipers, corals and colubrid snakes.
+### Serpientes
+El bosque seco tropical alberga una gran variedad de serpientes, incluidas constrictoras, víboras venenosas, corales y serpientes colúbridos.
 
-The massive red-tailed boa, *Boa constrictor*, grows up to more than 4 m in length and can be found on the ground and in trees. They hunt by leaping on its prey, wrapping around them until they have no more air left to breathe. The lack of teeth to chew forces them to swallow their prey in one piece.
+La enorme boa de cola roja, *Boa constrictor*, crece hasta más de 4 m de longitud y se puede encontrar en el suelo y en los árboles. Cazan saltando sobre sus presas y envolviéndolas hasta dejarlas sin aire. La falta de dientes para masticar les obliga a tragar a sus presas de una sola pieza.
 
-The Terciopelo, *Bothrops asper*, is the most dangerous snake for humans in our region. These pit vipers grow up to 2.5 m and are easily identified by their light to dark brown colors in zig-zag shaped lines on its back that are reminiscent to an “X”. Whenever possible they avoid humans but fight back when encountering intruders in their territories. Due to their temper and advanced camouflage, they are prone to be involved in accidents with humans.
+La mapana, *Bothrops asper*, es la serpiente más peligrosa para el ser humano en nuestra región. Estas víboras crecen hasta 2,5 m y se identifican fácilmente por sus colores de color marrón claro a oscuro en líneas en forma de zigzag en su espalda que recuerdan a una "X". Siempre que es posible, evitan a los humanos, pero se defienden cuando encuentran intrusos en sus territorios. Debido a su temperamento y camuflaje avanzado, son propensos a verse involucrados en accidentes con humanos.
 
-There are two genera of coral snakes in the Americas, *Micruroides* and *Micrurus*, both can be found at the Garden. Individuals from these genera are very elusive and rarely seen during the day since they are nocturnal spending most of their time below leaf litter on the ground. Even though they are well-tempered they should be handled with the highest care because of their highly venomous poison.
+Hay dos géneros de serpientes coralinas en América, *Micruroides* y *Micrurus*, ambos se encuentran en el bosque seco. Los individuos de estos géneros son muy esquivos y rara vez se los ve durante el día, ya que son nocturnos y pasan la mayor parte del tiempo debajo de la hojarasca del suelo. Aunque tienen buen carácter, deben tratarse con sumo cuidado debido a su veneno altamente venenoso
 
 ![image](/assets/images/IguanaJBGP.jpeg)
 ### Iguana
-One of the most seen animals in our garden and its surroundings are Iguanas, *Iguana iguana*. This large lizard is an herbivore, only consuming fruits and leaves; spending most of the day in trees in search of them. Just like other lizards, when they are caught by their tail, they can detach it to flee the situation. They will eventually grow a new tail. Sadly, iguanas are also hunted for their eggs and meat.
+Uno de los animales más emblemáticos del Caribe son las Iguanas, *Iguana iguana*. Este gran lagarto es herbívoro y solo consume frutos y hojas; pasando la mayor parte del día en los árboles buscándolos. Al igual que otros lagartos, cuando son atrapados por la cola, pueden soltarla para huir de la situación. Con el tiempo les crecerá una nueva cola. Lamentablemente, las iguanas están bajo una constante amenaza debido a la caza por sus huevos y carne.
