@@ -1,0 +1,30 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+# Links listed below will be included in your site's navbar (navigation at the top)
+- text: Acerca de
+  menu: # Dropdown menu (one level deep only)
+  - text: El Jardín
+    href: /es/the-garden/
+  - text: Ecosistemas
+    href: /es/ecosystems/
+  - text: Flora del Caribe
+    href: /es/flora/
+  - text: Fauna del Caribe
+    href: /es/fauna/
+- text: Collections
+  menu:
+  - text: Herbario
+    href: /es/our-herbarium
+  - text: Banco de semillas
+    href: /es/seed-bank
+  - text: Colecciones vivas
+    href: /es/living-collections
+- text: Especimenes
+  menu:
+  - text: Busqueda
+    href: /specimen/search
+  - text: Mapa
+    href: /specimen/search/?view=MAP
+- text: Recursos
+  href: /es/resources
+  
