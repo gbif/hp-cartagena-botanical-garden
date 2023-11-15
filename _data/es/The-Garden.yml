@@ -1,0 +1,28 @@
+TheGarden:
+  reverse: false
+  title: El Jardín
+  description: |      # required
+      A sólo 30 minutos del centro de Cartagena se encuentra una de las atracciones ecológicas más importantes e interesantes de la región del Caribe. El Jardín Botánico de Cartagena «Guillermo Piñeres» alberga una colección de más de 300 especies de plantas del bosque seco tropical colombiano y otras plantas exóticas ornamentales de otras regiones tropicales del mundo. También incluye uno de los últimos bosques nativos vírgenes de la región y es, por tanto, un importante recurso para la restauración del bosque seco tropical.
+  background: /assets/images/Picture4-JBGP.jpeg
+Mission:
+  reverse: true
+  title: Misión
+  description: |      # required
+   Nuestra misión es educar, investigar y preservar la flora, fauna y funga del Caribe colombiano. Nuestro objetivo es proporcionar material botánico de origen responsable para las prácticas de reintroducción y reforestación, educar sobre la diversidad y peculiaridad de los bosques secos del Caribe y mantener una colección de referencia de especímenes de herbario.
+   
+   También acogemos a estudiantes de pregrado para que realicen proyectos sobre la flora, fauna y funga locales. Cuentan con acceso a nuestra amplia biblioteca sobre flora neotropical, la colección del herbario, el vivero de investigación, entre otros.
+  background: /assets/images/Picture3-JBGP.jpeg
+
+polarBear:
+  reverse: false
+  title: Visítanos
+  description: |      # required
+    Horario de atención: de 8:00 a.m. a 4:00 p.m. Estamos abiertos 6 días a la semana, incluyendo fines de semana y feriados. Cerramos el primer día hábil de la semana.
+    Ofrecemos visitas guiadas, observación de aves y paquetes especiales para grupos (escuelas, universidades, empresas, turistas...).
+    
+    Estamos ubicados en el sector Matute del municipio de Turbaco, Bolívar (Colombia), km 9 de la autopista I-90. A 30 minutos en carretera desde el centro de Cartagena de Indias.
+  background: /assets/images/Picture2-JBGP.jpeg
+  cta:
+  - text: Encuéntranos
+    href: https://www.google.com/maps/place/Cartagena+Botanical+Garden+Guillermo+Pi%C3%B1eres/@10.3528437,-75.4286829,15z/data=!4m6!3m5!1s0x8ef621187c0334d7:0x344a1304623f6a64!8m2!3d10.3528437!4d-75.4286829!16s%2Fg%2F1th5_w45?entry=ttu 
+    isPrimary: true
