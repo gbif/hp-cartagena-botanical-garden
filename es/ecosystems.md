@@ -30,7 +30,6 @@ La flora de los Bosques Nublados no sólo se caracteriza por su riqueza sino tam
 
 Las iniciativas de conservación en la Sierra Nevada de Santa Marta tienen como objetivo proteger los bosques promoviendo prácticas de uso de la tierra sostenibles, involucrando a las comunidades locales en los esfuerzos de preservación y abogando por la aplicación de medidas de protección. La urgencia de salvaguardar estos paisajes bañados por nubes radica no solo en su irremplazable biodiversidad sino también en su papel vital en el mantenimiento de los recursos hídricos regionales y en la contribución a la resiliencia del ecosistema más amplio del Caribe colombiano. Preservar los bosques nubosos de la Sierra Nevada de Santa Marta es un testimonio de nuestro compromiso con la intrincada red de vida que adorna este extraordinario rincón del mundo.
 
-
 ![image](assets/images/DSC01960-01.jpeg)
 
 ## Manglar
