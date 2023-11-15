@@ -3,19 +3,19 @@ stats:
   features:
       # we can also use the graphql API to allow richer queries
     - title: 23409
-      description: Species occurrences
+      description: Ocurrencias de especies
       background: /assets/icons/ocurrence.svg
       href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
     - title: 14208
-      description: Herbarium specimens
+      description: Especímenes de herbario
       background: /assets/icons/leave.svg
       href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
     - title: 414
-      description: Citations
+      description: Citas
       background: /assets/icons/citation.svg
       href: https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c
     - title: 8
-      description: Datasets
+      description: Sets de datos
       background: /assets/icons/data.svg
       href: https://www.gbif.org/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
 
@@ -64,39 +64,39 @@ polarBear:
     isPrimary: true
 
 collectionsPreview:
-  title: Featured collections
+  title: Colecciones destacadas
   description: |
-    Biological collections hold immense significance in preserving Earth's biodiversity and advancing scientific knowledge. These meticulously curated repositories of plant and animal specimens serve as  resources for researchers, educators, and conservationists alike. Biological collections constitute an integral part of a country's national heritage. In the Colombian Caribbean, The Botanical Garden plays a key role in this regard.
+    Las colecciones biológicas tienen una inmensa importancia para la preservación de la biodiversidad y el avance del conocimiento científico. Estos repositorios albergan especímenes de plantas y animales meticulosamente curados que sirven como recursos para investigadores, educadores y conservacionistas por igual. Las colecciones biológicas constituyen una parte integral del patrimonio nacional de nuestro país. En el Caribe colombiano, el Jardín Botánico juega un papel clave en la preservación y curaduría sus de colecciones biológicas.
   features: 
-  - title: Herbarium
-    description: This collection, considered the most important in the Caribbean region of Colombia, hosts specimens collected by Alwyn Gentry, Hermes Cuadros, Santiago Madriñán, and Vlastimil Zak stand out. The records have been collected from the year 1957 to the year 2023 in 22 countries, with 81% of the records in Colombia, mainly from the Caribbean Region and the Sierra Nevada de Santa Marta.
+  - title: Herbario
+    description: Esta colección, considerada la más importante de la región Caribe de Colombia, alberga ejemplares recolectados por Alwyn Gentry, Hermes Cuadros, Santiago Madriñán y Vlastimil Zak. Los registros han sido recolectados desde el año 1957 hasta el año 2023 en 22 países, siendo el 81% de los registros en Colombia, principalmente de la Región Caribe y la Sierra Nevada de Santa Marta.
     background: /assets/images/Herbarium2-JBGP.jpeg
-    href: /our-herbarium
+    href: /es/our-herbarium
    # href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
   - title: Seed bank
-    description: Our seed bank aims to preserve a representative sample of native species populations from the seasonal tropical dry forest of the Colombian Caribbean. The research guidelines of the collection are focused on gathering the highest amount of biological and usage information from the specimens, following standardized protocols for seed collection, processing, and storage.
+    description: Nuestro banco de semillas tiene como objetivo preservar una muestra representativa de poblaciones de especies nativas del bosque seco tropical estacional del Caribe colombiano. Las pautas de investigación de la colección se centran en recopilar la mayor cantidad de información biológica y de uso de los especímenes, siguiendo protocolos estandarizados para la recolección, procesamiento y almacenamiento de semillas.
     background: /assets/images/SeedBank1-JBGP.jpeg
-    href: /seed-bank
+    href: /es/seed-bank
   - title: Living collections
-    description: The Living Collection of the Guillermo Piñeres Botanical Garden in Cartagena includes both native and cultivated tropical plants. Among its most important exhibitions are the Arboretum, Orchard, Palmetum, Xerophytic Garden, Evolutionary Garden, Ornamental Garden, and Native Forest.
+    description: La Colección Viva del Jardín Botánico de Cartagena incluye plantas tropicales tanto nativas como cultivadas. En los últimos años, los equipos de ciencia y horticultura del Jardín Botánico han trabajado juntos para reforzar el enfoque de conservación *ex-situ* de plantas endémicas y amenazadas nativas de la región del Caribe colombiano.
     background: /assets/images/JBGP_04468.jpg
-    href: /living-collections
+    href: /es/living-collections
 
 Outreach:
-  title: Outreach
+  title: Divulgación
   description: |
-    As part of the alliance between the Botanical Garden of Cartagena, Biodiversity Information for Development (BID), and the Global Biodiversity Information Facility (GBIF), and with the aim of consolidating knowledge about the flora of the tropical dry forest, the following resources were created with the aim of educating about of the flagship plants of the Colombian Caribbean.
+    Como parte de la alianza entre el Jardín Botánico de Cartagena, la Información de Biodiversidad para el Desarrollo (BID) y la Infraestructura Mundial de Información en Biodiversidad (GBIF), y con el objetivo de consolidar el conocimiento sobre la flora del bosque seco tropical, se crearon los siguientes recursos con el propósito de educar sobre las plantas representativas del Caribe colombiano
   features: 
   - title: Workshops
-    description: We educate young local researchers to make information about the ecosystems of the Colombian Caribbean available to the public.
+    description: Educamos a jóvenes investigadores locales para poner a disposición del público información sobre los ecosistemas del Caribe colombiano
     background: /assets/images/gbifworkshop.jpeg
     href: https://jbgp.org.co/en/workshops-gbif/
-  - title: Models
-    description: We collect occurrence data to create precise models for assessing the distribution of Colombian Caribbean flora. These models help predict where plant species are located, guiding conservation efforts effectively.
+  - title: Modelos de distribución
+    description: Recolectamos datos de ocurrencias para crear modelos que evalúen la distribución de la flora del Caribe colombiano. Estos modelos ayudan a prever la ubicación de las especies vegetales, orientando de manera efectiva los esfuerzos de conservación.
     background: /assets/images/model.png
     href: https://jbgp.org.co/wp-content/uploads/2023/06/mapas_comprimidos.pdf
-  - title: Phenologies
-    description: We use herbarium data to better predict the timing of events in Colombian Caribbean flora. This helps in understanding their ecological patterns and aids conservation efforts.
+  - title: Fenologías
+    description: Utilizamos datos de herbario para prever mejor el momento de eventos en la flora del Caribe colombiano. Esto ayuda a comprender sus patrones ecológicos y facilita los esfuerzos de conservación.
     background: /assets/images/pheno.png
     href: https://juankosp.github.io/fenologia/fenologi%CC%81a_interactiva.html 
 
@@ -106,16 +106,16 @@ OccurenceMap:
     <iframe seamless frameborder="0" src="/specimen/search/?view=MAP" height = '790' width="1370" scrolling='yes' ></iframe>
 
 Research:
-  title: Research
+  title: Investigación
   description: |
-    The Garden serves as hub for the study of native plant species, particularly those endemic to the seasonally dry tropical forest of the Colombian Caribbean. Through fieldwork and data collection, researchers at the Garden aim to deepen our understanding of the unique adaptations and ecological roles of these plants. This research not only adds to the scientific knowledge of local flora but also informs conservation strategies for preserving critical ecosystems.
+    El Jardín, un centro de ciencia certificado, impulsa el estudio de especies de plantas nativas, particularmente aquellas endémicas y amenazadas del bosque seco tropical estacional del Caribe colombiano. A través del trabajo de campo y la recopilación de datos, los investigadores del Jardín pretenden profundizar nuestra comprensión de las adaptaciones únicas y las funciones ecológicas de estas plantas. Estas investigaciones no solo aumentan el conocimiento científico de la flora local, sino que también generan información para el desarrollo de estrategias de conservación y preservar de ecosistemas críticos y su posterior implementación en toma de decisiones a una escala regional y global.
   features: 
-  - title: Permanent plots
-    description: Our permanent plots are crucial for long-term data collection, providing a baseline for biodiversity monitoring, understanding ecosystem dynamics, supporting conservation efforts, and facilitating ecological experiments and education.
+  - title: Monitoreo de vegetación
+    description: Nuestras parcelas permanentes son cruciales para la recopilación de datos a largo plazo, proporcionando una línea base para el monitoreo de la biodiversidad, comprendiendo la dinámica del ecosistema, respaldando esfuerzos de conservación y facilitando experimentos ecológicos y la educación.
     background: assets/images/JBGP_01419.jpg
     href: /dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83
-  - title: The Colombian Caribbean Biodiversity Project 
-    description: This project aims to conduct research on the origin and maintenance of biodiversity within an evolutionary systematic context. 
+  - title: Proyecto Biodiversidad del Caribe Colombiano 
+    description: Este proyecto yiene como objetivo el desarrollo de investigaciones sobre el origen y mantenimiento de la biodiversidad en un contexto sistemático evolutivo. Con base en estudios florísticos y faunísticos y de ecología de plantas, animales y sus interacciones principalmente, pero no limitados a la región Neotropical, reconocer sistemas biológicos adecuados para el estudio de evolución de la biota.  
     background: assets/images/JBGP_00825.jpg
     href: /dataset/52ffdb54-a3e9-4e83-9d30-ff81659873f9
 

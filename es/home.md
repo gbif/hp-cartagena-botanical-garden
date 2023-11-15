@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Explora la Biodiversidad del Caribe Colombiano
 background:  assets/images/JBGP_01.jpg
-description: El objetivo del Jardín Botánico de Cartagena es fomentar y ampliar una red colaborativa en el campo de la informática de la biodiversidad, facilitando la movilización, publicación y utilización de datos. Esta página web sirve como portal para acceder a registros publicados de ocurrencias de biodiversidad curados por el Jardín
+description: El objetivo del Jardín Botánico de Cartagena es fomentar y ampliar una red de colaboración en el campo de la informática de la biodiversidad facilitando la movilización, publicación y uso de datos. Esta página web sirve como portal para acceder a registros de biodiversidad publicados por el equipo de el Jardín.
 height: 90vh
 navbar:
     color: white
