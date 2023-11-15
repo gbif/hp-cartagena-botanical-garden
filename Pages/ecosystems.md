@@ -19,7 +19,7 @@ However, the Seasonally Dry Tropical Forest is facing severe threats, primarily 
 
 Preserving the Seasonally Dry Tropical Forest is crucial not only for the survival of its unique flora but also for the myriad ecosystem services it provides. This includes regulating local climate patterns, preventing soil erosion, and sustaining water resources for surrounding communities. Efforts to protect and restore the SDTF involve a combination of conservation initiatives, sustainable land management practices, and community engagement. By raising awareness about the ecological importance of the Seasonally Dry Tropical Forest and implementing measures to mitigate human impact, there is hope for securing the future of this extraordinary and imperiled ecosystem in the Colombian Caribbean.
 
-![image](assets/images/CF.jpg)
+![image](assets/images/IMG_0430.jpeg)
 
 ## The Cloud Forests of the Sierra Nevada de Santa Marta
 
