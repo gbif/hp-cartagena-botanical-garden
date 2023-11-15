@@ -7,7 +7,7 @@ permalink: /es/fauna
 ---
 El jardín alberga una increíble y diversa cantidad de especies, no solo de plantas nativas sino también de animales convirtiéndolo en un *hotspot* de la biodiversidad. Es un refugio para la vida silvestre de la zona, que cada vez se confina más debido a presiones ambientales negativas como la deforestación, canteras y expansión urbana. El bosque seco tropical estacional, un ecosistema altamente amenazado, es el hogar de algunas especies muy interesantes como el mono aullador rojo o el tití cabeciblanco, este último en peligro crítico de extinción.
 
-## Mammals 
+## Mamíferos
 
 ![image](/assets/images/HowlerJBGP.jpeg)
 ### Mono ahullador 
@@ -16,8 +16,8 @@ El mono más abundante en nuestro Jardín es el mono aullador rojo, *Alouatta se
 Se pueden observar en grupos de 3 a 16 individuos que contienen uno o muy pocos machos adultos, varias hembras adultas y su descendencia. Generalmente sólo se reproduce el macho alfa. Sus manos y pies móviles, y su cola prensil les ayudan a agarrarse y navegar en lo alto del dosel.
 
 ![image](/assets/images/MandarinJBGP.jpeg)
-### Cotton-top tamarin
-The cotton-top tamarin, *Saguinus oedipus*, is a small primate endemic to Colombia. Their habitat is restricted to the northwest of Colombia, ranging from the Atrato River in the west to the Magdalena River in the east. They are listed as critically endangered by the IUCN red list, leaving only 2,000-3,000 individuals in the wild. The garden has committed to their conservation reintroducing captured and confiscated individuals from illegal pet traded to the area. Their habitat range keeps decreasing due to urbanization and logging of their home forests.
+### Tití cabeciblanco
+El tití cabeciblanco, *Saguinus oedipus*, es un pequeño primate endémico de Colombia. Su hábitat está restringido al noroeste de Colombia, extendiéndose desde el río Atrato en el oeste hasta el río Magdalena en el este. Están catalogados como en peligro crítico de extinción en la lista roja de la UICN, lo que deja solo entre 2.000 y 3.000 individuos en estado silvestres. El jardín se ha comprometido con su conservación reintroduciendo en la zona individuos capturados y confiscados procedentes del comercio ilegal de mascotas. Su rango de hábitat sigue disminuyendo debido a la urbanización y la tala de sus bosques de origen.
 
 ![image](/assets/images/SlothJBGP.jpeg)
 ### Sloth
