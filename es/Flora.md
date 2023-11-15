@@ -4,6 +4,7 @@ title: Flora
 background: assets/images/JBGP_00852.jpg
 height: 70vh
 permalink: /es/flora/
+navbar:
 ---
 
 La flora natural del Jardín Botánico es diversa y está bien representada tanto en el bosque natural como en las exhibiciones curadas. Es una de las colecciones de plantas más importantes del Caribe y, dado que los bosques secos del Caribe están altamente amenazados, esto hace que este jardín sea aún más importante para la conservación y como fuente de semillas para programas de reintroducción.

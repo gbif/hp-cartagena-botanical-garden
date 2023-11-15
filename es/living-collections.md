@@ -11,6 +11,7 @@ cta:
     href: /dataset/7ed622d0-54a4-45b1-9af0-3f06e9a1a279
 height: 70vh
 permalink: /es/living-collections
+navbar:
 ---
 Ubicado en Turbaco, el Jardín Botánico "Guillermo Piñeres" de Cartagena es un oasis verde situado a 140 metros sobre el nivel del mar en un entorno semiurbano. Abarcando nueve hectáreas, el jardín es una cautivadora combinación de maravillas naturales y colecciones cuidadosamente curadas.
 
