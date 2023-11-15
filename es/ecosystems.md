@@ -4,7 +4,7 @@ title: Ecosistemas
 background: /assets/images/SNSM3.jpg
 imageLicense: Riley P. Fortier
 height: 70vh
-permalink: /es/ecosystems
+permalink: /es/ecosystems/
 navbar:
 ---
 
