@@ -73,11 +73,11 @@ collectionsPreview:
     background: /assets/images/Herbarium2-JBGP.jpeg
     href: /our-herbarium
    # href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
-  - title: Seed Bank
+  - title: Seed bank
     description: Our seed bank aims to preserve a representative sample of native species populations from the seasonal tropical dry forest of the Colombian Caribbean. The research guidelines of the collection are focused on gathering the highest amount of biological and usage information from the specimens, following standardized protocols for seed collection, processing, and storage.
     background: /assets/images/SeedBank1-JBGP.jpeg
     href: /seed-bank
-  - title: Living collection
+  - title: Living collections
     description: The Living Collection of the Guillermo Piñeres Botanical Garden in Cartagena includes both native and cultivated tropical plants. Among its most important exhibitions are the Arboretum, Orchard, Palmetum, Xerophytic Garden, Evolutionary Garden, Ornamental Garden, and Native Forest.
     background: /assets/images/Picture5-JBGP.jpeg
     href: /living-collections
