@@ -1,0 +1,127 @@
+stats:
+  background: "#edf3f3"
+  features:
+      # we can also use the graphql API to allow richer queries
+    - title: 23409
+      description: Species occurrences
+      background: /assets/icons/ocurrence.svg
+      href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
+    - title: 14208
+      description: Herbarium specimens
+      background: /assets/icons/leave.svg
+      href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
+    - title: 414
+      description: Citations
+      background: /assets/icons/citation.svg
+      href: https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c
+    - title: 8
+      description: Datasets
+      background: /assets/icons/data.svg
+      href: https://www.gbif.org/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
+
+#stats:
+ # background: "#edf3f3"
+  #features:
+   #   # we can also use the graphql API to allow richer queries
+    #- title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=698acf43-05cd-4b45-8107-7c666d87f77c">100</span>
+     # description: Species occurrences
+      #href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
+  #  - title: <span data-ajax-url="https://api.gbif.org/es/occurrence/search?dataset_key=fcb4e601-a1d8-44b6-a9d6-75fd05a280ef">100</span>
+   #   description: Herbarium specimens
+  #    href: https://www.gbif.org/occurrence/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
+  #  - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c">100</span>
+   #   description: Citations
+   #   href: https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c
+    #- title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&limit=0">100</span>
+     # description: Datasets
+     # href: https://www.gbif.org/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c
+
+TheGarden:
+  reverse: false
+  title: The Garden
+  description: |      # required
+      Just 30 minutes from Cartagena’s downtown lies one of the most important and interesting ecological attractions of the Caribbean region. The Botanical Garden of Cartagena “Guillermo Piñeres” houses a collection of more than 300 plant species of the Colombian tropical dry forest and additional weird and wonderful ornamental plants from other tropical regions of the world. It also includes one of the last remaining virgin native forests in the region and is thus an important resource for the restoration of the tropical dry forest.
+  background: /assets/images/Picture4-JBGP.jpeg
+Mission:
+  reverse: true
+  title: Mission
+  description: |      # required
+   Our mission is to educate, investigate and preserve the Colombian Caribbean flora, fauna and funga. We aim to provide responsibly sourced botanical material for reintroduction and reforestation practices, to educate about the diversity and peculiarity of the Caribbean dry forests, and maintain a reference collection of herbarium specimens.
+  background: /assets/images/Picture3-JBGP.jpeg
+
+polarBear:
+  reverse: false
+  title: Visit the garden
+  description: |      # required
+    Opening hours 8:00 a.m. to 4:00 p.m. We are open 6 days a week, including weekends and holidays. We are closed on the first business day of the week. 
+    We offer Guided tours Bird watching Special packages for groups (schools, universities, companies, tourists…).
+
+    We are located in the Matute sector of the municipality of Turbaco, Bolivar (Colombia), km 9 of the I-90 highway. 30 minutes by road from downtown Cartagena de Indias.
+  background: /assets/images/Picture2-JBGP.jpeg
+  cta:
+  - text: Find us
+    href: https://www.google.com/maps/place/Cartagena+Botanical+Garden+Guillermo+Pi%C3%B1eres/@10.3528437,-75.4286829,15z/data=!4m6!3m5!1s0x8ef621187c0334d7:0x344a1304623f6a64!8m2!3d10.3528437!4d-75.4286829!16s%2Fg%2F1th5_w45?entry=ttu 
+    isPrimary: true
+
+collectionsPreview:
+  title: Featured collections
+  description: |
+    Biological collections hold immense significance in preserving Earth's biodiversity and advancing scientific knowledge. These meticulously curated repositories of plant and animal specimens serve as  resources for researchers, educators, and conservationists alike. Biological collections constitute an integral part of a country's national heritage. In the Colombian Caribbean, The Botanical Garden plays a key role in this regard.
+  features: 
+  - title: Herbarium
+    description: This collection, considered the most important in the Caribbean region of Colombia, hosts specimens collected by Alwyn Gentry, Hermes Cuadros, Santiago Madriñán, and Vlastimil Zak stand out. The records have been collected from the year 1957 to the year 2023 in 22 countries, with 81% of the records in Colombia, mainly from the Caribbean Region and the Sierra Nevada de Santa Marta.
+    background: /assets/images/Herbarium2-JBGP.jpeg
+    href: /our-herbarium
+   # href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
+  - title: Seed bank
+    description: Our seed bank aims to preserve a representative sample of native species populations from the seasonal tropical dry forest of the Colombian Caribbean. The research guidelines of the collection are focused on gathering the highest amount of biological and usage information from the specimens, following standardized protocols for seed collection, processing, and storage.
+    background: /assets/images/SeedBank1-JBGP.jpeg
+    href: /seed-bank
+  - title: Living collections
+    description: The Living Collection of the Guillermo Piñeres Botanical Garden in Cartagena includes both native and cultivated tropical plants. Among its most important exhibitions are the Arboretum, Orchard, Palmetum, Xerophytic Garden, Evolutionary Garden, Ornamental Garden, and Native Forest.
+    background: /assets/images/JBGP_04468.jpg
+    href: /living-collections
+
+Outreach:
+  title: Outreach
+  description: |
+    As part of the alliance between the Botanical Garden of Cartagena, Biodiversity Information for Development (BID), and the Global Biodiversity Information Facility (GBIF), and with the aim of consolidating knowledge about the flora of the tropical dry forest, the following resources were created with the aim of educating about of the flagship plants of the Colombian Caribbean.
+  features: 
+  - title: Workshops
+    description: We educate young local researchers to make information about the ecosystems of the Colombian Caribbean available to the public.
+    background: /assets/images/gbifworkshop.jpeg
+    href: https://jbgp.org.co/en/workshops-gbif/
+  - title: Models
+    description: We collect occurrence data to create precise models for assessing the distribution of Colombian Caribbean flora. These models help predict where plant species are located, guiding conservation efforts effectively.
+    background: /assets/images/model.png
+    href: https://jbgp.org.co/wp-content/uploads/2023/06/mapas_comprimidos.pdf
+  - title: Phenologies
+    description: We use herbarium data to better predict the timing of events in Colombian Caribbean flora. This helps in understanding their ecological patterns and aids conservation efforts.
+    background: /assets/images/pheno.png
+    href: https://juankosp.github.io/fenologia/fenologi%CC%81a_interactiva.html 
+
+OccurenceMap: 
+   klass: iframe-box
+   markdownContent: |
+    <iframe seamless frameborder="0" src="/specimen/search/?view=MAP" height = '790' width="1370" scrolling='yes' ></iframe>
+
+Research:
+  title: Research
+  description: |
+    The Garden serves as hub for the study of native plant species, particularly those endemic to the seasonally dry tropical forest of the Colombian Caribbean. Through fieldwork and data collection, researchers at the Garden aim to deepen our understanding of the unique adaptations and ecological roles of these plants. This research not only adds to the scientific knowledge of local flora but also informs conservation strategies for preserving critical ecosystems.
+  features: 
+  - title: Permanent plots
+    description: Our permanent plots are crucial for long-term data collection, providing a baseline for biodiversity monitoring, understanding ecosystem dynamics, supporting conservation efforts, and facilitating ecological experiments and education.
+    background: assets/images/JBGP_01419.jpg
+    href: /dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83
+  - title: The Colombian Caribbean Biodiversity Project 
+    description: This project aims to conduct research on the origin and maintenance of biodiversity within an evolutionary systematic context. 
+    background: assets/images/JBGP_00825.jpg
+    href: /dataset/52ffdb54-a3e9-4e83-9d30-ff81659873f9
+
+#OccurenceMap: 
+#   klass: iframe-box
+#   markdownContent: |
+#    #<iframe seamless frameborder="0" src="https://api.gbif.org/v2/map/occurrence/adhoc/0/0/0@2x.png?srs=EPSG:4326&bin=hex&hexPerTile=200&publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&style=purpleYellow.point	" height = '790' width="1370" scrolling='yes' ></iframe>
+    
+
