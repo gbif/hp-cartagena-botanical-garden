@@ -18,4 +18,5 @@ composition:
     data: es.The-Garden.polarBear
 permalink: /es/the-garden
 navbar:
+lang: es
 ---
