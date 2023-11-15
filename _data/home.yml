@@ -105,6 +105,19 @@ OccurenceMap:
    markdownContent: |
     <iframe seamless frameborder="0" src="/specimen/search/?view=MAP" height = '790' width="1370" scrolling='yes' ></iframe>
 
+Research:
+  title: Research
+  description: |
+    The Garden serves as hub for the study of native plant species, particularly those endemic to the seasonally dry tropical forest of the Colombian Caribbean. Through fieldwork and data collection, researchers at the Garden aim to deepen our understanding of the unique adaptations and ecological roles of these plants. This research not only adds to the scientific knowledge of local flora but also informs conservation strategies for preserving critical ecosystems.
+  features: 
+  - title: Permanent plots
+    description: Our permanent plots are crucial for long-term data collection, providing a baseline for biodiversity monitoring, understanding ecosystem dynamics, supporting conservation efforts, and facilitating ecological experiments and education.
+    background: assets/images/JBGP_01419.jpg
+    href: https://www.gbif.org/dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83#description
+  - title: The Colombian Caribbean Biodiversity Project 
+    description: This project aims to conduct research on the origin and maintenance of biodiversity within an evolutionary systematic context. 
+    background: assets/images/JBGP_00825.jpg
+    href: https://www.gbif.org/dataset/3d69045d-372c-455f-8663-0d815cff666f
 
 #OccurenceMap: 
 #   klass: iframe-box

@@ -20,7 +20,11 @@
   - text: Living collections
     href: /living-collections
 - text: Specimens
-  href: /specimen/search
+  menu:
+    text: Search
+    href: /specimen/search
+    text: Map
+    href: /specimen/search/?view=MAP
 - text: Resources
   href: /Resources
   
