@@ -22,9 +22,9 @@
 - text: Especimenes
   menu:
   - text: Busqueda
-    href: /specimen/search
+    href: /es/specimen/search
   - text: Mapa
-    href: /specimen/search/?view=MAP
+    href: /es/specimen/search/?view=MAP
 - text: Recursos
   href: /es/resources
   
