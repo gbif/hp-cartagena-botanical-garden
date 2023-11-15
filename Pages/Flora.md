@@ -3,7 +3,7 @@ layout: heroImage
 title: Flora
 background: assets/images/JBGP_00852.jpg
 height: 70vh
-permalink: /Flora/
+permalink: /flora/
 ---
 
 The natural flora of the Botanical Garden is diverse and well represented both in the natural forest and in the planted collections. It is one of the most important collections of plants from the Caribbean and because the dry Caribbean forests are highly threatened it makes this garden even of greater importance for conservation and as a seed source for reintroduction programs.

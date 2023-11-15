@@ -1,4 +1,17 @@
 ---
+layout: home
+title: Resources
+background:  assets/images/SDTFpaint.jpg
+height: 70vh
+navbar:
+    color: white
+    hasWhiteText: false
+    floating: true
+composition:
+  - type: features
+    data: Resources.Guides
+permalink: /resources
+---
 layout: compose
 klass: compositionBlocks
 title: Resources
@@ -8,5 +21,5 @@ hasTextShadow: true
 composition:
 - type: features
   data: Guides
-permalink: /Resources
----
+permalink: /resources
+

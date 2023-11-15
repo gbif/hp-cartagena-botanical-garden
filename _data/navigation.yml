@@ -4,13 +4,13 @@
 - text: About
   menu: # Dropdown menu (one level deep only)
   - text: The Garden
-    href: /The-Garden/
+    href: /the-garden/
   - text: Ecosystems
     href: /ecosystems/
   - text: Caribbean flora
-    href: /Flora/
+    href: /flora/
   - text: Caribbean fauna
-    href: /Fauna/
+    href: /fauna/
 - text: Collections
   menu:
   - text: Herbarium
@@ -26,5 +26,5 @@
   - text: Map
     href: /specimen/search/?view=MAP
 - text: Resources
-  href: /Resources
+  href: /resources
   
