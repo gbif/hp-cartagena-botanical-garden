@@ -21,9 +21,9 @@
     href: /living-collections
 - text: Specimens
   menu:
-    text: Search
+  - text: Search
     href: /specimen/search
-    text: Map
+  - text: Map
     href: /specimen/search/?view=MAP
 - text: Resources
   href: /Resources
