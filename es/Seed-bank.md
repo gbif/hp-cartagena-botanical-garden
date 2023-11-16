@@ -18,3 +18,5 @@ Desde el inicio del banco de semillas en 2016, se han registrado de 1,672 accesi
 Este esfuerzo monumental de curar y documentar las muestras del banco de semillas ha sido posible gracias a las iniciativas visionarias de la Fundación Jardín Botánico de Cartagena. Bajo los auspicios del proyecto "Abriendo las colecciones al mundo: movilización de datos de las colecciones del Jardín Botánico de Cartagena", co-financiado por el programa BID-GBIF, el banco de semillas ha atravesado un proceso transformador de actualización y publicación de sus invaluables registros. Esto no solo fortalece el papel del banco de semillas como bastión de la conservación, sino que también abre su riqueza de conocimientos a la comunidad científica global, fomentando la colaboración y contribuyendo a una comprensión más profunda de la biodiversidad vegetal en el Caribe colombiano.
 
 El banco de semillas del Jardín Botánico de Cartagena es un modelo de conservación, investigación y cooperación internacional, desempeñando un papel vital en el esfuerzo continuo por salvaguardar los tesoros botánicos del bosque seco tropical estacional para las generaciones venideras.  
+
+
