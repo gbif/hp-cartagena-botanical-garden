@@ -3,6 +3,9 @@ layout: heroImage
 title: Flora
 background: assets/images/JBGP_00852.jpg
 height: 70vh
+cta:
+  - text: Ocurrencias
+    href: https://www.gbif.org/dataset/ce026ac1-000a-4c6d-a15d-1a983219022d
 permalink: /es/flora/
 navbar:
 ---
