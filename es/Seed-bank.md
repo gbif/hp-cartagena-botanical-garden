@@ -9,14 +9,11 @@ height: 70vh
 permalink: /es/seed-bank
 navbar:
 ---
-El Banco de Semillas del Jardín Botánico de Cartagena "Guillermo Piñeres" esta bajo la curaduria de una institución dedicada a la preservación y estudio de la diversidad floral única dentro del bosque seco tropical estacional del Caribe colombiano. Su objetivo principal gira en torno a la conservación de una muestra completa y representativa de poblaciones pertenecientes a especies nativas que prosperan en este ecosistema distintivo.
+El Banco de Semillas del Jardín Botánico de Cartagena "Guillermo Piñeres" esta bajo la curaduria de una institución dedicada a la preservación y estudio de la diversidad de flora única dentro del bosque seco tropical estacional del Caribe colombiano. Su objetivo principal gira en torno a la conservación de una muestra completa y representativa de poblaciones pertenecientes a especies nativas que prosperan en este ecosistema distintivo.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
 Guiada por protocolos de investigación, el enfoque de la colección se extiende más allá del almacenamiento; es un esfuerzo deliberado para acumular una gran cantidad de información biológica y de uso de cada espécimen. El cumplimiento riguroso de métodos  en  todo el ciclo de vida de las semillas, desde la recolección en el campo hasta el procesamiento y el almacenamiento, resalta el compromiso de mantener la diversidad genética y la integridad ecológica de estas invaluables especies de plantas.
-=======
-Guiada por protocolos de investigación, el enfoque de la colección se extiende más allá del almacenamiento; es un esfuerzo deliberado para acumular una gran cantidad de información biológica y de uso de cada espécimen. El cumplimiento riguroso de métodos en todo el ciclo de vida de las semillas, desde la recolección en el campo hasta el procesamiento y el almacenamiento, resalta el compromiso de mantener la diversidad genética y la integridad ecológica de estas invaluables especies de plantas.
->>>>>>> f25290a2583688ec2fc7812f138afa6e15ccd362
 
 Desde el inicio del banco de semillas en 2016, se han registrado de 1,672 accesiones, capturando una instantánea dinámica de la diversa vida vegetal en el bosque seco tropical estacional. Dentro de este extenso catálogo, 569 muestras representan semillas vivas aun preservadas en la colección, cada una cuidadosamente salvaguardada bajo los estandares de almacenamiento seguro del banco de semillas.
 
