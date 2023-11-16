@@ -5,7 +5,7 @@ background: /assets/images/Fauna1-JBGP.jpeg
 height: 70vh
 cta:
   - text: Ocurrencias
-    href: https://www.gbif.org/dataset/7ed622d0-54a4-45b1-9af0-3f06e9a1a279
+    href: https://www.gbif.org/species/search?dataset_key=7ed622d0-54a4-45b1-9af0-3f06e9a1a279&origin=SOURCE&advanced=1
 permalink: /es/fauna/
 navbar:
 ---
