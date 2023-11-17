@@ -10,7 +10,7 @@ navbar:
 
 El Caribe colombiano es una región caracterizada por sus ecosistemas diversos y únicos, cada uno de los cuales contribuye al rico tapiz de la biodiversidad. Un ecosistema destacado es el bosque seco tropical estacional, un bioma marcado por estaciones húmedas y secas. Este hábitat alberga una variedad de flora y fauna adaptada a los cambios cíclicos de las precipitaciones. Otro ecosistema digno de mención son los Bosques Nublados de la Sierra Nevada de Santa Marta, una majestuosa cadena montañosa a lo largo de la costa caribeña. Estos bosques cubiertos de niebla albergan una gran cantidad de especies endémicas y desempeñan un papel crucial en la regulación de los patrones climáticos locales. Los bosques nubosos no sólo son un refugio para la biodiversidad, sino que también sirven como una fuente de agua vital para las comunidades circundantes. Juntos, estos ecosistemas muestran las maravillas ecológicas que se encuentran en el Caribe colombiano, subrayando la importancia de los esfuerzos de conservación para salvaguardar su equilibrio único y delicado.
 
-![image](assets/images/IMG_9654.jpeg)
+![image](es/assets/images/IMG_9654.jpeg)
 
 ## Bosque Seco Tropical Estacional 
 
@@ -20,7 +20,7 @@ Sin embargo, el bosque tropical estacionalmente seco enfrenta graves amenazas, p
 
 Preservar el bosque seco tropical estacional  es crucial no sólo para la supervivencia de su biodiversidad sino también para los innumerables servicios ecosistémicos que proporciona. Esto incluye regular los patrones climáticos locales, prevenir la erosión del suelo y mantener los recursos hídricos para las comunidades circundantes. Los esfuerzos para proteger y restaurar el bosque seco implican una combinación de iniciativas de conservación, prácticas de gestión sostenible de la tierra y participación comunitaria. Al crear conciencia sobre su importancia ecológica e implementar medidas para mitigar el impacto humano, hay esperanza de asegurar el futuro de este ecosistema extraordinario y amenazado en el Caribe colombiano.
 
-![image](assets/images/IMG_0430.jpeg)
+![image](es/assets/images/IMG_0430.jpeg)
 
 ## Bosque de Niebla de la Sierra Nevada de Santa Marta
 
@@ -30,7 +30,7 @@ La flora de los Bosques Nublados no sólo se caracteriza por su riqueza sino tam
 
 Las iniciativas de conservación en la Sierra Nevada de Santa Marta tienen como objetivo proteger los bosques promoviendo prácticas de uso de la tierra sostenibles, involucrando a las comunidades locales en los esfuerzos de preservación y abogando por la aplicación de medidas de protección. La urgencia de salvaguardar estos paisajes bañados por nubes radica no solo en su irremplazable biodiversidad sino también en su papel vital en el mantenimiento de los recursos hídricos regionales y en la contribución a la resiliencia del ecosistema más amplio del Caribe colombiano. Preservar los bosques nubosos de la Sierra Nevada de Santa Marta es un testimonio de nuestro compromiso con la intrincada red de vida que adorna este extraordinario rincón del mundo.
 
-![image](assets/images/DSC01960-01.jpeg)
+![image](es/assets/images/DSC01960-01.jpeg)
 
 ## Manglar
 
