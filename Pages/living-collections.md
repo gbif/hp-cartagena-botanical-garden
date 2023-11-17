@@ -3,7 +3,7 @@ layout: heroImage
 title: Living collection
 background: assets/images/DSC6332.jpg
 cta:
-  - text: Checklist
+  - text: Explore ocurrences
     href: /collection/670f7255-ef6d-4f78-a8cc-4130ddbe9baf
 height: 80vh
 permalink: /living-collections

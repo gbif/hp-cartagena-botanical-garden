@@ -3,7 +3,7 @@ layout: heroImage
 title: Colección viva
 background: /assets/images/DSC6332.jpg
 cta:
-  - text: Checklist
+  - text: Explora las ocurrencias
     href: /collection/670f7255-ef6d-4f78-a8cc-4130ddbe9baf
 height: 80vh
 permalink: /es/living-collections/
