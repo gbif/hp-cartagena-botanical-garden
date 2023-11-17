@@ -2,9 +2,9 @@
 layout: heroImage 
 title: Fauna
 background: /assets/images/Fauna1-JBGP.jpeg
-height: 70vh
+height: 90vh
 cta:
-  - text: Ocurrences
+  - text: Checklist
     href: https://www.gbif.org/species/search?dataset_key=7ed622d0-54a4-45b1-9af0-3f06e9a1a279&origin=SOURCE&advanced=1
 permalink: /fauna
 ---

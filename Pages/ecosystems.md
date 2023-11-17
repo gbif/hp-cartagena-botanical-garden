@@ -3,7 +3,7 @@ layout: heroImage
 title: Ecosystems
 background: /assets/images/SNSM3.jpg
 imageLicense: Riley P. Fortier
-height: 70vh
+height: 90vh
 permalink: /ecosystems
 ---
 

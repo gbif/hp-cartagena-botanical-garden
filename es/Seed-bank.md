@@ -5,7 +5,7 @@ background: assets/images/SeedBank1-JBGP.jpeg
 cta:
   - text: Explora las ocurrencias
     href: /collection/a17c39f4-0dbe-47c2-b1a1-0195293ebf6f
-height: 70vh
+height: 90vh
 permalink: /es/seed-bank
 navbar:
 ---

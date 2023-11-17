@@ -2,9 +2,9 @@
 layout: heroImage
 title: Flora
 background: assets/images/JBGP_00852.jpg
-height: 70vh
+height: 90vh
 cta:
-  - text: Ocurrencias
+  - text: Checklist
     href: https://www.gbif.org/species/search?dataset_key=ce026ac1-000a-4c6d-a15d-1a983219022d&origin=SOURCE&advanced=1
 permalink: /es/flora/
 navbar:

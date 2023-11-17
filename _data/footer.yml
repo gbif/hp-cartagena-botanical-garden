@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: |
-      [<img src="assets/images/Logo_JBC_negro_sinfondo.png"/>](https://www.jbgp.org.co/en/)
+      [<img src="/assets/images/Logo_JBC_negro_sinfondo.png"/>](https://www.jbgp.org.co/en/)
   - name: Contact
     description: | # Can be Markdown
       * Matute km 9 Autopista I-90

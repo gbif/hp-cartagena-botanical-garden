@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Recursos
-background:  assets/images/SDTFpaint.jpg
-height: 70vh
+background:  assets/images/turnera.jpg
+height: 90vh
 navbar:
     color: white
     hasWhiteText: false
