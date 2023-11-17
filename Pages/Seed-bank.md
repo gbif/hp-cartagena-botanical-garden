@@ -3,7 +3,7 @@ layout: heroImage
 title: Our Seed Bank
 background: assets/images/SeedBank1-JBGP.jpeg
 cta:
-  - text: Checklist
+  - text: Explore ocurrences
     href: /collection/a17c39f4-0dbe-47c2-b1a1-0195293ebf6f
 height: 80vh
 permalink: /seed-bank
