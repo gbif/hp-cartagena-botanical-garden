@@ -18,5 +18,4 @@ composition:
   - type: split
     data: The-Garden.polarBear
 permalink: /the-garden
-navbar: 
 ---
