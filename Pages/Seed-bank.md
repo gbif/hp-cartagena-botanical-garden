@@ -1,7 +1,7 @@
 ---
 layout: heroImage 
 title: Our Seed Bank
-background: assets/images/SeedBank1-JBGP.jpeg
+background: /assets/images/SeedBank1-JBGP.jpeg
 cta:
   - text: Explore ocurrences
     href: /collection/a17c39f4-0dbe-47c2-b1a1-0195293ebf6f
