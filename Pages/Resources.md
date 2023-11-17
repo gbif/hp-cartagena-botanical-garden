@@ -2,7 +2,7 @@
 layout: home
 title: Resources
 background:  assets/images/turnera.jpg
-height: 90vh
+height: 80vh
 navbar:
     color: white
     hasWhiteText: false

@@ -7,7 +7,7 @@ cta:
     href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
   - text: Species of the dry forest
     href: /dataset/52ffdb54-a3e9-4e83-9d30-ff81659873f9
-height: 90vh
+height: 80vh
 permalink: /our-herbarium
 ---
 

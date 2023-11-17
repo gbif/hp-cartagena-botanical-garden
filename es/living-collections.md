@@ -5,7 +5,7 @@ background: /assets/images/DSC6332.jpg
 cta:
   - text: Checklist
     href: /collection/670f7255-ef6d-4f78-a8cc-4130ddbe9baf
-height: 90vh
+height: 80vh
 permalink: /es/living-collections/
 navbar:
 ---
