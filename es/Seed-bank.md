@@ -1,5 +1,6 @@
 ---
-layout: heroImage 
+layout: heroImage
+lang-ref: seed-bank
 title: Banco de Semillas
 background: /assets/images/SeedBank2-JBGP.jpeg
 cta:
