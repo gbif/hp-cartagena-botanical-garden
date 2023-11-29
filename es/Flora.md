@@ -5,7 +5,7 @@ background: assets/images/JBGP_00852.jpg
 height: 80vh
 cta:
   - text: Checklist
-    href: /dataset/ce026ac1-000a-4c6d-a15d-1a983219022d/
+    href: /es/dataset/ce026ac1-000a-4c6d-a15d-1a983219022d/
 permalink: /es/flora/
 lang-ref: flora
 ---
