@@ -7,6 +7,7 @@ cta:
   - text: Checklist
     href: https://www.gbif.org/species/search?dataset_key=ce026ac1-000a-4c6d-a15d-1a983219022d&origin=SOURCE&advanced=1
 permalink: /flora
+lang-ref: flora
 ---
 
 The natural flora of the Botanical Garden is diverse and well represented both in the natural forest and in the planted collections. It is one of the most important collections of plants from the Caribbean and because the dry Caribbean forests are highly threatened it makes this garden even of greater importance for conservation and as a seed source for reintroduction programs.

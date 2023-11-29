@@ -8,6 +8,7 @@ cta:
     href: /collection/a17c39f4-0dbe-47c2-b1a1-0195293ebf6f
 height: 80vh
 permalink: /es/seed-bank
+lang-ref: seed-bank
 ---
 El Banco de Semillas del Jardín Botánico de Cartagena "Guillermo Piñeres" esta bajo la curaduria de una institución dedicada a la preservación y estudio de la diversidad de flora única dentro del bosque seco tropical estacional del Caribe colombiano. Su objetivo principal gira en torno a la conservación de una muestra completa y representativa de poblaciones pertenecientes a especies nativas que prosperan en este ecosistema distintivo.
 

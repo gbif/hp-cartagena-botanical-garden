@@ -5,6 +5,7 @@ background: /assets/images/SNSM3.jpg
 imageLicense: Riley P. Fortier
 height: 80vh
 permalink: /es/ecosystems/
+lang-ref: ecosystems
 ---
 
 El Caribe colombiano es una región caracterizada por sus ecosistemas diversos y únicos, cada uno de los cuales contribuye al rico tapiz de la biodiversidad. Un ecosistema destacado es el bosque seco tropical estacional, un bioma marcado por estaciones húmedas y secas. Este hábitat alberga una variedad de flora y fauna adaptada a los cambios cíclicos de las precipitaciones. Otro ecosistema digno de mención son los Bosques Nublados de la Sierra Nevada de Santa Marta, una majestuosa cadena montañosa a lo largo de la costa caribeña. Estos bosques cubiertos de niebla albergan una gran cantidad de especies endémicas y desempeñan un papel crucial en la regulación de los patrones climáticos locales. Los bosques nubosos no sólo son un refugio para la biodiversidad, sino que también sirven como una fuente de agua vital para las comunidades circundantes. Juntos, estos ecosistemas muestran las maravillas ecológicas que se encuentran en el Caribe colombiano, subrayando la importancia de los esfuerzos de conservación para salvaguardar su equilibrio único y delicado.

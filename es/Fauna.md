@@ -7,6 +7,7 @@ cta:
   - text: Checklist
     href: https://www.gbif.org/species/search?dataset_key=7ed622d0-54a4-45b1-9af0-3f06e9a1a279&origin=SOURCE&advanced=1
 permalink: /es/fauna/
+lang-ref: fauna
 ---
 El jardín alberga una increíble y diversa cantidad de especies, no solo de plantas nativas sino también de animales convirtiéndolo en un *hotspot* de la biodiversidad. Es un refugio para la vida silvestre de la zona, que cada vez se confina más debido a presiones ambientales negativas como la deforestación, canteras y expansión urbana. El bosque seco tropical estacional, un ecosistema altamente amenazado, es el hogar de algunas especies muy interesantes como el mono aullador rojo o el tití cabeciblanco, este último en peligro crítico de extinción.
 

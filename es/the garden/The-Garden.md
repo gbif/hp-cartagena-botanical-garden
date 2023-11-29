@@ -18,5 +18,5 @@ composition:
   - type: split
     data: es.The-Garden.polarBear
 permalink: /es/the-garden
-lang: es
+lang-ref: the-garden
 ---

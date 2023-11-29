@@ -7,6 +7,7 @@ cta:
     href: /collection/670f7255-ef6d-4f78-a8cc-4130ddbe9baf
 height: 80vh
 permalink: /living-collections
+lang-ref: living-collections
 ---
 Located in the Turbaco, the Cartagena Botanical Garden "Guillermo Piñeres" is a verdant oasis situated at an elevation of 140 meters above sea level within a semi-urban landscape. Encompassing a sprawling nine hectares, the garden is a captivating blend of natural wonders and curated collections.
 

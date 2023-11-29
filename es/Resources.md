@@ -12,6 +12,7 @@ composition:
   - type: features
     data: es.Resources.Guides
 permalink: /es/resources
+lang-ref: resources
 ---
 layout: compose
 klass: compositionBlocks

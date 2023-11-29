@@ -12,6 +12,7 @@ composition:
   - type: features
     data: Resources.Guides
 permalink: /resources
+lang-ref: resources
 ---
 
 
