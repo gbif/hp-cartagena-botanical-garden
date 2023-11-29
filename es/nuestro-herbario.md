@@ -6,7 +6,7 @@ cta:
   - text: Explora las ocurrencias
     href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
   - text: Especies del bosque seco tropical
-    href: dataset/52ffdb54-a3e9-4e83-9d30-ff81659873f9
+    href: /dataset/52ffdb54-a3e9-4e83-9d30-ff81659873f9/
 height: 80vh
 permalink: /es/our-herbarium
 lang-ref: our-herbarium
