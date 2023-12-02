@@ -2,19 +2,19 @@ stats:
   background: "#edf3f3"
   features:
       # we can also use the graphql API to allow richer queries
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=698acf43-05cd-4b45-8107-7c666d87f77c">100</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=698acf43-05cd-4b45-8107-7c666d87f77c">10000</span>
       description: Ocurrencias de especies
       background: /assets/icons/ocurrence.svg
       href: /es/specimen/search/
-    - title: <span data-ajax-url="https://api.gbif.org/es/occurrence/search?dataset_key=fcb4e601-a1d8-44b6-a9d6-75fd05a280ef">100</span>
+    - title: <span data-ajax-url="https://api.gbif.org/es/occurrence/search?dataset_key=fcb4e601-a1d8-44b6-a9d6-75fd05a280ef">10000</span>
       description: Especímenes de herbario
       background: /assets/icons/leave.svg
       href: /es/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
-    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c">100</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c">10000</span>
       description: Citas
       background: /assets/icons/citation.svg
       href: /es/publisher/698acf43-05cd-4b45-8107-7c666d87f77c/citations
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&limit=0">100</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&limit=0">10000</span>
       description: Sets de datos
       background: /assets/icons/data.svg
       href: /es/dataset/search
