@@ -1,6 +1,6 @@
 ---
 title: Publisher
 description: We publish open data
-permalink: /publisher/key
+permalink: /publisher/_key_
 layout: publisher-key
 ---
