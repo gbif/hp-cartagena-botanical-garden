@@ -5,7 +5,7 @@ stats:
     - title: 23409
       description: Ocurrencias de especies
       background: /assets/icons/ocurrence.svg
-      href: /es/data/search
+      href: /es/specimen/search/
     - title: 14208
       description: Especímenes de herbario
       background: /assets/icons/leave.svg
