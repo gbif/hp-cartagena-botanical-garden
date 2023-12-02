@@ -13,7 +13,7 @@ stats:
     - title: 414
       description: Citations
       background: /assets/icons/citation.svg
-      href: /es/publisher/698acf43-05cd-4b45-8107-7c666d87f77c/citations
+      href: /publisher/698acf43-05cd-4b45-8107-7c666d87f77c/citations
     - title: 8
       description: Datasets
       background: /assets/icons/data.svg
