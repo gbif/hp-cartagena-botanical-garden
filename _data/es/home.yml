@@ -6,7 +6,7 @@ stats:
       description: Ocurrencias de especies
       background: /assets/icons/ocurrence.svg
       href: /es/specimen/search/
-    - title: <span data-ajax-url="https://api.gbif.org/es/occurrence/search?dataset_key=fcb4e601-a1d8-44b6-a9d6-75fd05a280ef">10000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/es/occurrence/search?dataset_key=fcb4e601-a1d8-44b6-a9d6-75fd05a280ef">100000</span>
       description: Especímenes de herbario
       background: /assets/icons/leave.svg
       href: /es/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
