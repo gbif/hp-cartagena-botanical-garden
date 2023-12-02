@@ -2,7 +2,7 @@ stats:
   background: "#edf3f3"
   features:
       # we can also use the graphql API to allow richer queries
-    - title: 23409
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=698acf43-05cd-4b45-8107-7c666d87f77c">100</span>
       description: Species occurrences
       background: /assets/icons/ocurrence.svg
       href: /specimen/search/
@@ -10,7 +10,7 @@ stats:
       description: Herbarium specimens
       background: /assets/icons/leave.svg
       href: /collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889
-    - title: 414
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c">100</span>
       description: Citations
       background: /assets/icons/citation.svg
       href: /publisher/698acf43-05cd-4b45-8107-7c666d87f77c/citations
