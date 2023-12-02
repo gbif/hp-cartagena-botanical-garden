@@ -5,7 +5,7 @@ stats:
     - title: 23409
       description: Species occurrences
       background: /assets/icons/ocurrence.svg
-      href: /data
+      href: /data/search
     - title: 14208
       description: Herbarium specimens
       background: /assets/icons/leave.svg
@@ -17,7 +17,7 @@ stats:
     - title: 8
       description: Datasets
       background: /assets/icons/data.svg
-      href: /dataset
+      href: /dataset/search
 
 #stats:
  # background: "#edf3f3"
