@@ -5,7 +5,7 @@ SDTF:
      El bosque seco tropical es uno de los ecosistemas más amenazados a nivel mundial contando actualmente con menos del 2 % de su extensión original. El bs-T del Jardín Botánico de Cartagena es un fragmento de 3 hectáreas ubicado cerca a Cartagena. Con el objetivo de estudiar la composición y estructura vegetal en uno de los últimos remanentes de bs-T en la zona, se construyó un parcela permanente de 1 hectárea y se censó la vegetación leñosa con diámetro a la altura del pecho (DAP) ≥ 2.5 cm. Se registraron 1.568 plantas y 2.023 tallos de 62 especies distribuidas en 34 familias. El 85 % de los individuos registrados fueron árboles y arbustos, el 11 % lianas, y el 4 % palmas. La familia con mayor riqueza de especies fue Sapindaceae, con cuatro, seguida de Apocynaceae, Arecaceae, Fabaceae, Meliaceae, Moraceae, Nyctaginaceae y Urticaceae, cada una con tres. Se concluye que el bosque se encuentra en un estado de sucesión secundario tardío, y que su ubicación e historial de perturbaciones son factores importantes en la determinación de su composición, estructura y diversidad.
   background: /assets/images/Picture4-JBGP.jpeg
   cta: 
-    - text: Set de datos
+  - text: Set de datos
     href: /es/dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83 
     isPrimary: true
 
@@ -16,6 +16,6 @@ SNSM:
      Debido a su aislamiento geográfico y significativa variación en las zonas térmicas, la Sierra Nevada de Santa Marta (SNSM) es conocida por sus elevados niveles de endemismo. A pesar de esto, existe una brecha de conocimiento de la flora y la dinámica forestal de la SNSM, especialmente en los bosques ubicados por encima de los 1,000 metros sobre el nivel del mar. Para abordar esta brecha, el Jardín estableció una parcela permanente de 1 hectárea en un remanente prístino de bosque de niebla primario en la reserva ProAves, El Dorado. Se recopiló información de 924 plantas pertenecientes a 22 órdenes, 41 familias, 65 géneros y 59 especies. El objetivo de este set de datos es contribuir a la expansión del conocimiento sobre la flora de un bosque en la Sierra Nevada de Santa Marta.
   background: /assets/images/Picture3-JBGP.jpeg
   cta: 
-    - text: Set de datos
+  - text: Set de datos
     href: /es/dataset/caf76652-9bb6-4d47-8a67-4c473cf56130
     isPrimary: true
