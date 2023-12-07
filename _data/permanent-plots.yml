@@ -3,7 +3,7 @@ SDTF:
   title: Seasonally Dry Tropical Forest (SDTF)
   description: |      # required
      The SDTF of the Cartagena Botanical Garden is a 3-hectare fragment located near Cartagena. With the aim of studying the composition and vegetal structure in one of the last remnants in the area, a permanent 1-hectare plot was established, and woody vegetation with a diameter at breast height (DBH) ≥ 2.5 cm was surveyed. A total of 1,568 individuals and 2,023 stems of 62 species distributed across 34 families were recorded. Eighty-five percent of the recorded individuals were trees and shrubs, 11% were lianas, and 4% were palms. The family with the highest species richness was Sapindaceae, with four species, followed by Apocynaceae, Arecaceae, Fabaceae, Meliaceae, Moraceae, Nyctaginaceae, and Urticaceae, each with three species. It is concluded that the forest is in a state of late secondary succession, and its location and disturbance history are important factors in determining its composition, structure, and diversity.
-  background: /assets/images/Picture4-JBGP.jpeg
+  background: /assets/images/20231123_202134690_iOS.jpeg
   cta: 
   - text: Dataset
     href: /dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83 
@@ -14,7 +14,7 @@ SNSM:
   title: Cloud Forest in the Sierra Nevada de Santa Marta
   description: |      # required
      Due to its geographical isolation and significant variation in thermal zones, the Sierra Nevada de Santa Marta (SNSM) is renowned for its elevated levels of endemism. Despite this, a knowledge gap exists in the understanding of the flora and forest dynamics of the SNSM, particularly in forests situated above 1000 meters above sea level. To address this gap, The Garden stabloshed a permanent 1-hectare plot within a pristine remnant of primary cloud forest in the ProAves reserve, El Dorado. Information was gathered from 924 plants belonging 22 orders, 41 families, 65 genera, and 59 species. The objective of this dataset is to contribute to the expansion of knowledge regarding the flora of a forest in the Sierra Nevada de Santa Marta.
-  background: /assets/images/Picture3-JBGP.jpeg
+  background: /assets/images/20231124_195513570_iOS.jpeg
   cta: 
   - text: Dataset
     href: /dataset/caf76652-9bb6-4d47-8a67-4c473cf56130
