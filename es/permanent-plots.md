@@ -13,9 +13,9 @@ navbar:
 composition:
   - type: heroImage
   - type: split
-    data: permanent-plots.SDTF
+    data: es.permanent-plots.SDTF
   - type: split
-    data: permanent-plots.SNSM
+    data: es.permanent-plots.SNSM
 permalink: /es/permanent-plots
 lang-ref: permanent-plots
 ---
