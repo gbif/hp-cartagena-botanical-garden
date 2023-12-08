@@ -3,7 +3,7 @@ layout: home
 klass: compositionBlocks
 title: Our permanent plots
 description: 
-background: assets/images/DSC00571.jpeg
+background: issues/pp
 imageLicense: Riley P. Fortier
 height: 80hv
 navbar:
