@@ -2,7 +2,7 @@
 layout: heroImage
 lang-ref: seed-bank
 title: Banco de Semillas
-background: gbif/hp-cartagena-botanical-garden/assets/images/IMG_2784.jpg
+background: assets/images/IMG_2784.jpg
 cta:
   - text: Explora las ocurrencias
     href: /es/collection/a17c39f4-0dbe-47c2-b1a1-0195293ebf6f
