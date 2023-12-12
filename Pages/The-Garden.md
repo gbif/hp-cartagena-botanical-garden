@@ -22,13 +22,8 @@ Our mission is to educate, investigate and preserve the Colombian Caribbean flor
 Opening hours 8:00 a.m. to 4:00 p.m. We are open 6 days a week, including weekends and holidays. We are closed on the first business day of the week. We offer Guided tours Bird watching Special packages for groups (schools, universities, companies, tourists…).
 
 We are located in the Matute sector of the municipality of Turbaco, Bolivar (Colombia), km 9 of the I-90 highway. 30 minutes by road from downtown Cartagena de Indias.
-
-![image](assets/images/IMG_0330.jpg)
-
-cta:
-  - text: Find us
+  background: /assets/images/Picture2-JBGP.jpeg
+  cta:
+  - text: Encuéntranos
     href: https://www.google.com/maps/place/Cartagena+Botanical+Garden+Guillermo+Pi%C3%B1eres/@10.3528437,-75.4286829,15z/data=!4m6!3m5!1s0x8ef621187c0334d7:0x344a1304623f6a64!8m2!3d10.3528437!4d-75.4286829!16s%2Fg%2F1th5_w45?entry=ttu 
-    isPrimary: true
-  - text: Website
-    href: https://jbgp.org.co/
     isPrimary: true
