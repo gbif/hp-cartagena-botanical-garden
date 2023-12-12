@@ -3,7 +3,7 @@ layout: home
 klass: compositionBlocks
 title: The Cartagena Botanical Garden
 description: 
-background:  /assets/images/Picture1-JBGP.jpeg
+background:  assets/images/_DSC6536.jpg
 height: 80hv
 navbar:
     color: white

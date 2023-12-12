@@ -1,11 +1,3 @@
-text:
-  title: "Research and Education"
-  description: |      # required
-    for the Conservation of Caribbean Biodiversity
-  background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#ffffff55"
-  hasWhiteText: false
-
 TheGarden:
   reverse: false
   title: The Garden
