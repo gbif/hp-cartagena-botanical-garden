@@ -1,9 +1,9 @@
 ---
 layout: heroImage
 title: The Cartagena Botanical Garden
-background: assets/images/_DSC6562.jpeg
+background: assets/images/IMG_0330.jpg
 height: 80vh
-permalink: /The-Garden
+permalink: /the-garden
 lang-ref: The-Garden
 ---
 
@@ -23,5 +23,5 @@ Opening hours 8:00 a.m. to 4:00 p.m. We are open 6 days a week, including weeken
 
 We are located in the Matute sector of the municipality of Turbaco, Bolivar (Colombia), km 9 of the I-90 highway. 30 minutes by road from downtown Cartagena de Indias.
 
-![image](assets/images/_DSC6261.jpg)
+![image](assets/images/_DSC6261.jpeg)
 
