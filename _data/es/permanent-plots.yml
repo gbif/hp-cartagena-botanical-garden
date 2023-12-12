@@ -3,7 +3,7 @@ SDTF:
   title: Bosque Seco Tropical (bs-T)
   description: |      # required
      El bosque seco tropical es uno de los ecosistemas más amenazados a nivel mundial contando actualmente con menos del 2 % de su extensión original. El bs-T del Jardín Botánico de Cartagena es un fragmento de 3 hectáreas ubicado cerca a Cartagena. Con el objetivo de estudiar la composición y estructura vegetal en uno de los últimos remanentes de bs-T en la zona, se construyó un parcela permanente de 1 hectárea y se censó la vegetación leñosa con diámetro a la altura del pecho (DAP) ≥ 2.5 cm. Se registraron 1.568 plantas y 2.023 tallos de 62 especies distribuidas en 34 familias. El 85 % de los individuos registrados fueron árboles y arbustos, el 11 % lianas, y el 4 % palmas. La familia con mayor riqueza de especies fue Sapindaceae, con cuatro, seguida de Apocynaceae, Arecaceae, Fabaceae, Meliaceae, Moraceae, Nyctaginaceae y Urticaceae, cada una con tres. Se concluye que el bosque se encuentra en un estado de sucesión secundario tardío, y que su ubicación e historial de perturbaciones son factores importantes en la determinación de su composición, estructura y diversidad.
-  background: /assets/images/20231123_202134690_iOS.jpeg
+  background: assets/images/20231124_195513570_iOS.jpeg
   cta: 
   - text: Set de datos
     href: /es/dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83 

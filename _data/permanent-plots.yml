@@ -3,7 +3,7 @@ SDTF:
   title: Seasonally Dry Tropical Forest (SDTF)
   description: |      # required
      The SDTF of the Cartagena Botanical Garden is a 3-hectare fragment located near Cartagena. With the aim of studying the composition and vegetal structure in one of the last remnants in the area, a permanent 1-hectare plot was established, and woody vegetation with a diameter at breast height (DBH) ≥ 2.5 cm was surveyed. A total of 1,568 individuals and 2,023 stems of 62 species distributed across 34 families were recorded. Eighty-five percent of the recorded individuals were trees and shrubs, 11% were lianas, and 4% were palms. The family with the highest species richness was Sapindaceae, with four species, followed by Apocynaceae, Arecaceae, Fabaceae, Meliaceae, Moraceae, Nyctaginaceae, and Urticaceae, each with three species. It is concluded that the forest is in a state of late secondary succession, and its location and disturbance history are important factors in determining its composition, structure, and diversity.
-  background: /assets/images/20231123_202134690_iOS.jpeg
+  background: assets/images/20231124_195513570_iOS.jpeg
   cta: 
   - text: Dataset
     href: /dataset/5ccd13d9-c3e2-44b6-b8c4-10b6a6771f83 
