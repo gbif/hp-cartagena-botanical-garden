@@ -2,7 +2,7 @@
 layout: heroImage
 lang-ref: seed-bank
 title: Our Seed Bank
-background: assets/images/IMG_2784.jpg
+background: aassets/images/IMG_2784.jpeg
 cta:
   - text: Explore ocurrences
     href: /collection/a17c39f4-0dbe-47c2-b1a1-0195293ebf6f
