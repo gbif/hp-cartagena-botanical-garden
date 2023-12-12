@@ -3,8 +3,8 @@ layout: home
 klass: compositionBlocks
 title: El Jardín Botánico de Cartagena "Guillermo Piñeres"
 description:   
-background:  assets/images/_DSC6536.jpg
-height: 80hv
+background:  assets/images/_DSC6562.jpeg
+height: 70hv
 navbar:
     color: white
     hasWhiteText: false
