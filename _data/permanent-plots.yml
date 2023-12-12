@@ -13,11 +13,8 @@ SNSM:
   reverse: true
   title: Cloud Forest in the Sierra Nevada de Santa Marta
   description: |      # required
-     Due to its geographical isolation and significant variation in thermal zones, the Sierra Nevada de Santa Marta (SNSM) is renowned for its elevated levels of endemism. Despite this, a knowledge gap exists in the understanding of the flora and forest dynamics of the SNSM, particularly in forests situated above 1000 meters above sea level. To address this gap, The Garden stabloshed a permanent 1-hectare plot within a pristine remnant of primary cloud forest in the ProAves reserve, El Dorado. Information was gathered from 924 plants belonging 22 orders, 41 families, 65 genera, and 59 species. The objective of this dataset is to contribute to the expansion of knowledge regarding the flora of a forest in the Sierra Nevada de Santa Marta. 
-     
-     Allies [Jungle Biology](https://www.junglebiology.org/).
-     
-  background: assets/images/20231123_204536410_iOS.jpg
+     Due to its geographical isolation and significant variation in thermal zones, the Sierra Nevada de Santa Marta (SNSM) is renowned for its elevated levels of endemism. Despite this, a knowledge gap exists in the understanding of the flora and forest dynamics of the SNSM, particularly in forests situated above 1000 meters above sea level. To address this gap, The Garden stabloshed a permanent 1-hectare plot within a pristine remnant of primary cloud forest in the ProAves reserve, El Dorado. Information was gathered from 924 plants belonging 22 orders, 41 families, 65 genera, and 59 species. The objective of this dataset is to contribute to the expansion of knowledge regarding the flora of a forest in the Sierra Nevada de Santa Marta.
+  background: /assets/images/20231124_195513570_iOS.jpeg
   cta: 
   - text: Dataset
     href: /dataset/caf76652-9bb6-4d47-8a67-4c473cf56130
