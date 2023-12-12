@@ -9,6 +9,9 @@ navbar:
     color: white
     hasWhiteText: false
     floating: true
+markdownContent:
+  #Research and Education for the Conservation of Caribbean Biodiversity
+  
 composition:
   - type: heroImage
   - type: split
