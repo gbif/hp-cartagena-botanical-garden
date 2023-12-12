@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: The Cartagena Botanical Garden
+title: Jardín Botánico de Cartagena
 background: assets/images/IMG_0670.jpg
 height: 80vh
 permalink: /es/the-garden
