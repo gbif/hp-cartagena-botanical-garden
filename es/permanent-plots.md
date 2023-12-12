@@ -11,6 +11,7 @@ navbar:
     floating: true
 composition:
   - type: heroImage
+  height: 100hv
   - type: split
     data: es.permanent-plots.SDTF
   - type: split
