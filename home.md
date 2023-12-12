@@ -11,8 +11,6 @@ navbar:
     floating: true
 composition:
   - type: heroImage
-  - type: 
-    data: home.spacer
   - type: stats
     data: home.stats
   - type: features
