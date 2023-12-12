@@ -16,7 +16,7 @@ lang-ref: our-herbarium
 
 The Herbarium of the Jardín Botánico “Guillermo Piñeres” (JBGP) was founded in 1978 by Hermes Cuadros who directed it until the year 2000. Material was collected from several historical expeditions during the 1980s. Since 2016 collecting activities have increased and all seed collections are now associated with herbarium vouchers. Currently the collections are curated by Maria Paula Contreras and Santiago Madriñán.
 
-![image] assets/images/20231124_195513570_iOS.jpeg
+![image](assets/images/20231124_195513570_iOS.jpeg)
 
 ## History
 

@@ -14,7 +14,7 @@ lang-ref: our-herbarium
 
 El Herbario del Jardín Botánico 'Guillermo Piñeres' (JBGP) fue fundado en 1978 por Hermes Cuadros, quien lo dirigió hasta el año 2000. Se recolectó material de varias expediciones históricas durante la década de 1980. Desde 2016, las actividades de recolección han aumentado y todas las colecciones de semillas ahora están asociadas con vouchers del herbario. Actualmente, las colecciones son gestionadas por María Paula Contreras y Santiago Madriñán.
 
-![image] assets/images/20231124_195513570_iOS.jpeg
+![image](assets/images/20231124_195513570_iOS.jpeg)
 
 ## Historia
 
