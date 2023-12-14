@@ -1,7 +1,7 @@
 ---
 layout: home
 klass: compositionBlocks
-title: Our permanent plots
+title: Permanent plots
 description: 
 background: assets/images/IMG_4884.JPG
 height: 80hv
