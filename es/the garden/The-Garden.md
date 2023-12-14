@@ -9,7 +9,7 @@ lang-ref: The-Garden
 
 A sólo 30 minutos del centro de Cartagena se encuentra una de las atracciones ecológicas más importantes e interesantes de la región del Caribe. El Jardín Botánico de Cartagena «Guillermo Piñeres» alberga una colección de más de 300 especies de plantas del bosque seco tropical colombiano y otras plantas exóticas ornamentales de otras regiones tropicales del mundo. También incluye uno de los últimos bosques nativos vírgenes de la región y es, por tanto, un importante recurso para la restauración del bosque seco tropical.
 
-![image](assets/images/JBGP_001.jpg)
+![image](/assets/images/JBGP_001.jpg)
 
 ## Misión 
 
@@ -17,7 +17,7 @@ Nuestra misión es educar, investigar y preservar la flora, fauna y funga del Ca
 
 También acogemos a estudiantes de pregrado para que realicen proyectos sobre la flora, fauna y funga locales. Cuentan con acceso a nuestra amplia biblioteca sobre flora neotropical, la colección del herbario, el vivero de investigación, entre otros.
 
-![image](assets/images/Picture3-JBGP.jpeg)
+![image](/assets/images/Picture3-JBGP.jpeg)
 
 ## Visítanos
 
