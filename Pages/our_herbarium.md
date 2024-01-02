@@ -14,10 +14,13 @@ lang-ref: our-herbarium
 
 ## Our Herbarium 
 
-The Herbarium of the Jardín Botánico “Guillermo Piñeres” (JBGP) was founded in 1978 by Hermes Cuadros who directed it until the year 2000. Material was collected from several historical expeditions during the 1980s. Since 2016 collecting activities have increased and all seed collections are now associated with herbarium vouchers. Currently the collections are curated by Maria Paula Contreras and Santiago Madriñán.
+The Herbarium of the Jardín Botánico “Guillermo Piñeres” (JBGP) was founded in 1978. This collection, considered the most important in the Caribbean region of Colombia, highlights the contributions of Alwyn Gentry, Hermes Cuadros, Santiago Madriñán, and Vlastimil Zak. Records have been gathered from 1957 to 2023 in 22 countries, with 81% of them originating in Colombia, primarily from the Caribbean Region and the Sierra Nevada de Santa Marta.
+
+Materials were collected during various historical expeditions in the 1980s. Since 2016, collecting activities have increased, and all seed collections are now associated with herbarium vouchers. Currently, Maria Paula Contreras and Santiago Madriñán oversee the curation of the collections. 
+
+Many of the localities of our historical collections are now inaccessible, or the ecosystems have been dramatically transformed by human impact. This historical record of the past locations is invaluable for future studies on biogeography, climate change, and human impact on the landscape and nature development. Several of these collections lack duplicates in other national or international herbaria. Our team of volunteers mounts newly collected specimens on their final sheets, with approximately 400 newly collected specimens added annually.
+
 
 ![image](assets/images/20231123_202134690_iOS.jpeg)
 
-## History
 
-With ca 15.000 specimens, the JBGP Herbarium is the most important plant collection of the Colombian Caribbean. It includes two type specimens. In addition, it houses specimens from other tropical American countries for comparison purposes, donated by the many visiting botanists over the years, or obtained through exchange programs. We house important collection from eminent botanists like Hermes Cuadros, Enrique Forero-Gonzalez and Alwin H. Gentry. Many of the localities of our historical collections are either nowadays inaccessible, or the ecosystems have been dramatically transformed by human impact. This historical record of what was where is invaluable for future studies on biogeography, climate change, human impact on the landscape and nature development. Many of these collections have no duplicates in other national or international herbaria. Our team of volunteers mounts newly collected specimens on their final sheets. Approximately 400 newly collected specimens are added annually.
