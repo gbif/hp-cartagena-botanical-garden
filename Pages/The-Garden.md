@@ -13,7 +13,7 @@ Just 30 minutes from Cartagena’s downtown lies one of the most important and i
 
 ## Mission 
 
-Our mission is to educate, investigate and preserve the Colombian Caribbean flora, fauna and funga. We aim to provide responsibly sourced botanical material for reintroduction and reforestation practices, to educate about the diversity and peculiarity of the Caribbean dry forests, and maintain a reference collection of herbarium specimens.
+Our mission is to educate, investigate and preserve the Colombian Caribbean flora, fauna and funga. We aim to provide responsibly sourced botanical material for reintroduction and reforestation practices, to educate about the diversity and peculiarity of the Caribbean dry forests, and maintain a reference collection of herbarium specimens. 
 
 ![image](assets/images/Picture3-JBGP.jpeg)
 
