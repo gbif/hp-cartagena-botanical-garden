@@ -7,7 +7,7 @@ permalink: /the-garden
 lang-ref: The-Garden
 ---
 
-Just 30 minutes from Cartagena’s downtown lies one of the most important and interesting ecological attractions of the Caribbean region. The Botanical Garden of Cartagena “Guillermo Piñeres” houses a collection of more than 300 plant species of the Colombian tropical dry forest and additional weird and wonderful ornamental plants from other tropical regions of the world. It also includes one of the last remaining virgin native forests in the region and is thus an important resource for the restoration of the tropical dry forest.
+Just 30 minutes from Cartagena’s downtown lies one of the most important and interesting ecological attractions of the Caribbean region. The Botanical Garden of Cartagena “Guillermo Piñeres” houses a collection of more than 300 plant species of the Colombian tropical dry forest and additional weird and wonderful ornamental plants from other tropical regions of the world. It also includes one of the last remaining virgin native forests in the region and is thus an important resource for the restoration of the tropical dry forest. 
 
 ![image](assets/images/JBGP_01.jpg)
 
