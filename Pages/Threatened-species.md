@@ -27,12 +27,12 @@ The selected species and the information obtained about their distribution and p
 
 [Map of distribution](assets/images/threatened-species/Mapa_Aspidosperma_polyneuron.pdf)
 
-<a href="https://drive.google.com/file/d/1b7mxVVaesUoSAwWNY4GrQWH6yTLqiOUN/view?usp=sharing" target="_blank">Map of distribution Aspidosperma polyneurona</a>
+<a href="https://drive.google.com/file/d/1b7mxVVaesUoSAwWNY4GrQWH6yTLqiOUN/view?usp=sharing" target="_blank">Map of distribution Aspidosperma polyneuron</a>
 
 ## _Clavija sanctae-martae_
 
 - **Family:** Primulaceae
-- **IUCN status:** Vulnerable B1ab(iii) (VU), endemic to Colombia.
+- **IUCN status:** Vulnerable B1ab(iii) (VU), endemic to Colombia
 - **Habitat:** Sierra Nevada de Santa Marta
 
 ### Phenology
@@ -43,19 +43,83 @@ The selected species and the information obtained about their distribution and p
 
 ![image](assets/images/threatened-species/Mapa_Clavija_sanctae-martae.png)
 
-## _Aspidosperma polyneuron_
+## _Handroanthus coralibe_
 
-- **Family:** Apocynaceae
-- **IUCN status:** Endangered A1acd+2cd (EN)
-- **Colombian Red List status:** Endangered (EN)
+- **Family:** Bignoniaceae
+- **IUCN status:** Vulnerable B2ab(iii) (VU), endemic to Colombia
 - **Habitat:** Tropical dry forest
 
 ### Phenology
 
-![image](assets/images/threatened-species/Phenology_Aspidosperma_polyneuron.png)
+![image](assets/images/threatened-species/Phenology_Handroanthus_coralibe.png)
 
 ### Distribution
 
-[Map of distribution](assets/images/threatened-species/Mapa_Aspidosperma_polyneuron.pdf)
+[Map of distribution](assets/images/threatened-species/Mapa_Handroanthus_coralibe.pdf)
 
-<a href="https://drive.google.com/file/d/1b7mxVVaesUoSAwWNY4GrQWH6yTLqiOUN/view?usp=sharing" target="_blank">Map of distribution Aspidosperma polyneurona</a>
+<a href="https://drive.google.com/file/d/1RM4ysyqJ1Dnr_LgHnhJH8jljR30cEUVK/view?usp=sharing" target="_blank">Map of distribution Handroanthus coralibe</a>
+
+## _Libidibia punctata_
+
+- **Family:** Fabaceae
+- **IUCN status:** Vulnerable B2ab(iii) (VU), endemic to Colombia
+- **Habitat:** Tropical dry forest
+
+### Phenology
+
+![image](assets/images/threatened-species/Phenology_Libidibia_punctata.png)
+
+### Distribution
+
+[Map of distribution](assets/images/threatened-species/Mapa_Libidibia_punctata.pdf)
+
+<a href="https://drive.google.com/file/d/1IHP0AGGzdxpWlYLahK7tgWK0Ge9eV1TQ/view?usp=sharing" target="_blank">Map of distribution Libidibia punctata</a>
+
+## _Pachira quinata_
+
+- **Family:** Malvaceae
+- **IUCN status:** Vulnerable A1cd (VU) as _Bombacopsis quinata_
+- **Colombian Red List status:** Endangered
+- **Habitat:** Tropical dry forest
+
+### Phenology
+
+![image](assets/images/threatened-species/Phenology_Pachira_quinata.png)
+
+### Distribution
+
+[Map of distribution](assets/images/threatened-species/Mapa_Pachira_quinata.pdf)
+
+<a href="https://drive.google.com/file/d/1ZD0M6XvaO6YlENmkAc2BCTTTtjGqZQcP/view?usp=sharing" target="_blank">Map of distribution Pachira quinata</a>
+
+## _Pelliciera benthamii_
+
+- **Family:** Tetrameristaceae
+- **IUCN status:** Vulnerable B2ab(iii) (VU)
+- **Habitat:** Mangrove Forest
+
+### Phenology
+
+![image](assets/images/threatened-species/Phenology_Pelliciera_benthamii.png)
+
+### Distribution
+
+[Map of distribution](assets/images/threatened-species/Mapa_Pelliciera_benthamii.pdf)
+
+<a href="https://drive.google.com/file/d/1Np6BD02_s5FnqC7ypdPeYuZEv5lgwAab/view?usp=sharing" target="_blank">Map of distribution Pelliciera benthamii</a>
+
+## _Pterocarpus acapulsensis_
+
+- **Family:** Fabaceae
+- **IUCN status:** Vulnerable A3c+4cd (VU)
+- **Habitat:** Tropical dry forest
+
+### Phenology
+
+![image](assets/images/threatened-species/Phenology_Pterocarpus_acapulcensis.png)
+
+### Distribution
+
+[Map of distribution](assets/images/threatened-species/Mapa_Pterocarpus_acapulsensis.pdf)
+
+<a href="https://drive.google.com/file/d/1Np6BD02_s5FnqC7ypdPeYuZEv5lgwAab/view?usp=sharing" target="_blank">Map of distribution Pterocarpus acapulsensis</a>
