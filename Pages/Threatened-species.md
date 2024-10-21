@@ -25,4 +25,37 @@ The selected species and the information obtained about their distribution and p
 
 ### Distribution
 
-https://docs.google.com/viewer?url=https://github.com/gbif/hp-cartagena-botanical-garden/blob/cfb4127e6006b66930e7fa30747fc6432090fbda/assets/images/threatened-species/Mapa_Aspidosperma_polyneuron.pdf 
+[Map of distribution](assets/images/threatened-species/Mapa_Aspidosperma_polyneuron.pdf)
+
+<a href="https://drive.google.com/file/d/1b7mxVVaesUoSAwWNY4GrQWH6yTLqiOUN/view?usp=sharing" target="_blank">Map of distribution Aspidosperma polyneurona</a>
+
+## _Clavija sanctae-martae_
+
+- **Family:** Primulaceae
+- **IUCN status:** Vulnerable B1ab(iii) (VU), endemic to Colombia.
+- **Habitat:** Sierra Nevada de Santa Marta
+
+### Phenology
+
+![image](assets/images/threatened-species/Phenology_Clavija_sanctae-martae.png)
+
+### Distribution
+
+![image](assets/images/threatened-species/Mapa_Clavija_sanctae-martae.png)
+
+## _Aspidosperma polyneuron_
+
+- **Family:** Apocynaceae
+- **IUCN status:** Endangered A1acd+2cd (EN)
+- **Colombian Red List status:** Endangered (EN)
+- **Habitat:** Tropical dry forest
+
+### Phenology
+
+![image](assets/images/threatened-species/Phenology_Aspidosperma_polyneuron.png)
+
+### Distribution
+
+[Map of distribution](assets/images/threatened-species/Mapa_Aspidosperma_polyneuron.pdf)
+
+<a href="https://drive.google.com/file/d/1b7mxVVaesUoSAwWNY4GrQWH6yTLqiOUN/view?usp=sharing" target="_blank">Map of distribution Aspidosperma polyneurona</a>
