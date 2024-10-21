@@ -27,7 +27,7 @@ The selected species and the information obtained about their distribution and p
 
 ### Distribution
 
-[Map of distribution](assets/images/threatened-species/Mapa_Aspidosperma_polyneuron.pdf)
+[Download Map of distribution](assets/images/threatened-species/Mapa_Aspidosperma_polyneuron.pdf)
 
 <a href="https://drive.google.com/file/d/1b7mxVVaesUoSAwWNY4GrQWH6yTLqiOUN/view?usp=sharing" target="_blank">Map of distribution Aspidosperma polyneuron</a>
 
@@ -57,7 +57,7 @@ The selected species and the information obtained about their distribution and p
 
 ### Distribution
 
-[Map of distribution](assets/images/threatened-species/Mapa_Handroanthus_coralibe.pdf)
+[Download Map of distribution](assets/images/threatened-species/Mapa_Handroanthus_coralibe.pdf)
 
 <a href="https://drive.google.com/file/d/1RM4ysyqJ1Dnr_LgHnhJH8jljR30cEUVK/view?usp=sharing" target="_blank">Map of distribution Handroanthus coralibe</a>
 
@@ -73,7 +73,7 @@ The selected species and the information obtained about their distribution and p
 
 ### Distribution
 
-[Map of distribution](assets/images/threatened-species/Mapa_Libidibia_punctata.pdf)
+[Download Map of distribution](assets/images/threatened-species/Mapa_Libidibia_punctata.pdf)
 
 <a href="https://drive.google.com/file/d/1IHP0AGGzdxpWlYLahK7tgWK0Ge9eV1TQ/view?usp=sharing" target="_blank">Map of distribution Libidibia punctata</a>
 
@@ -90,7 +90,7 @@ The selected species and the information obtained about their distribution and p
 
 ### Distribution
 
-[Map of distribution](assets/images/threatened-species/Mapa_Pachira_quinata.pdf)
+[Download Map of distribution](assets/images/threatened-species/Mapa_Pachira_quinata.pdf)
 
 <a href="https://drive.google.com/file/d/1ZD0M6XvaO6YlENmkAc2BCTTTtjGqZQcP/view?usp=sharing" target="_blank">Map of distribution Pachira quinata</a>
 
@@ -106,7 +106,7 @@ The selected species and the information obtained about their distribution and p
 
 ### Distribution
 
-[Map of distribution](assets/images/threatened-species/Mapa_Pelliciera_benthamii.pdf)
+[Download Map of distribution](assets/images/threatened-species/Mapa_Pelliciera_benthamii.pdf)
 
 <a href="https://drive.google.com/file/d/1Np6BD02_s5FnqC7ypdPeYuZEv5lgwAab/view?usp=sharing" target="_blank">Map of distribution Pelliciera benthamii</a>
 
@@ -122,6 +122,6 @@ The selected species and the information obtained about their distribution and p
 
 ### Distribution
 
-[Map of distribution](assets/images/threatened-species/Mapa_Pterocarpus_acapulsensis.pdf)
+[Download Map of distribution](assets/images/threatened-species/Mapa_Pterocarpus_acapulsensis.pdf)
 
 <a href="https://drive.google.com/file/d/1Np6BD02_s5FnqC7ypdPeYuZEv5lgwAab/view?usp=sharing" target="_blank">Map of distribution Pterocarpus acapulsensis</a>
