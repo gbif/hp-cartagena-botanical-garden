@@ -1,5 +1,6 @@
 ---
 layout: heroImage
+lang: en
 title: Threatened Species
 background: assets/images/IMG_4985.jpg
 height: 80vh
