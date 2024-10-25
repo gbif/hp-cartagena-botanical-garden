@@ -14,22 +14,23 @@ navbar:
   hasWhiteText: false
   floating: true
 composition:
-- type: heroImage
-- type: pageMarkdown  # render markdown in this file
-- type: split
-  data: threatened-species.list.aspidosperma-polyneuron
-- type: split
-  data: threatened-species.list.clavija-sanctae-martae
-- type: split
-  data: threatened-species.list.handroanthus-coralibe
-- type: split
-  data: threatened-species.list.libidibia-punctata
-- type: split
-  data: threatened-species.list.pachira-quinata
-- type: split
-  data: threatened-species.list.pelliciera-benthamii
-- type: split
-  data: threatened-species.list.pterocarpus-acapulsensis
+ - type: heroImage
+ - type: pageMarkdown  # render markdown in this file
+ - type: split
+   data: threatened-species.list.aspidosperma-polyneuron
+ - type: split
+   data: threatened-species.list.clavija-sanctae-martae
+ - type: split
+   data: threatened-species.list.handroanthus-coralibe
+ - type: split
+   data: threatened-species.list.libidibia-punctata
+ - type: split
+   data: threatened-species.list.pachira-quinata
+ - type: split
+   data: threatened-species.list.pelliciera-benthamii
+ - type: split
+   data: threatened-species.list.pterocarpus-acapulsensis
+permalink: /threatened-species
 ---
 
 # Franklinia Project
