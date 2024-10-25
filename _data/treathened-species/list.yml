@@ -2,8 +2,8 @@
 
 aspidosperma-polyneuron:
   reverse: false
-  title: *Aspidosperma polyneuron* (Carreto)
-  description: **Family:** Apocynaceae. **IUCN status:** Endangered A1acd+2cd (EN). **Colombian Red List status:** Endangered (EN). **Habitat:** Tropical dry forest.
+  title: Aspidosperma polyneuron (Carreto)
+  description: Family: Apocynaceae. IUCN status: Endangered A1acd+2cd (EN). Colombian Red List status: Endangered (EN). Habitat: Tropical dry forest.
   background: assets/images/threatened-species/Aspidosperma polyneuron.jpg
   cta:
     - text: View the biomodel
@@ -12,8 +12,8 @@ aspidosperma-polyneuron:
 
 clavija-sanctae-martae:
   reverse: true
-  title: *Clavija sanctae-martae* (Clavija)
-  description: **Family:** Primulaceae. **IUCN status:** Vulnerable B1ab(iii) (VU), endemic to Colombia. **Habitat:** Sierra Nevada de Santa Marta.
+  title: Clavija sanctae-martae (Clavija)
+  description: Family: Primulaceae. IUCN status: Vulnerable B1ab(iii) (VU), endemic to Colombia. Habitat: Sierra Nevada de Santa Marta.
   background: assets/images/threatened-species/Clavija sancta-martae.jpg
       - text: View the biomodel
       href: https://drive.google.com/file/d/1dXLLGOkmhPcJzIHt_NcetkfPB_nCXRyR/view?usp=drive_link
@@ -21,8 +21,8 @@ clavija-sanctae-martae:
 
 handroanthus-coralibe:
   reverse: false
-  title: *Handroanthus coralibe* (Coralibe)
-  description: **Family:** Bignoniaceae. **IUCN status:** Vulnerable B2ab(iii) (VU), endemic to Colombia. **Habitat:** Tropical dry forest.
+  title: Handroanthus coralibe (Coralibe)
+  description: Family: Bignoniaceae. IUCN status: Vulnerable B2ab(iii) (VU), endemic to Colombia. Habitat: Tropical dry forest.
   background: assets/images/threatened-species/Handroanthus coralibe.jpg
   cta:
     - text: View the biomodel
@@ -31,8 +31,8 @@ handroanthus-coralibe:
 
 libidibia-punctata:
   reverse: true
-  title: *Libidibia punctata* (Ébano)
-  description: **Family:** Fabaceae. **IUCN status:** Vulnerable B2ab(iii) (VU), endemic to Colombia. **Habitat:** Tropical dry forest
+  title: Libidibia punctata (Ébano)
+  description: Family: Fabaceae. IUCN status: Vulnerable B2ab(iii) (VU), endemic to Colombia. Habitat: Tropical dry forest
   background: assets/images/threatened-species/Libidibia punctata.jpg
     cta:
     - text: View the biomodel
@@ -41,8 +41,8 @@ libidibia-punctata:
 
 pachira-quinata:
   reverse: false
-  title: *Pachira quinata* (Ceiba roja)
-  description: **Family:** Malvaceae. **IUCN status:** Vulnerable A1cd (VU) as _Bombacopsis quinata_. **Colombian Red List status:** Endangered. **Habitat:** Tropical dry forest.
+  title: Pachira quinata (Ceiba roja)
+  description: Family: Malvaceae. IUCN status: Vulnerable A1cd (VU) as _Bombacopsis quinata_. Colombian Red List status: Endangered. Habitat: Tropical dry forest.
   background: assets/images/threatened-species/Pachira quinata.jpg
     cta:
     - text: View the biomodel
@@ -51,11 +51,11 @@ pachira-quinata:
 
 pelliciera-benthamii:
   reverse: true
-  title: *Pelliciera benthamii* (Mangle piñuelo)
-  description: **Family:** Tetrameristaceae. **IUCN status:** Vulnerable B2ab(iii) (VU). **Habitat:** Mangrove Forest.
+  title: Pelliciera benthamii (Mangle piñuelo)
+  description: Family: Tetrameristaceae. IUCN status: Vulnerable B2ab(iii) (VU). Habitat: Mangrove Forest.
   background: assets/images/threatened-species/Pelliciera benthamii.jpg
   imageLicense: |
-    *Thalassoica antarctica* in flight by Sebastien Descamps licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+    Thalassoica antarctica in flight by Sebastien Descamps licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: View the biomodel
       href: https://drive.google.com/file/d/10-UhUzno1V0X04D_I-O_Wk9vHujMeqd8/view?usp=sharing
@@ -63,8 +63,8 @@ pelliciera-benthamii:
 
 pterocarpus-acapulsensis:
   reverse: false
-  title: *Pterocarpus acapulsensis* (Sangregao)
-  description: **Family:** Fabaceae. **IUCN status:** Vulnerable A3c+4cd (VU). **Habitat:** Tropical dry forest.
+  title: Pterocarpus acapulsensis (Sangregao)
+  description: Family: Fabaceae. IUCN status: Vulnerable A3c+4cd (VU). Habitat: Tropical dry forest.
   background: assets/images/threatened-species/Pterocarpus acapulsensis.jpg
   cta:
     - text: View the biomodel
