@@ -2,12 +2,12 @@
 
 aspidosperma-polyneuron:
   reverse: false
-  title: Aspidosperma polyneuron (Carreto)
+  title: *Aspidosperma polyneuron* (Carreto)
   description: | 
-      Family: Apocynaceae. | 
-      IUCN status: Endangered A1acd+2cd (EN). | 
-      Colombian Red List status: Endangered (EN). | 
-      Habitat: Tropical dry forest.
+      **- Family:** Apocynaceae.
+      **- IUCN status:** Endangered A1acd+2cd (EN). 
+      **- Colombian Red List status:** Endangered (EN).
+      **- Habitat:** Tropical dry forest.
   background: assets/images/threatened-species/Aspidosperma polyneuron.jpg
   cta:
     - text: Biomodel
@@ -16,11 +16,11 @@ aspidosperma-polyneuron:
 
 clavija-sanctae-martae:
   reverse: true
-  title: Clavija sanctae-martae (Clavija)
+  title: *Clavija sanctae-martae* (Clavija)
   description: | 
-      Family: Primulaceae. | 
-      IUCN status: Vulnerable B1ab(iii) (VU), endemic to Colombia. | 
-      Habitat: Sierra Nevada de Santa Marta.
+      **- Family:** Primulaceae.
+      **- IUCN status:** Vulnerable B1ab(iii) (VU), endemic to Colombia. | 
+      **- Habitat:** Sierra Nevada de Santa Marta.
   background: assets/images/threatened-species/Clavija sancta-martae.jpg
   cta:
     - text: Biomodel
@@ -29,11 +29,11 @@ clavija-sanctae-martae:
 
 handroanthus-coralibe:
   reverse: false
-  title: Handroanthus coralibe (Coralibe)
+  title: *Handroanthus coralibe* (Coralibe)
   description: | 
-      Family: Bignoniaceae. | 
-      IUCN status: Vulnerable B2ab(iii) (VU), endemic to Colombia. | 
-      Habitat: Tropical dry forest.
+      **- Family:** Bignoniaceae.
+      **- IUCN status:** Vulnerable B2ab(iii) (VU), endemic to Colombia. 
+      **- Habitat:** Tropical dry forest.
   background: assets/images/threatened-species/Handroanthus coralibe.jpg
   cta:
     - text: Biomodel
@@ -42,11 +42,11 @@ handroanthus-coralibe:
 
 libidibia-punctata:
   reverse: true
-  title: Libidibia punctata (Ébano)
+  title: *Libidibia punctata* (Ébano)
   description:  | 
-      Family: Fabaceae. | 
-      IUCN status: Vulnerable B2ab(iii) (VU), endemic to Colombia.  | 
-      Habitat: Tropical dry forest
+      **- Family:** Fabaceae. 
+      **- IUCN status:** Vulnerable B2ab(iii) (VU), endemic to Colombia.
+      **- Habitat:** Tropical dry forest
   background: assets/images/threatened-species/Libidibia punctata.jpg
   cta:
     - text: Biomodel
@@ -55,12 +55,12 @@ libidibia-punctata:
       
 pachira-quinata:
   reverse: false
-  title: Pachira quinata (Ceiba roja)
+  title: *Pachira quinata* (Ceiba roja)
   description: | 
-      Family: Malvaceae. | 
-      IUCN status: Vulnerable A1cd (VU) as *Bombacopsis quinata*. | 
-      Colombian Red List status: Endangered. 
-      Habitat: Tropical dry forest.
+      **- Family:** Malvaceae. 
+      **- IUCN status:** Vulnerable A1cd (VU) as *Bombacopsis quinata*.
+      **- Colombian Red List status:** Endangered. 
+      **- Habitat:** Tropical dry forest.
   background: assets/images/threatened-species/Pachira quinata.jpg
   cta:
    - text: Biomodel
@@ -69,11 +69,11 @@ pachira-quinata:
 
 pelliciera-benthamii:
   reverse: true
-  title: Pelliciera benthamii (Mangle piñuelo)
+  title: *Pelliciera benthamii* (Mangle piñuelo)
   description:  | 
-      Family: Tetrameristaceae.  | 
-      IUCN status: Vulnerable B2ab(iii) (VU). | 
-      Habitat: Mangrove Forest.
+      **- Family:** Tetrameristaceae. 
+      **- IUCN status:** Vulnerable B2ab(iii) (VU).
+      **- Habitat:** Mangrove Forest.
   background: assets/images/threatened-species/Pelliciera benthamii.jpg
   cta:
    - text: Biomodel
@@ -82,11 +82,11 @@ pelliciera-benthamii:
 
 pterocarpus-acapulsensis:
   reverse: false
-  title: Pterocarpus acapulsensis (Sangregao)
+  title: *Pterocarpus acapulsensis* (Sangregao)
   description: | 
-      Family: Fabaceae. | 
-      IUCN status: Vulnerable A3c+4cd (VU). | 
-      Habitat: Tropical dry forest.
+      **- Family:** Fabaceae.
+      **- IUCN status:** Vulnerable A3c+4cd (VU).
+      **- Habitat:** Tropical dry forest.
   background: assets/images/threatened-species/Pterocarpus acapulsensis.jpg
   cta:
    - text: Biomodel
