@@ -48,10 +48,10 @@ libidibia-punctata:
       IUCN status: Vulnerable B2ab(iii) (VU), endemic to Colombia.  | 
       Habitat: Tropical dry forest
   background: assets/images/threatened-species/Libidibia punctata.jpg
-    cta:
-     - text: Biomodel
-       href: https://drive.google.com/file/d/1gWY9ldB5XbULpolcE0HDiXiV0D_aXiBZ/view?usp=sharing
-       isPrimary: true
+  cta:
+    - text: Biomodel
+      href: https://drive.google.com/file/d/1gWY9ldB5XbULpolcE0HDiXiV0D_aXiBZ/view?usp=sharing
+      isPrimary: true
       
 pachira-quinata:
   reverse: false
@@ -62,10 +62,10 @@ pachira-quinata:
       Colombian Red List status: Endangered. 
       Habitat: Tropical dry forest.
   background: assets/images/threatened-species/Pachira quinata.jpg
-    cta:
-    - text: Biomodel
-      href: https://drive.google.com/file/d/1WpW5sBqeIUngBrk8oOsZb3Z1sT0IgLf9/view?usp=sharing
-      isPrimary: true
+  cta:
+   - text: Biomodel
+     href: https://drive.google.com/file/d/1WpW5sBqeIUngBrk8oOsZb3Z1sT0IgLf9/view?usp=sharing
+     isPrimary: true
 
 pelliciera-benthamii:
   reverse: true
@@ -75,10 +75,10 @@ pelliciera-benthamii:
       IUCN status: Vulnerable B2ab(iii) (VU). | 
       Habitat: Mangrove Forest.
   background: assets/images/threatened-species/Pelliciera benthamii.jpg
-   cta:
-    - text: Biomodel
-      href: https://drive.google.com/file/d/10-UhUzno1V0X04D_I-O_Wk9vHujMeqd8/view?usp=sharing
-      isPrimary: true
+  cta:
+   - text: Biomodel
+     href: https://drive.google.com/file/d/10-UhUzno1V0X04D_I-O_Wk9vHujMeqd8/view?usp=sharing
+     isPrimary: true
 
 pterocarpus-acapulsensis:
   reverse: false
@@ -88,9 +88,9 @@ pterocarpus-acapulsensis:
       IUCN status: Vulnerable A3c+4cd (VU). | 
       Habitat: Tropical dry forest.
   background: assets/images/threatened-species/Pterocarpus acapulsensis.jpg
-   cta:
-    - text: Biomodel
-      href: https://drive.google.com/file/d/1z7PArKLY90wV0dsdmyP2L0Aif2Zu1B6v/view?usp=drive_link
-      isPrimary: true
+  cta:
+   - text: Biomodel
+     href: https://drive.google.com/file/d/1z7PArKLY90wV0dsdmyP2L0Aif2Zu1B6v/view?usp=drive_link
+     isPrimary: true
 
 
