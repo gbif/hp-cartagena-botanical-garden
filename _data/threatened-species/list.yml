@@ -22,7 +22,7 @@ clavija-sanctae-martae:
       IUCN status: Vulnerable B1ab(iii) (VU), endemic to Colombia. | 
       Habitat: Sierra Nevada de Santa Marta.
   background: assets/images/threatened-species/Clavija sancta-martae.jpg
-      - text: Biomodel
+    - text: Biomodel
       href: https://drive.google.com/file/d/1dXLLGOkmhPcJzIHt_NcetkfPB_nCXRyR/view?usp=drive_link
       isPrimary: true
 
