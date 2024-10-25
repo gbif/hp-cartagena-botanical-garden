@@ -49,9 +49,9 @@ libidibia-punctata:
       Habitat: Tropical dry forest
   background: assets/images/threatened-species/Libidibia punctata.jpg
     cta:
-    - text: Biomodel
-      href: https://drive.google.com/file/d/1gWY9ldB5XbULpolcE0HDiXiV0D_aXiBZ/view?usp=sharing
-      isPrimary: true
+     - text: Biomodel
+       href: https://drive.google.com/file/d/1gWY9ldB5XbULpolcE0HDiXiV0D_aXiBZ/view?usp=sharing
+       isPrimary: true
       
 pachira-quinata:
   reverse: false
@@ -80,7 +80,7 @@ pelliciera-benthamii:
       href: https://drive.google.com/file/d/10-UhUzno1V0X04D_I-O_Wk9vHujMeqd8/view?usp=sharing
       isPrimary: true
 
-  pterocarpus-acapulsensis:
+pterocarpus-acapulsensis:
   reverse: false
   title: Pterocarpus acapulsensis (Sangregao)
   description: | 
@@ -88,7 +88,7 @@ pelliciera-benthamii:
       IUCN status: Vulnerable A3c+4cd (VU). | 
       Habitat: Tropical dry forest.
   background: assets/images/threatened-species/Pterocarpus acapulsensis.jpg
-  cta:
+   cta:
     - text: Biomodel
       href: https://drive.google.com/file/d/1z7PArKLY90wV0dsdmyP2L0Aif2Zu1B6v/view?usp=drive_link
       isPrimary: true
