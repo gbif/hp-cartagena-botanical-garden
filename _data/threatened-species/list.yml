@@ -1,0 +1,15 @@
+# link to threatened-species page
+
+aspidosperma-polyneuron:
+  reverse: false
+  title: Aspidosperma polyneuron (Carreto)
+  description: | 
+      Family: Apocynaceae. | 
+      IUCN status: Endangered A1acd+2cd (EN). | 
+      Colombian Red List status: Endangered (EN). | 
+      Habitat: Tropical dry forest.
+  background: assets/images/threatened-species/Aspidosperma polyneuron.jpg
+  cta:
+    - text: Biomodel
+      href: https://drive.google.com/file/d/1zKMPGNav8wgBDQdV5jSF5MK-kRdhvkqA/view?usp=sharing
+      isPrimary: true
