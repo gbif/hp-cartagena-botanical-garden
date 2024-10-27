@@ -2,12 +2,13 @@
 
 aspidosperma-polyneuron:
   reverse: false
-  title: Aspidosperma polyneuron (Carreto)
+  title: <i>Aspidosperma polyneuron (Carreto)</i>
   description: | 
-      **Family:** Apocynaceae.
-      **IUCN status:** Endangered A1acd+2cd (EN). 
-      **Colombian Red List status:** Endangered (EN).
+      **Family:** Apocynaceae.<br>
+      **IUCN status:** Endangered A1acd+2cd (EN).<br> 
+      **Colombian Red List status:** Endangered (EN).<br>
       **Habitat:** Tropical dry forest.
+      [**Phenology**](assets/images/threatened-species/Phenology_Aspidosperma_polyneuron.png)
   background: assets/images/threatened-species/Aspidosperma polyneuron.jpg
   cta:
     - text: Biomodel
@@ -16,7 +17,7 @@ aspidosperma-polyneuron:
   cta:
     - text: Phenology
       href: assets/images/threatened-species/Phenology_Aspidosperma_polyneuron.png
-      isPrimary: true
+      isPrimary: false
 
 clavija-sanctae-martae:
   reverse: true
