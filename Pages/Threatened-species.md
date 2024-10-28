@@ -39,43 +39,97 @@ In its efforts to conserve, preserve, restore and enrich the ecosystems of the C
 
 ![image](assets/images/threatened-species/Franklinia_03.jpg)
 
-<div id="carouselFranklinia" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselFrankliniaIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselFrankliniaIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselFrankliniaIndicators" data-slide-to="2"></li>
-    <li data-target="#carouselFrankliniaIndicators" data-slide-to="3"></li>
-    <li data-target="#carouselFrankliniaIndicators" data-slide-to="4"></li>
-    <li data-target="#carouselFrankliniaIndicators" data-slide-to="5"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="assets/images/threatened-species/Franklinia_03.jpg" class="d-block w-100" alt="0">
+<section id="gallery">
+    <div class="gallery-container">
+        <figure class="gallery-item">
+            <img src="assets/images/threatened-species/Franklinia_03.jpg" alt="Imagen 1">
+            <figcaption>Descripción de la imagen 1</figcaption>
+        </figure>
+        <figure class="gallery-item">
+            <img src="assets/images/threatened-species/Franklinia_02.jpg" alt="Imagen 2">
+            <figcaption>Descripción de la imagen 2</figcaption>
+        </figure>
+        <figure class="gallery-item">
+            <img src="assets/images/threatened-species/Franklinia_01.jpg" alt="Imagen 3">
+            <figcaption>Descripción de la imagen 3</figcaption>
+        <figure class="gallery-item">
+            <img src="assets/images/threatened-species/Franklinia_04.jpg" alt="Imagen 3">
+            <figcaption>Descripción de la imagen 4</figcaption>
+        <figure class="gallery-item">
+            <img src="assets/images/threatened-species/Franklinia_05.jpg" alt="Imagen 3">
+            <figcaption>Descripción de la imagen 5</figcaption>
+        <figure class="gallery-item">
+            <img src="assets/images/threatened-species/Franklinia_06.jpg" alt="Imagen 3">
+            <figcaption>Descripción de la imagen 6</figcaption>
     </div>
-    <div class="carousel-item">
-      <img src="assets/images/threatened-species/Franklinia_02.jpg" class="d-block w-100" alt="1">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/images/threatened-species/Franklinia_01.jpg" class="d-block w-100" alt="2">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/images/threatened-species/Franklinia_04.jpg" class="d-block w-100" alt="3">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/images/threatened-species/Franklinia_05.jpg" class="d-block w-100" alt="4">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/images/threatened-species/Franklinia_06.jpg" class="d-block w-100" alt="5">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-target="#carouselExampleIndicators" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </button>
-</div>
+    <nav class="gallery-navigation">
+        <button class="nav-button prev-button">Anterior</button>
+        <button class="nav-button next-button">Siguiente</button>
+    </nav>
+</section>
+#gallery {
+   width: 80%;
+   margin: auto;
+   overflow: hidden;
+}
+
+.gallery-container {
+   display: flex;
+   transition: transform 0.5s ease-in-out;
+}
+
+.gallery-item {
+   min-width: 100%;
+   box-sizing: border-box;
+}
+
+.gallery-item img {
+   width: 100%;
+   display: block;
+}
+
+/* Navegación del Slider */
+.gallery-navigation {
+   display: flex;
+   justify-content: space-between;
+   position: relative;
+   top: -50px;
+}
+
+.nav-button {
+   background-color: #008CBA;
+   color: white;
+   border: none;
+   padding: 10px 20px;
+   cursor: pointer;
+   border-radius: 5px;
+}
+
+.nav-button:hover {
+background-color: #005f5f;
+}
+
+<script>
+let currentIndex = 0;
+
+document.querySelector('.prev-button').addEventListener('click', () => {
+   navigate(-1);
+});
+
+document.querySelector('.next-button').addEventListener('click', () => {
+   navigate(1);
+});
+
+function navigate(direction) {
+   const galleryContainer = document.querySelector('.gallery-container');
+   const totalImages = document.querySelectorAll('.gallery-item').length;
+
+   currentIndex = (currentIndex + direction + totalImages) % totalImages;
+   const offset = -currentIndex * 100;
+
+   galleryContainer.style.transform = `translateX(${offset}%)`;
+}
+</script>
+
 
 The selected species and the information obtained about their distribution and phenology are listed below:
