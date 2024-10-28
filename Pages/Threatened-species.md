@@ -39,4 +39,43 @@ In its efforts to conserve, preserve, restore and enrich the ecosystems of the C
 
 ![image](assets/images/threatened-species/Franklinia_03.jpg)
 
+<div id="carouselFranklinia" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselFrankliniaIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselFrankliniaIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselFrankliniaIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselFrankliniaIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselFrankliniaIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselFrankliniaIndicators" data-slide-to="5"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/images/threatened-species/Franklinia_03.jpg" class="d-block w-100" alt="0">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/threatened-species/Franklinia_02.jpg" class="d-block w-100" alt="1">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/threatened-species/Franklinia_01.jpg" class="d-block w-100" alt="2">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/threatened-species/Franklinia_04.jpg" class="d-block w-100" alt="3">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/threatened-species/Franklinia_05.jpg" class="d-block w-100" alt="4">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/threatened-species/Franklinia_06.jpg" class="d-block w-100" alt="5">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleIndicators" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </button>
+</div>
+
 The selected species and the information obtained about their distribution and phenology are listed below:
