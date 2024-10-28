@@ -39,48 +39,4 @@ In its efforts to conserve, preserve, restore and enrich the ecosystems of the C
 
 ![image](assets/images/threatened-species/Franklinia_03.jpg)
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Galeria HTML y CSS</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-    <body>
-        <div class="contenedor-galeria">
-            <div class="galeria">
-                <div class="contenedor-imagen">
-                    <figure>
-                        <img src="assets/images/threatened-species/Franklinia_03.jpg">
-                    </figure>
-                </div>
-                <div class="contenedor-imagen">
-                    <figure>
-                        <img src="assets/images/threatened-species/Franklinia_02.jpg">
-                    </figure>
-                </div>
-                <div class="contenedor-imagen">
-                    <figure>
-                        <img src="assets/images/threatened-species/Franklinia_01.jpg">
-                    </figure>
-                </div>
-                <div class="contenedor-imagen">
-                    <figure>
-                        <img src="assets/images/threatened-species/Franklinia_04.jpg">
-                    </figure>
-                <div class="contenedor-imagen">
-                    <figure>
-                        <img src="assets/images/threatened-species/Franklinia_05.jpg">
-                    </figure>
-                </div>
-                 <div class="contenedor-imagen">
-                    <figure>
-                        <img src="assets/images/threatened-species/Franklinia_06.jpg">
-                    </figure>
-                </div>
-                </div>
-            </div>
-        </div>
-    </body>
-</html>
-
 The selected species and the information obtained about their distribution and phenology are listed below:
