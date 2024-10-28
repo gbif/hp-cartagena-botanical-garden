@@ -30,6 +30,9 @@ clavija-sanctae-martae:
     - text: Biomodel
       href: https://drive.google.com/file/d/1dXLLGOkmhPcJzIHt_NcetkfPB_nCXRyR/view?usp=drive_link
       isPrimary: true
+    - text: Phenology
+      href: assets/images/threatened-species/Phenology_Clavija_sanctae-martae.png
+      isPrimary: false
 
 handroanthus-coralibe:
   reverse: false
@@ -43,6 +46,9 @@ handroanthus-coralibe:
     - text: Biomodel
       href: https://drive.google.com/file/d/1WaACCEctAqFvZb0iEydAmv3hjHuglC-x/view?usp=sharing
       isPrimary: true
+    - text: Phenology
+      href: assets/images/threatened-species/Phenology_Handroanthus_coralibe.png
+      isPrimary: false
 
 libidibia-punctata:
   reverse: true
@@ -56,6 +62,9 @@ libidibia-punctata:
     - text: Biomodel
       href: https://drive.google.com/file/d/1gWY9ldB5XbULpolcE0HDiXiV0D_aXiBZ/view?usp=sharing
       isPrimary: true
+    - text: Phenology
+      href: assets/images/threatened-species/Phenology_Libidibia_punctata.png
+      isPrimary: false
       
 pachira-quinata:
   reverse: false
@@ -70,6 +79,9 @@ pachira-quinata:
    - text: Biomodel
      href: https://drive.google.com/file/d/1WpW5sBqeIUngBrk8oOsZb3Z1sT0IgLf9/view?usp=sharing
      isPrimary: true
+   - text: Phenology
+     href: assets/images/threatened-species/Phenology_Pachira_quinata.png
+     isPrimary: false
 
 pelliciera-benthamii:
   reverse: true
@@ -83,6 +95,9 @@ pelliciera-benthamii:
    - text: Biomodel
      href: https://drive.google.com/file/d/10-UhUzno1V0X04D_I-O_Wk9vHujMeqd8/view?usp=sharing
      isPrimary: true
+   - text: Phenology
+     href: assets/images/threatened-species/Phenology_Pelliciera_benthamii.png
+     isPrimary: false
 
 pterocarpus-acapulsensis:
   reverse: false
@@ -96,5 +111,8 @@ pterocarpus-acapulsensis:
    - text: Biomodel
      href: https://drive.google.com/file/d/1z7PArKLY90wV0dsdmyP2L0Aif2Zu1B6v/view?usp=drive_link
      isPrimary: true
+   - text: Phenology
+     href: assets/images/threatened-species/Phenology_Pterocarpus_acapulcensis.png
+     isPrimary: false
 
 
