@@ -1,9 +1,9 @@
 ---
 lang-ref: Threatened-species
-lang: en
+lang: es
 layout: home
 klass: home
-title: Threatened Species
+title: Especies amenazadas
 description:
 background: assets/images/threatened-species/Franklinia_01.jpg
 hasTextShadow: true
