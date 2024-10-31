@@ -17,20 +17,20 @@ composition:
  - type: heroImage
  - type: pageMarkdown  # render markdown in this file
  - type: split
-   data: threatened-species.list.aspidosperma-polyneuron
+   data: es.threatened-species.list.aspidosperma-polyneuron
  - type: split
-   data: threatened-species.list.clavija-sanctae-martae
+   data: es.threatened-species.list.clavija-sanctae-martae
  - type: split
-   data: threatened-species.list.handroanthus-coralibe
+   data: es.threatened-species.list.handroanthus-coralibe
  - type: split
-   data: threatened-species.list.libidibia-punctata
+   data: es.threatened-species.list.libidibia-punctata
  - type: split
-   data: threatened-species.list.pachira-quinata
+   data: es.threatened-species.list.pachira-quinata
  - type: split
-   data: threatened-species.list.pelliciera-benthamii
+   data: es.threatened-species.list.pelliciera-benthamii
  - type: split
-   data: threatened-species.list.pterocarpus-acapulsensis
-permalink: /threatened-species
+   data: es.threatened-species.list.pterocarpus-acapulsensis
+permalink: /es/threatened-species
 ---
 
 El Jardín Botánico de Cartagena está liderando un proyecto vital para conservar, restaurar y enriquecer los ecosistemas del Caribe colombiano mediante el fortalecimiento de poblaciones de especies nativas amenazadas, a través de acciones de propagación y siembra. Esta región enfrenta serias amenazas derivadas de la ganadería no sostenible, la expansión urbana no planificada y los impactos del cambio climático. Para abordar estos desafíos, el proyecto se centra en tres ecosistemas críticos: manglares, bosques secos tropicales y la Sierra Nevada de Santa Marta, cada uno con valores de conservación distintos. El proyecto ha seleccionado estratégicamente siete especies: *Pachira quinata*, *Libidibia punctat*, *Handroanthus coralibe*, *Pterocarpus acapulcensis*, **Aspidosperma polyneuron*, *Clavija sanctae-martae* y *Pelliciera benthamii*. Esta selección permite una comprensión integral de los requerimientos de cada especie en diversas condiciones ecológicas. 
