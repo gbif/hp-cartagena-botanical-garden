@@ -1,0 +1,115 @@
+# Enlazar con la página de especies amenazadas
+
+aspidosperma-polyneuron:
+  reverse: false
+  title: <i>Aspidosperma polyneuron (Carreto)</i>
+  description: | 
+      **Familia:** Apocynaceae.<br>
+      **Estado según la IUCN:** En peligro A1acd+2cd (EN).<br> 
+      **Estado según la Lista Roja de Colombia:** En peligro (EN).<br>
+      **Hábitat:** Bosque seco tropical.
+  background: assets/images/threatened-species/Aspidosperma polyneuron.jpg
+  cta:
+    - text: Biomodelo
+      href: https://drive.google.com/file/d/1zKMPGNav8wgBDQdV5jSF5MK-kRdhvkqA/view?usp=sharing
+      isPrimary: true
+    - text: Fenología
+      href: assets/images/threatened-species/Phenology_Aspidosperma_polyneuron.png
+      isPrimary: false
+
+clavija-sanctae-martae:
+  reverse: true
+  title: <i>Clavija sanctae-martae</i> (Clavija)
+  description: | 
+      **Familia:** Primulaceae.<br>
+      **Estado según la UICN:** Vulnerable B1ab(iii) (VU), endémica para Colombia.<br> 
+      **Hábitat:** Sierra Nevada de Santa Marta.
+  background: assets/images/threatened-species/Clavija sancta-martae.jpg
+  cta:
+    - text: Biomodelo
+      href: https://drive.google.com/file/d/1dXLLGOkmhPcJzIHt_NcetkfPB_nCXRyR/view?usp=drive_link
+      isPrimary: true
+    - text: Fenología
+      href: assets/images/threatened-species/Phenology_Clavija_sanctae-martae.png
+      isPrimary: false
+
+handroanthus-coralibe:
+  reverse: false
+  title: <i>Handroanthus coralibe</i> (Coralibe)
+  description: | 
+      **Familia:** Bignoniaceae.<br>
+      **Estado según la UICN:** Vulnerable B2ab(iii) (VU), endémica para Colombia.<br>
+      **Hábitat:** Bosque seco tropical.
+  background: assets/images/threatened-species/Handroanthus coralibe.jpg
+  cta:
+    - text: Biomodelo
+      href: https://drive.google.com/file/d/1WaACCEctAqFvZb0iEydAmv3hjHuglC-x/view?usp=sharing
+      isPrimary: true
+    - text: Fenología
+      href: assets/images/threatened-species/Phenology_Handroanthus_coralibe.png
+      isPrimary: false
+
+libidibia-punctata:
+  reverse: true
+  title: <i>Libidibia punctata</i> (Ébano)
+  description:  | 
+      **Familia:** Fabaceae.<br>
+      **Estado según la UICN:** Vulnerable B2ab(iii) (VU), endémica para Colombia.<br>
+      **Hábitat:** Tropical dry forest
+  background: assets/images/threatened-species/Libidibia punctata.jpg
+  cta:
+    - text: Biomodelo
+      href: https://drive.google.com/file/d/1gWY9ldB5XbULpolcE0HDiXiV0D_aXiBZ/view?usp=sharing
+      isPrimary: true
+    - text: Fenología
+      href: assets/images/threatened-species/Phenology_Libidibia_punctata.png
+      isPrimary: false
+      
+pachira-quinata:
+  reverse: false
+  title: <i>Pachira quinata</i> (Ceiba roja)
+  description: | 
+      **Familia:** Malvaceae.<br>
+      **Estado según la IUCN:** Vulnerable A1cd (VU) como *Bombacopsis quinata*.<br>
+      **Estado según la Lista Roja de Colombia:** En peligro.<br>
+      **Hábitat:** Bosque seco tropical.
+  background: assets/images/threatened-species/Pachira quinata.jpg
+  cta:
+   - text: Biomodelo
+     href: https://drive.google.com/file/d/1WpW5sBqeIUngBrk8oOsZb3Z1sT0IgLf9/view?usp=sharing
+     isPrimary: true
+   - text: Fenología
+     href: assets/images/threatened-species/Phenology_Pachira_quinata.png
+     isPrimary: false
+
+pelliciera-benthamii:
+  reverse: true
+  title: <i>Pelliciera benthamii</i> (Mangle piñuelo)
+  description:  | 
+      **Familia:** Tetrameristaceae.<br>
+      **Estado según la UICN:** Vulnerable B2ab(iii) (VU).<br>
+      **Hábitat:** Bosque de manglares.
+  background: assets/images/threatened-species/Pelliciera benthamii.jpg
+  cta:
+   - text: Biomodelo
+     href: https://drive.google.com/file/d/10-UhUzno1V0X04D_I-O_Wk9vHujMeqd8/view?usp=sharing
+     isPrimary: true
+   - text: Fenología
+     href: assets/images/threatened-species/Phenology_Pelliciera_benthamii.png
+     isPrimary: false
+
+pterocarpus-acapulsensis:
+  reverse: false
+  title: <i>Pterocarpus acapulsensis</i> (Sangregao)
+  description: | 
+      **Familia:** Fabaceae.<br>
+      **Estado según la UICN:** Vulnerable A3c+4cd (VU).<br>
+      **Hábitat:** Bosque seco tropical.
+  background: assets/images/threatened-species/Pterocarpus acapulsensis.jpg
+  cta:
+   - text: Biomodelo
+     href: https://drive.google.com/file/d/1z7PArKLY90wV0dsdmyP2L0Aif2Zu1B6v/view?usp=drive_link
+     isPrimary: true
+   - text: Fenología
+     href: assets/images/threatened-species/Phenology_Pterocarpus_acapulcensis.png
+     isPrimary: false
