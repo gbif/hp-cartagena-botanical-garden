@@ -7,7 +7,7 @@ title: Threatened Species
 description: Endangered species of the Colombian Caribbean in the Franklinia project
 background: assets/images/threatened-species/Franklinia_01.jpg
 hasTextShadow: true
-height: 85vh
+height: 80vh
 parallax: true
 navbar:
   color: white
