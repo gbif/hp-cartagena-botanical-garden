@@ -7,7 +7,7 @@ title: Especies amenazadas
 description:
 background: assets/images/threatened-species/Franklinia_01.jpg
 hasTextShadow: true
-height: 80vh
+height: 85vh
 parallax: true
 navbar:
   color: white
