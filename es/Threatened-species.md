@@ -5,7 +5,7 @@ layout: home
 klass: home
 title: Especies amenazadas
 description:
-background: /_data/assets/images/threatened-species/Franklinia_01.jpg
+background: /assets/images/threatened-species/Franklinia_01.jpg
 hasTextShadow: true
 height: 85vh
 parallax: true
@@ -37,6 +37,6 @@ El Jardín Botánico de Cartagena está liderando un proyecto vital para conserv
 El proyecto adopta un enfoque multidisciplinario con base en principios de horticultura y conservación, integrando taxonomía, biomodelos, fenología, recolección de semillas, propagación y siembra tanto *ex situ* como *in situ*. La participación de las comunidades locales es central en la iniciativa. Por los que nos centramos en dos aspectos clave: sensibilización, fomentando la comprensión de la importancia de las medidas de conservación; y el fortalecimiento de capacidades, equipando a los miembros de la comunidad con las habilidades necesarias para participar de manera responsable y activa en las actividades de restauración.
 Al fomentar poblaciones más fuertes y sostenibles de estas especies amenazadas, el proyecto busca cultivar no solo la resiliencia ecológica, sino también una cultura de conservación colaborativa en todo el Caribe colombiano.
 
-![image](/_data/assets/images/threatened-species/Franklinia_03.jpg)
+![image](/assets/images/threatened-species/Franklinia_03.jpg)
 
 La información acerca de conservación, biomodelos y fenología de las especies seleccionadas se presenta a continuación:
