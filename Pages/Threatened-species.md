@@ -5,7 +5,7 @@ layout: home
 klass: home
 title: Threatened Species
 description:
-background: assets/images/threatened-species/Franklinia_01.jpg
+background: /assets/images/threatened-species/Franklinia_01.jpg
 hasTextShadow: true
 height: 80vh
 parallax: true
@@ -33,10 +33,10 @@ composition:
 permalink: /threatened-species
 ---
 
-The Cartagena Botanical Garden is leading a vital project to conserve, restore, and enrich the ecosystems of the Colombian Caribbean by bolstering populations of threatened native tree species through propagation and planting initiatives. This region faces severe threats from unsustainable cattle farming, unplanned urban expansion, and the impacts of climate change. To address these challenges, the project focuses on three critical ecosystems: mangroves, tropical dry forests, and the Sierra Nevada de Santa Marta, each with distinct conservation values. To address these diverse ecosystems effectively, the project has strategically selected seven target species: Pachira quinata, Libidibia punctata, Handroanthus coralibe, Pterocarpus acapulcensis, Aspidosperma polyneuron, Clavija sanctae-martae, and Pelliciera benthamii. This selection enables a comprehensive understanding of each species' requirements across varying ecological conditions. The project adopts a multidisciplinary approach grounded in horticultural conservation principles, integrating taxonomy, ecological niche modeling, phenology, seed collection, propagation, and both ex-situ and in-situ planting efforts. 
+The Cartagena Botanical Garden is leading a vital project to conserve, restore, and enrich the ecosystems of the Colombian Caribbean by bolstering populations of threatened native tree species through propagation and planting initiatives. This region faces severe threats from unsustainable cattle farming, unplanned urban expansion, and the impacts of climate change. To address these challenges, the project focuses on three critical ecosystems: mangroves, tropical dry forests, and the Sierra Nevada de Santa Marta, each with distinct conservation values. To address these diverse ecosystems effectively, the project has strategically selected seven target species: *Pachira quinata*, *Libidibia punctata*, *Handroanthus coralibe*, *Pterocarpus acapulcensis*, *Aspidosperma polyneuron*, *Clavija sanctae-martae*, and *Pelliciera benthamii*. This selection enables a comprehensive understanding of each species' requirements across varying ecological conditions. The project adopts a multidisciplinary approach grounded in horticultural conservation principles, integrating taxonomy, ecological niche modeling, phenology, seed collection, propagation, and both ex-situ and in-situ planting efforts. 
 
 Local community involvement is central to the initiative, emphasizing two key aspects: raising awareness, fostering an understanding of the importance of conservation measures and building capacity, equipping community members with the skills needed to engage responsibly in restoration activities. By nurturing stronger, sustainable populations of these threatened species, the project aims to cultivate not only ecological resilience but also a collaborative conservation culture across the Colombian Caribbean.
 
-![image](assets/images/threatened-species/Franklinia_03.jpg)
+![image](/assets/images/threatened-species/Franklinia_03.jpg)
 
-The selected species and the information obtained about their distribution and phenology are listed below:
+Information about conservation, biomodels and phenology of the selected species is presented below:
