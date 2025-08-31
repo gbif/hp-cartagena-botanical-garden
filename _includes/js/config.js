@@ -1,22 +1,35 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({
   baseTheme: 'light', extendWith: {
-    primary: themeStyle.colors.primary
-  }
-});
-
-var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
     primary: themeStyle.colors.primary,
     fontSize: '16px'
   }
 });
 
 var siteConfig = {
+  version: 2,
+  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION'],
   routes: {
+    enabledRoutes: [
+      'occurrenceSearch',
+      'datasetSearch',
+      'datasetKey',
+      'collectionKey',
+      'collectionSearch'
+    ],
+    alwaysUseHrefs: true,
     occurrenceSearch: {
-      // The route you are currently using for occurrence search. The language prefix will be added automatically
-      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
       route: '/specimen/search',
+    },
+    datasetKey: {
+      route: '/dataset/:key',
+      isHref: true,
+      url: ({ key }) => {
+        return `/dataset/${key}`;
+      }
+    },
+    datasetSearch: {
+      route: '/dataset/search',
+      isHref: true
     },
     collectionKey: {
       route: '/collection/:key',
@@ -40,10 +53,13 @@ var siteConfig = {
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
     rootPredicate: { type: 'equals', key: 'publishingOrg', value: '698acf43-05cd-4b45-8107-7c666d87f77c' },
-    // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
+    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
-  availableCatalogues: ['OCCURRENCE'],
+  dataset: {
+    highlightedFilters: ['q', 'type', 'keyword', 'publishingOrg', 'license'],
+    excludedFilters: ['publishingCountryCode']
+  },
   maps: {
     locale: 'en',
     defaultProjection: 'MERCATOR',

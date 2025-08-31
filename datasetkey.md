@@ -1,6 +1,7 @@
 ---
 title: Dataset
-description: We publish open data
-permalink: /dataset/_key_
-layout: dataset-key
+description: Dataset details
+permalink: /dataset/:key
+layout: dataset
+noindex: true
 ---

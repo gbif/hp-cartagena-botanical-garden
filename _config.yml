@@ -31,7 +31,7 @@ twitter_username: yourname # if you have an account you want to link to. Else co
 github_username:  yourname # if you have an account you want to link to. Else comment this line out
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -52,6 +52,9 @@ algae:
   logo: assets/images/Logo_JBC_negro_sinfondo.png
   logoAndTitle: false          # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
+  gbifApiUrl: "https://api.gbif.org/v1"
+  dataset:
+    enable: true
   style:
     # square: false               # Should corners be square or rounded
     colors:
