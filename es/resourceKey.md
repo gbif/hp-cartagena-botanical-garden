@@ -1,7 +1,9 @@
 ---
 title: Resource
 description: Resource details
-permalink: /resource/:key
-layout: resource
+permalink: /resource
+layout: resource-key
+ignoreThumbor: true
 noindex: true
 ---
+
