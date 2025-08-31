@@ -1,7 +1,7 @@
 ---
 title: Resource search
 description: Literature and resources
-permalink: /resource/search/
+permalink: /es/resource/search/
 layout: resource-search
 noindex: true
 ---
