@@ -1,0 +1,39 @@
+---
+layout: base
+description: Default template for literature search and pages
+preTitle: Literature
+hasTextWidth: true
+---
+{% assign languageCode = site.data.languages[page.lang].widgetLocale | default: site.data.languages[page.lang].languageCode | default: page.lang | default: site.algae.rootLang | default: 'en' %}
+
+{{ content }}
+
+<div id="root"></div>
+<script>
+  var widgetLocale = '{{ languageCode }}';
+  var userTheme = typeof siteTheme !== 'undefined' ? siteTheme : undefined;
+  var userConfig = typeof siteConfig !== 'undefined' ? siteConfig : {};
+  var routes = userConfig.routes || {};
+  var basename = '';
+  routes.basename = basename;
+  
+  // Literature search page
+  ReactDOM.render(
+    React.createElement(
+      gbifReactComponents.LiteratureSearch,
+      { 
+        style: { minHeight: 'calc(100vh - 4.25rem)' },
+        siteConfig: {
+          ...userConfig,
+          theme: userTheme,
+          locale: widgetLocale
+        }
+      }
+    ),
+    document.getElementById('root')
+  );
+
+  if (typeof userTheme === 'undefined') {
+    console.warn('No theme defined - using default styling');
+  }
+</script>

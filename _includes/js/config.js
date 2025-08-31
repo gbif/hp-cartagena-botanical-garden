@@ -7,7 +7,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 
 var siteConfig = {
   version: 2,
-  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION', 'PUBLISHER', 'RESOURCE'],
+  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION', 'PUBLISHER', 'RESOURCE', 'LITERATURE'],
   routes: {
     enabledRoutes: [
       'occurrenceSearch',
@@ -18,7 +18,8 @@ var siteConfig = {
       'publisherKey',
       'publisherSearch',
       'resourceSearch',
-      'resourceKey'
+      'resourceKey',
+      'literatureSearch'
     ],
     alwaysUseHrefs: true,
     occurrenceSearch: {
@@ -67,6 +68,10 @@ var siteConfig = {
     resourceSearch: {
       route: '/resource/search',
       isHref: true
+    },
+    literatureSearch: {
+      route: '/literature/search',
+      isHref: true
     },    
   },
   occurrence: {
@@ -93,6 +98,11 @@ var siteConfig = {
   },
   resource: {
     highlightedFilters: ['q', 'contentType', 'year', 'language'],
+    excludedFilters: [],
+    rootFilter: {}
+  },
+  literature: {
+    highlightedFilters: ['q', 'year', 'countriesOfCoverage', 'countriesOfResearcher', 'literatureType'],
     excludedFilters: [],
     rootFilter: {}
   },

@@ -57,6 +57,8 @@ algae:
     enable: true
   resource:
     enable: true
+  literature:
+    enable: true
   style:
     # square: false               # Should corners be square or rounded
     colors:
