@@ -88,8 +88,10 @@ var siteConfig = {
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
   dataset: {
-    highlightedFilters: ['q', 'type', 'keyword', 'publishingOrg', 'license'],
-    excludedFilters: ['publishingCountryCode']
+    availableCatalogues: ['DATASET', 'PUBLISHER'],
+    rootFilter: {publishingOrg: '698acf43-05cd-4b45-8107-7c666d87f77c'},
+    highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
+    excludedFilters: ['publishingOrgCode']
   },
   publisher: {
     highlightedFilters: ['q', 'country', 'name'],
