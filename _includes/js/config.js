@@ -7,14 +7,18 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 
 var siteConfig = {
   version: 2,
-  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION'],
+  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION', 'PUBLISHER', 'RESOURCE'],
   routes: {
     enabledRoutes: [
       'occurrenceSearch',
       'datasetSearch',
       'datasetKey',
       'collectionKey',
-      'collectionSearch'
+      'collectionSearch',
+      'publisherKey',
+      'publisherSearch',
+      'resourceSearch',
+      'resourceKey'
     ],
     alwaysUseHrefs: true,
     occurrenceSearch: {
@@ -31,6 +35,17 @@ var siteConfig = {
       route: '/dataset/search',
       isHref: true
     },
+    publisherKey: {
+      route: '/publisher/:key',
+      isHref: true,
+      url: ({ key }) => {
+        return `/publisher/${key}`;
+      }
+    },
+    collectionSpecimens: {
+      route: '/collection/:key/specimens',
+      url: ({ key }) => `/collection/${key}/specimens`
+    },
     collectionKey: {
       route: '/collection/:key',
       isHref: true,
@@ -38,10 +53,21 @@ var siteConfig = {
         return `/collection/${key}`;
       }
     },
-    collectionSpecimens: {
-      route: '/collection/:key/specimens',
-      url: ({ key }) => `/collection/${key}/specimens`
+    publisherSearch: {
+      route: '/publisher/search',
+      isHref: true
     },
+    resourceKey: {
+      route: '/resource/:key',
+      isHref: true,
+      url: ({ key }) => {
+        return `/resource/${key}`;
+      }
+    },
+    resourceSearch: {
+      route: '/resource/search',
+      isHref: true
+    },    
   },
   occurrence: {
     mapSettings: {
@@ -59,6 +85,16 @@ var siteConfig = {
   dataset: {
     highlightedFilters: ['q', 'type', 'keyword', 'publishingOrg', 'license'],
     excludedFilters: ['publishingCountryCode']
+  },
+  publisher: {
+    highlightedFilters: ['q', 'country', 'name'],
+    excludedFilters: ['networkKey'],
+    rootFilter: {}
+  },
+  resource: {
+    highlightedFilters: ['q', 'contentType', 'year', 'language'],
+    excludedFilters: [],
+    rootFilter: {}
   },
   maps: {
     locale: 'en',

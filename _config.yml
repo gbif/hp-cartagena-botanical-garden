@@ -55,6 +55,8 @@ algae:
   gbifApiUrl: "https://api.gbif.org/v1"
   dataset:
     enable: true
+  resource:
+    enable: true
   style:
     # square: false               # Should corners be square or rounded
     colors:
