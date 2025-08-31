@@ -102,9 +102,14 @@ var siteConfig = {
     rootFilter: {}
   },
   literature: {
-    highlightedFilters: ['q', 'year', 'countriesOfCoverage', 'countriesOfResearcher', 'literatureType'],
-    excludedFilters: [],
-    rootFilter: {}
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
+     rootFilter: {
+      predicate: {
+        type: 'in',
+        key: 'countriesOfCoverage',
+        values: ['CO']
+      }
+    },
   },
   maps: {
     locale: 'en',
