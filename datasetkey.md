@@ -1,7 +1,7 @@
 ---
 title: Dataset
 description: Dataset details
-permalink: /dataset/:key
+permalink: /dataset/_key_
 layout: dataset
 noindex: true
 ---
