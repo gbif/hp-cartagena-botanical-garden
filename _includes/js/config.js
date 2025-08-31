@@ -99,9 +99,10 @@ var siteConfig = {
     rootFilter: {}
   },
   resource: {
-    highlightedFilters: ['q', 'contentType', 'year', 'language'],
-    excludedFilters: [],
-    rootFilter: {}
+    availableCatalogues: ['RESOURCE'],
+    rootFilter: {publishingOrganizationKey: '698acf43-05cd-4b45-8107-7c666d87f77c'},
+    highlightedFilters: ['q', 'anyPublisherKey', 'license'],
+    excludedFilters: ['publishingOrganizationKey']
   },
   literature: {
     availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
