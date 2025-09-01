@@ -90,8 +90,7 @@ var siteConfig = {
   dataset: {
     availableCatalogues: ['DATASET', 'PUBLISHER'],
     rootFilter: {publishingOrg: '698acf43-05cd-4b45-8107-7c666d87f77c'},
-    highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
-    excludedFilters: ['publishingOrgCode']
+    highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license']
   },
   publisher: {
     highlightedFilters: ['q', 'country', 'name'],
