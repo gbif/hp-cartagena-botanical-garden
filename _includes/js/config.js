@@ -22,16 +22,15 @@ var siteConfig = {
       'resourceKey',
       'literatureSearch'
     ],
-    alwaysUseHrefs: true,
+    // Define ALL routes explicitly to avoid undefined errors
     occurrenceSearch: {
       route: '/specimen/search',
+      isHref: true
     },
     datasetKey: {
       route: '/dataset/:key',
       isHref: true,
-      url: ({ key }) => {
-        return `/dataset/${key}`;
-      }
+      url: ({ key }) => `/dataset/${key}`
     },
     datasetSearch: {
       route: '/dataset/search',
@@ -40,31 +39,30 @@ var siteConfig = {
     publisherKey: {
       route: '/publisher/:key',
       isHref: true,
-      url: ({ key }) => {
-        return `/publisher/${key}`;
-      }
-    },
-    collectionSpecimens: {
-      route: '/collection/:key/specimens',
-      url: ({ key }) => `/collection/${key}/specimens`
-    },
-    collectionKey: {
-      route: '/collection/:key',
-      isHref: true,
-      url: ({ key }) => {
-        return `/collection/${key}`;
-      }
+      url: ({ key }) => `/publisher/${key}`
     },
     publisherSearch: {
       route: '/publisher/search',
       isHref: true
     },
+    collectionKey: {
+      route: '/collection/:key',
+      isHref: true,
+      url: ({ key }) => `/collection/${key}`
+    },
+    collectionSearch: {
+      route: '/collection/search',
+      isHref: true
+    },
+    collectionSpecimens: {
+      route: '/collection/:key/specimens',
+      isHref: true,
+      url: ({ key }) => `/collection/${key}/specimens`
+    },
     resourceKey: {
       route: '/resource/:key',
       isHref: true,
-      url: ({ key }) => {
-        return `/resource/${key}`;
-      }
+      url: ({ key }) => `/resource/${key}`
     },
     resourceSearch: {
       route: '/resource/search',
@@ -73,7 +71,27 @@ var siteConfig = {
     literatureSearch: {
       route: '/literature/search',
       isHref: true
-    },    
+    },
+    // Add these additional routes that might be used internally
+    occurrenceKey: {
+      route: '/specimen/:key',
+      isHref: true,
+      url: ({ key }) => `/specimen/${key}`
+    },
+    literatureKey: {
+      route: '/literature/:key',
+      isHref: true,
+      url: ({ key }) => `/literature/${key}`
+    },
+    institutionKey: {
+      route: '/institution/:key',
+      isHref: true,
+      url: ({ key }) => `/institution/${key}`
+    },
+    institutionSearch: {
+      route: '/institution/search',
+      isHref: true
+    }
   },
   occurrence: {
     mapSettings: {
@@ -94,44 +112,31 @@ var siteConfig = {
       publishingOrg: '698acf43-05cd-4b45-8107-7c666d87f77c'
     },
     highlightedFilters: ['q', 'datasetType', 'license'],
-    excludedFilters: ['publishingOrg'] // Hide this since it's already filtered
+    excludedFilters: ['publishingOrg']
   },
   publisher: {
     highlightedFilters: ['q', 'country', 'name'],
     excludedFilters: ['networkKey'],
     rootFilter: {
-      key: '698acf43-05cd-4b45-8107-7c666d87f77c' // Filter to only show this publisher
+      key: '698acf43-05cd-4b45-8107-7c666d87f77c'
     }
   },
   resource: {
-    availableCatalogues: ['RESOURCE'],
     rootFilter: {
       publishingOrganizationKey: '698acf43-05cd-4b45-8107-7c666d87f77c'
     },
     highlightedFilters: ['q', 'license'],
-    excludedFilters: ['publishingOrganizationKey'] // Hide this since it's already filtered
+    excludedFilters: ['publishingOrganizationKey']
   },
   literature: {
     rootFilter: {
       predicate: {
-        type: 'or',
-        predicates: [
-          {
-            type: 'equals',
-            key: 'publishingOrganizationKey',
-            value: '698acf43-05cd-4b45-8107-7c666d87f77c'
-          },
-          {
-            type: 'in',
-            key: 'countriesOfCoverage',
-            values: ['CO']
-          }
-        ]
+        type: 'equals',
+        key: 'publishingOrganizationKey',
+        value: '698acf43-05cd-4b45-8107-7c666d87f77c'
       }
     },
-    highlightedFilters: ['q', 'year', 'literatureType'],
-    // Fix for GraphQL errors - ensure arrays are non-nullable
-    noNullableArrays: true
+    highlightedFilters: ['q', 'year', 'literatureType']
   },
   maps: {
     locale: 'en',
@@ -146,20 +151,6 @@ var siteConfig = {
   },
   messages: {
     "catalogues.occurrences": "Specimens"
-  },
-  // Add this to potentially fix GraphQL errors with nullable arrays
-  graphql: {
-    // This will ensure that array variables are treated as non-nullable arrays
-    transformVariables: function(variables) {
-      // Convert nullable arrays to non-nullable by using empty arrays instead of null
-      const nonNullableVars = {...variables};
-      for (const key in nonNullableVars) {
-        if (Array.isArray(nonNullableVars[key])) {
-          nonNullableVars[key] = nonNullableVars[key] || [];
-        }
-      }
-      return nonNullableVars;
-    }
   }
 };
 
