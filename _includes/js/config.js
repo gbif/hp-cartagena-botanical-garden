@@ -1,5 +1,6 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
+  baseTheme: 'light', 
+  extendWith: {
     primary: themeStyle.colors.primary,
     fontSize: '16px'
   }
@@ -80,38 +81,57 @@ var siteConfig = {
       lng: -78.55825586583158,
       zoom: 4.55655220372271
     },
-    availableTableColumns: ['features', 'country', 'coordinates', 'year', 'catalogNumber', 'recordedBy', 'identifiedBy'], // the first column will always be scientificName, that cannot be changed
-    // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
-    // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
-    rootPredicate: { type: 'equals', key: 'publishingOrg', value: '698acf43-05cd-4b45-8107-7c666d87f77c' },
-    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
-    // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
+    availableTableColumns: ['features', 'country', 'coordinates', 'year', 'catalogNumber', 'recordedBy', 'identifiedBy'],
+    rootPredicate: { 
+      type: 'equals', 
+      key: 'publishingOrg', 
+      value: '698acf43-05cd-4b45-8107-7c666d87f77c' 
+    },
+    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS']
   },
   dataset: {
-    // availableCatalogues: ['CHECKLIST', 'DATASET'],
-    rootFilter: {publishingOrg: '698acf43-05cd-4b45-8107-7c666d87f77c'},
-    highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
+    rootFilter: {
+      publishingOrg: '698acf43-05cd-4b45-8107-7c666d87f77c'
+    },
+    highlightedFilters: ['q', 'datasetType', 'license'],
+    excludedFilters: ['publishingOrg'] // Hide this since it's already filtered
   },
   publisher: {
     highlightedFilters: ['q', 'country', 'name'],
     excludedFilters: ['networkKey'],
-    rootFilter: {}
+    rootFilter: {
+      key: '698acf43-05cd-4b45-8107-7c666d87f77c' // Filter to only show this publisher
+    }
   },
   resource: {
     availableCatalogues: ['RESOURCE'],
-    rootFilter: {publishingOrganizationKey: '698acf43-05cd-4b45-8107-7c666d87f77c'},
-    highlightedFilters: ['q', 'anyPublisherKey', 'license'],
-    excludedFilters: ['publishingOrganizationKey']
+    rootFilter: {
+      publishingOrganizationKey: '698acf43-05cd-4b45-8107-7c666d87f77c'
+    },
+    highlightedFilters: ['q', 'license'],
+    excludedFilters: ['publishingOrganizationKey'] // Hide this since it's already filtered
   },
   literature: {
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
-     rootFilter: {
+    rootFilter: {
       predicate: {
-        type: 'in',
-        key: 'countriesOfCoverage',
-        values: ['CO']
+        type: 'or',
+        predicates: [
+          {
+            type: 'equals',
+            key: 'publishingOrganizationKey',
+            value: '698acf43-05cd-4b45-8107-7c666d87f77c'
+          },
+          {
+            type: 'in',
+            key: 'countriesOfCoverage',
+            values: ['CO']
+          }
+        ]
       }
     },
+    highlightedFilters: ['q', 'year', 'literatureType'],
+    // Fix for GraphQL errors - ensure arrays are non-nullable
+    noNullableArrays: true
   },
   maps: {
     locale: 'en',
@@ -126,8 +146,23 @@ var siteConfig = {
   },
   messages: {
     "catalogues.occurrences": "Specimens"
+  },
+  // Add this to potentially fix GraphQL errors with nullable arrays
+  graphql: {
+    // This will ensure that array variables are treated as non-nullable arrays
+    transformVariables: function(variables) {
+      // Convert nullable arrays to non-nullable by using empty arrays instead of null
+      const nonNullableVars = {...variables};
+      for (const key in nonNullableVars) {
+        if (Array.isArray(nonNullableVars[key])) {
+          nonNullableVars[key] = nonNullableVars[key] || [];
+        }
+      }
+      return nonNullableVars;
+    }
   }
 };
+
 // Get the navigation bar element by its ID
 var navbar = document.getElementById("navbar");
 
@@ -136,7 +171,3 @@ if (navbar) {
     // Set the display property to "none" to hide the navigation bar
     navbar.style.display = "none";
 }
-// example of a language specific route overwrite
-// if (pageLang === 'da')  {
-//   siteConfig.routes.occurrenceSearch.route = '/observationer/sog';
-// }
