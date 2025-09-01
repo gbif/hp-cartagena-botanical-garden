@@ -13,7 +13,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c">10000</span>
       description: Citations
       background: /assets/icons/citation.svg
-      href: /literature/search?publishingOrganizationKey=698acf43-05cd-4b45-8107-7c666d87f77c
+      href: /literature/search
     - title:  <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_org=698acf43-05cd-4b45-8107-7c666d87f77c&limit=0">10000</span>
       description: Datasets
       background: /assets/icons/data.svg
