@@ -1,156 +1,195 @@
-var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', 
-  extendWith: {
-    primary: themeStyle.colors.primary,
-    fontSize: '16px'
-  }
-});
-
 var siteConfig = {
-  version: 2,
-  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION', 'PUBLISHER', 'RESOURCE', 'LITERATURE'],
-  routes: {
-    enabledRoutes: [
-      'occurrenceSearch',
-      'datasetSearch',
-      'datasetKey',
-      'collectionKey',
-      'collectionSearch',
-      'publisherKey',
-      'publisherSearch',
-      'resourceSearch',
-      'resourceKey',
-      'literatureSearch'
-    ],
-    // Define ALL routes explicitly to avoid undefined errors
-    occurrenceSearch: {
-      route: '/specimen/search',
-      isHref: true
+  "version": 3,
+  "pages": [
+    {
+      "id": "occurrenceSearch",
+      "path": "specimen/search"
     },
-    datasetKey: {
-      route: '/dataset/:key',
-      isHref: true,
-      url: ({ key }) => `/dataset/${key}`
+    {
+      "id": "datasetSearch",
+      "path": "dataset/search"
     },
-    datasetSearch: {
-      route: '/dataset/search',
-      isHref: true
+    {
+      "id": "datasetKey",
+      "path": "dataset/:key"
     },
-    publisherKey: {
-      route: '/publisher/:key',
-      isHref: true,
-      url: ({ key }) => `/publisher/${key}`
+    {
+      "id": "collectionKey",
+      "path": "collection/:key"
     },
-    publisherSearch: {
-      route: '/publisher/search',
-      isHref: true
+    {
+      "id": "collectionSearch",
+      "path": "collection/search"
     },
-    collectionKey: {
-      route: '/collection/:key',
-      isHref: true,
-      url: ({ key }) => `/collection/${key}`
+    {
+      "id": "publisherKey",
+      "path": "publisher/:key"
     },
-    collectionSearch: {
-      route: '/collection/search',
-      isHref: true
+    {
+      "id": "publisherSearch",
+      "path": "publisher/search"
     },
-    collectionSpecimens: {
-      route: '/collection/:key/specimens',
-      isHref: true,
-      url: ({ key }) => `/collection/${key}/specimens`
+    {
+      "id": "resourceSearch",
+      "path": "resource/search"
     },
-    resourceKey: {
-      route: '/resource/:key',
-      isHref: true,
-      url: ({ key }) => `/resource/${key}`
+    {
+      "id": "resourceKey",
+      "path": "resource/:key"
     },
-    resourceSearch: {
-      route: '/resource/search',
-      isHref: true
-    },
-    literatureSearch: {
-      route: '/literature/search',
-      isHref: true
-    },
-    // Add these additional routes that might be used internally
-    occurrenceKey: {
-      route: '/specimen/:key',
-      isHref: true,
-      url: ({ key }) => `/specimen/${key}`
-    },
-    literatureKey: {
-      route: '/literature/:key',
-      isHref: true,
-      url: ({ key }) => `/literature/${key}`
-    },
-    institutionKey: {
-      route: '/institution/:key',
-      isHref: true,
-      url: ({ key }) => `/institution/${key}`
-    },
-    institutionSearch: {
-      route: '/institution/search',
-      isHref: true
+    {
+      "id": "literatureSearch",
+      "path": "literature/search"
     }
+  ],
+  "disableInlineTableFilterButtons": false,
+  "availableCatalogues": [
+    "OCCURRENCE",
+    "DATASET",
+    "COLLECTION",
+    "PUBLISHER",
+    "RESOURCE",
+    "LITERATURE"
+  ],
+  "dataHeader": {
+    "enableApiPopup": false,
+    "enableInfoPopup": false
   },
-  occurrence: {
-    mapSettings: {
-      lat: 4.359262324914326,
-      lng: -78.55825586583158,
-      zoom: 4.55655220372271
-    },
-    availableTableColumns: ['features', 'country', 'coordinates', 'year', 'catalogNumber', 'recordedBy', 'identifiedBy'],
-    rootPredicate: { 
-      type: 'equals', 
-      key: 'publishingOrg', 
-      value: '698acf43-05cd-4b45-8107-7c666d87f77c' 
-    },
-    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS']
+  "theme": {
+    "primary": themeStyle.colors.primary,
+    "borderRadius": 3,
+    "stickyOffset": "0px"
   },
-  dataset: {
-    rootFilter: {
-      publishingOrg: '698acf43-05cd-4b45-8107-7c666d87f77c'
-    },
-    highlightedFilters: ['q', 'datasetType', 'license'],
-    excludedFilters: ['publishingOrg']
-  },
-  publisher: {
-    highlightedFilters: ['q', 'country', 'name'],
-    excludedFilters: ['networkKey'],
-    rootFilter: {
-      key: '698acf43-05cd-4b45-8107-7c666d87f77c'
-    }
-  },
-  resource: {
-    rootFilter: {
-      publishingOrganizationKey: '698acf43-05cd-4b45-8107-7c666d87f77c'
-    },
-    highlightedFilters: ['q', 'license'],
-    excludedFilters: ['publishingOrganizationKey']
-  },
-  literature: {
-    rootFilter: {
-      predicate: {
-        type: 'equals',
-        key: 'publishingOrganizationKey',
-        value: '698acf43-05cd-4b45-8107-7c666d87f77c'
+  "maps": {
+    "locale": "en",
+    "mapStyles": {
+      "defaultProjection": "MERCATOR",
+      "defaultMapStyle": "BRIGHT",
+      "options": {
+        "ARCTIC": [
+          "NATURAL",
+          "BRIGHT"
+        ],
+        "PLATE_CAREE": [
+          "NATURAL",
+          "BRIGHT",
+          "DARK"
+        ],
+        "MERCATOR": [
+          "NATURAL",
+          "BRIGHT",
+          "DARK"
+        ],
+        "ANTARCTIC": [
+          "NATURAL",
+          "BRIGHT",
+          "DARK"
+        ]
       }
-    },
-    highlightedFilters: ['q', 'year', 'literatureType']
-  },
-  maps: {
-    locale: 'en',
-    defaultProjection: 'MERCATOR',
-    defaultMapStyle: 'BRIGHT',
-    mapStyles: {
-      ARCTIC: ['NATURAL', 'BRIGHT'],
-      PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
-      MERCATOR: ['NATURAL', 'BRIGHT', 'DARK'],
-      ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK']
     }
   },
-  messages: {
-    "catalogues.occurrences": "Specimens"
+  "languages": [
+    {
+      "code": "es",
+      "localeCode": "es",
+      "label": "Español",
+      "default": false,
+      "textDirection": "ltr",
+      "cmsLocale": "es",
+      "vocabularyLocale": "es-ES",
+      "iso3LetterCode": "spa",
+      "gbifOrgLocalePrefix": "/es",
+      "grSciCollLocalePrefix": "/es",
+      "mapTileLocale": "es"
+    },
+    {
+      "code": "en",
+      "localeCode": "en",
+      "label": "English",
+      "default": true,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "vocabularyLocale": "en",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    }
+  ],
+  "messages": {
+    "es": {
+      "catalogues.occurrences": "Specimens"
+    },
+    "en": {
+      "catalogues.occurrences": "Specimens"
+    }
+  },
+  "occurrenceSearch": {
+    "scope": {
+      "type": "equals",
+      "key": "publishingOrg",
+      "value": "698acf43-05cd-4b45-8107-7c666d87f77c"
+    },
+    "availableTableColumns": [
+      "features",
+      "country",
+      "coordinates",
+      "year",
+      "catalogNumber",
+      "recordedBy",
+      "identifiedBy"
+    ],
+    "tabs": [
+      "map",
+      "table",
+      "gallery",
+      "datasets",
+      "download"
+    ],
+    "mapSettings": {
+      "lat": 4.359262324914326,
+      "lng": -78.55825586583158,
+      "zoom": 4.55655220372271
+    }
+  },
+  "collectionSearch": {},
+  "institutionSearch": {},
+  "datasetSearch": {
+    "scope": {
+      "publishingOrg": "698acf43-05cd-4b45-8107-7c666d87f77c"
+    },
+    "highlightedFilters": [
+      "q",
+      "type",
+      "license"
+    ],
+    "excludedFilters": [
+      "publishingOrg"
+    ]
+  },
+  "publisherSearch": {
+    "scope": {
+      "key": "698acf43-05cd-4b45-8107-7c666d87f77c"
+    },
+    "highlightedFilters": [
+      "q",
+      "country",
+      "name"
+    ],
+    "excludedFilters": [
+      "networkKey"
+    ]
+  },
+  "literatureSearch": {
+    "scope": {
+      "type": "equals",
+      "key": "publishingOrganizationKey",
+      "value": "698acf43-05cd-4b45-8107-7c666d87f77c"
+    },
+    "highlightedFilters": [
+      "q",
+      "year",
+      "literatureType"
+    ]
   }
 };
 
@@ -159,6 +198,6 @@ var navbar = document.getElementById("navbar");
 
 // Check if the navigation bar element exists
 if (navbar) {
-    // Set the display property to "none" to hide the navigation bar
-    navbar.style.display = "none";
+  // Set the display property to "none" to hide the navigation bar
+  navbar.style.display = "none";
 }
