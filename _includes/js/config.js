@@ -40,7 +40,6 @@ var siteConfig = {
     "DATASET",
     "COLLECTION",
     "PUBLISHER",
-    "RESOURCE",
     "LITERATURE"
   ],
   "dataHeader": {
