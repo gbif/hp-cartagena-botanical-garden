@@ -30,14 +30,6 @@ var siteConfig = {
       "path": "publisher/search"
     },
     {
-      "id": "resourceSearch",
-      "path": "resource/search"
-    },
-    {
-      "id": "resourceKey",
-      "path": "resource/:key"
-    },
-    {
       "id": "literatureSearch",
       "path": "literature/search"
     }
