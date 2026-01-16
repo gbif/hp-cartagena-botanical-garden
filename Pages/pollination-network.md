@@ -36,7 +36,7 @@ Species such as the carpenter bee *Xylocopa frontalis* actively forage in search
 
 Other large bees, such as Eulaema meriana, as well as bees of the genus *Euglossa*, specialize in collecting floral fragrances, particularly from orchids. These compounds are used by males during courtship displays to attract suitable mates. Due to their size and strength, these bees tend to visit large, aromatic flowers capable of withstanding their characteristic and powerful buzzing, thereby facilitating pollen transfer.
 
-![image](assets/images/Butterfly.JGP)
+![image](assets/images/Butterfly.JPG)
 
 ## Butterflies
 

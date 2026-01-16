@@ -37,7 +37,7 @@ Especies como el abejorro carpintero *Xylocopa frontalis* forrajean activamente 
 
 Por su parte, abejorros como *Eulaema meriana*, al igual que las abejas del género *Euglossa*, se especializan en la recolección de aromas florales, especialmente de orquídeas. Estos compuestos son utilizados por los machos durante los rituales de cortejo para atraer a la pareja adecuada. Debido a su tamaño y fuerza, los abejorros suelen visitar flores grandes y aromáticas que pueden soportar su característico y potente zumbido, facilitando así la transferencia de polen.
 
-![image](assets/images/Butterfly.JGP)
+![image](assets/images/Butterfly.JPG)
 
 ## Mariposas
 
