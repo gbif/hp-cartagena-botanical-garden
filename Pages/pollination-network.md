@@ -52,5 +52,5 @@ In addition to the most popular pollinator, there are other less conspicuous org
 
 # The Network at The Garden
 
-[![image](assets/images/Pollination_thumbnail.jpg)]
+![image](assets/images/Pollination_thumbnail.jpg)
 
