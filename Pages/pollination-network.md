@@ -34,7 +34,7 @@ Like many birds, hummingbirds show peaks of activity during the early morning ho
 
 Species such as the carpenter bee *Xylocopa frontalis* actively forage in search of pollen, contributing to the pollination of various flowering plants. They are considered solitary bees, as each female is responsible for caring for her own offspring. However, they often exhibit gregarious behavior, building their nests in close proximity to one another in suitable wooden substrates.
 
-Other large bees, such as Eulaema meriana, as well as bees of the genus *Euglossa*, specialize in collecting floral fragrances, particularly from orchids. These compounds are used by males during courtship displays to attract suitable mates. Due to their size and strength, these bees tend to visit large, aromatic flowers capable of withstanding their characteristic and powerful buzzing, thereby facilitating pollen transfer.
+Other large bees, such as *Eulaema meriana*, as well as bees of the genus *Euglossa*, specialize in collecting floral fragrances, particularly from orchids. These compounds are used by males during courtship displays to attract suitable mates. Due to their size and strength, these bees tend to visit large, aromatic flowers capable of withstanding their characteristic and powerful buzzing, thereby facilitating pollen transfer.
 
 ![image](assets/images/Butterfly.JPG)
 
@@ -52,5 +52,5 @@ In addition to the most popular pollinator, there are other less conspicuous org
 
 # The Network at The Garden
 
-[![image](assets/images/Pollination_thumbnail.jpg)](https://drive.google.com/file/d/1UeS1dmgY9-QY8K7IK41OWuwLRlWl5jAw/view?usp=drive_link)
+[![image](assets/images/Pollination_thumbnail.jpg)]
 

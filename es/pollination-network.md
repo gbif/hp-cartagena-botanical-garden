@@ -53,8 +53,7 @@ Además de los polinizadores más visibles, existen otros organismos menos consp
 
 # La Red del Jardín
 
-[![image](/assets/images/Pollination_thumbnail.jpg)](https://drive.google.com/file/d/1UeS1dmgY9-QY8K7IK41OWuwLRlWl5jAw/view?usp=drive_link)
-
+[![image](/assets/images/Pollination_thumbnail.jpg)]
 
 
 
