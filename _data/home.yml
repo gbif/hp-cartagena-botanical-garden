@@ -118,6 +118,10 @@ Research:
     description: This project aims to conduct research on the origin and maintenance of biodiversity within an evolutionary systematic context. 
     background: assets/images/JBGP_00825.jpg
     href: /dataset/3d69045d-372c-455f-8663-0d815cff666f
+  - title: Pollination network
+    description: Our research on pollination networks explores the complex relationships between plants and pollinators in the Seasonally Dry Tropical Forests of Colombia. This information is crucial for developing management strategies for the long-term conservation of this ecosystem.
+    background: assets/images/Pollination_networks_1.jpg
+    href: /pollination-network
 
 
 

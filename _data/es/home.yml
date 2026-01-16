@@ -118,6 +118,10 @@ Research:
     description: Este proyecto tiene como objetivo el desarrollo de investigaciones sobre el origen y mantenimiento de la biodiversidad en un contexto sistemático evolutivo. Con base en estudios florísticos y faunísticos y de ecología de plantas, animales y sus interacciones principalmente, pero no limitados a la región Neotropical, reconocer sistemas biológicos adecuados para el estudio de evolución de la biota.  
     background: assets/images/JBGP_00825.jpg
     href: /es/dataset/3d69045d-372c-455f-8663-0d815cff666f
+  - title: Red de Polinizadores
+    description: Nuestra investigación sobre redes de polinización revela las complejas relaciones entre plantas y polinizadores en los Bosques Secos Tropicales de Colombia. Esta información es fundamental para desarrollar estrategias de manejo para la conservación a largo plazo de este ecosistema.
+    background: assets/images/Pollination_networks_1.jpg
+    href: /es/pollination-network
 
 #OccurenceMap: 
 #   klass: iframe-box
