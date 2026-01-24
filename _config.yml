@@ -35,6 +35,7 @@ github_username:  yourname # if you have an account you want to link to. Else co
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 remote_theme: gbif/jekyll-hp-base-theme
 
