@@ -6,6 +6,9 @@ klass: home
 title: Threatened Species
 description:
 background: /assets/images/threatened-species/Franklinia_01.jpg
+cta:
+- text: Explore ocurrences
+  href: /dataset/815b32f5-cfac-4d2b-9aa0-7c4822facc10
 hasTextShadow: true
 height: 80vh
 parallax: true
